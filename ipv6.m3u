@@ -234,8 +234,10 @@ http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 http://66.165.240.154:8080/live/slxw02/hls.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET2.png" group-title="港澳台频道",三立新闻
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台频道",无线新闻
+#EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台频道",TVB无线新闻
 http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Startv.png" group-title="港澳台频道",星空卫视
+http://171.221.58.141:4000/udp/239.93.0.156:2193
 
 
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
