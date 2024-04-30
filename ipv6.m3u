@@ -176,8 +176,6 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan8.png" group-title="数字频道",峨眉电影
 http://118.114.96.20:8889/udp/239.93.0.252:5140
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="数字频道",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字频道",五星体育
