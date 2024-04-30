@@ -244,8 +244,6 @@ http://66.165.240.154:8080/live/slxw01/hls.m3u8
 http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Startv.png" group-title="港澳台频道",星空卫视
 http://171.88.21.15:8888/udp/239.93.0.156:2193
-#EXTINF:-1 tvg-id="TVBS J2" tvg-name="TVBS J2" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB3.png" group-title="港澳台频道",TVBS J2
-http://nz189l149.bb27109.ctm.net:8892/bysid/82
 
 
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
