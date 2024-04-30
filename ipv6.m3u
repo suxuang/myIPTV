@@ -304,11 +304,11 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 
 
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV04.png" group-title="NewTV频道",古装剧场
+#EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="newtv古装剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV04.png" group-title="NewTV频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV03.png" group-title="NewTV频道",动作电影
+#EXTINF:-1 tvg-id="newtv动作电影" tvg-name="newtv动作电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV03.png" group-title="NewTV频道",动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV08.png" group-title="NewTV频道",农业致富
+#EXTINF:-1 tvg-id="newtv农业致富" tvg-name="newtv农业致富" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV08.png" group-title="NewTV频道",农业致富
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225552/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV22.png" group-title="NewTV频道",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -326,6 +326,8 @@ http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV10.png" group-title="NewTV频道",惊悚悬疑
 http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV17.png" group-title="NewTV频道",爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV15.png" group-title="NewTV频道",潮妈辣婆
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV18.png" group-title="NewTV频道",精品体育
