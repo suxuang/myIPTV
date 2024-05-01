@@ -234,6 +234,8 @@ http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港澳台频道",台视新闻
+http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港澳台频道",中天新闻
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台频道",民视新闻
