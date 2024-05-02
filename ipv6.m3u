@@ -252,9 +252,11 @@ http://66.165.240.154:8080/live/slxw02/hls.m3u8
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
 #EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台频道",TVB无线新闻
 http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
+#EXTINF:-1 tvg-id="TVB无线星河" tvg-name="TVB无线星河" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台频道",TVB无线星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳台频道",星空卫视
 http://171.88.21.15:8888/udp/239.93.0.156:2193
-#EXTINF:-1 tvg-id="星光综合台" tvg-name="星光综合台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/星光综合台.png" group-title="港澳台频道",星光综合台
+#EXTINF:-1 tvg-id="星光综合" tvg-name="星光综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/星光综合台.png" group-title="港澳台频道",星光综合
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
 
