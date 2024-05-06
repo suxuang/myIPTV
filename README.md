@@ -1,7 +1,7 @@
 # myIPTV
-个人爱好收集于互联网的一些高清直播源
+【典藏版】高清直播源涵盖几乎所有卫视节目，完美台标加节目预告
 
-如果喜欢请给我一颗小星星，我会不断收集并完善，有问题请留言，PS：部分高清直播源需开启IPV6
+如果喜欢请给一颗小星星，会不断收集并完善，有问题请留言，PS：部分高清直播源需开启IPV6
 
 #订阅地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 
