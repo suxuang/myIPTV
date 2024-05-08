@@ -542,6 +542,15 @@ https://tv.iill.top/huya/23734256
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆",埋堆堆26
 https://tv.iill.top/huya/23749083
 
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",周星驰
+https://www.goodiptv.club/huya/11352965
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",新三国演义
+https://www.goodiptv.club/huya/11352944
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",新水浒传
+https://www.goodiptv.club/huya/11342384
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",神探狄仁杰
+https://www.goodiptv.club/douyu/10120371
+
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNN.png" group-title="国际频道",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BBC1.png" group-title="国际频道",BBC
