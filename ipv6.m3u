@@ -221,9 +221,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
 #EXTINF:-1 tvg-id="茶友频道" tvg-name="茶友频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字频道",茶友频道
-http://tvbox.netsite.cc/proxy/1322311734/1322311734.m3u8
+http://183.153.89.133:1521/rtp/233.50.201.188:5140
+#http://tvbox.netsite.cc/proxy/1322311734/1322311734.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://tvbox.netsite.cc/proxy/316113716/316113716.m3u8
+http://183.153.89.133:1521/rtp/233.50.201.109:5140
+#http://tvbox.netsite.cc/proxy/316113716/316113716.m3u8
 #EXTINF:-1 tvg-id="乐游频道" tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游频道
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="数字频道",文物宝库
@@ -254,6 +256,10 @@ http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
 http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
 http://113.64.145.61:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文HD" tvg-name="凤凰中文HD" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文HD
+http://183.153.89.133:1521/rtp/233.50.200.191:5140
+#EXTINF:-1 tvg-id="凤凰资讯HD" tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯HD
+http://183.153.89.133:1521/rtp/233.50.200.192:5140
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台频道",澳视澳门
