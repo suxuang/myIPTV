@@ -273,7 +273,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港澳台频道",中天新闻
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台频道",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/三立新闻.png" group-title="港澳台频道",三立新闻
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
 #EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台频道",TVB无线新闻
