@@ -1,9 +1,9 @@
 # 【典藏版】高清直播源涵盖几乎所有卫视节目，完美台标加节目预告
 
-## 订阅地址
+## 📺订阅地址
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 
-## 📖说明
+## 📖项目说明
 
 所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
 
