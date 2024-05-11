@@ -568,13 +568,13 @@ https://www.goodiptv.club/huya/11342396
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNN.png" group-title="国际频道",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BBC1.png" group-title="国际频道",BBC
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/BBCNEWS.png" group-title="国际频道",BBC
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际频道",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://live.fanmingming.com/tv/NBC.png" group-title="国际频道",NBC News Now
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/NBC.png" group-title="国际频道",NBC News Now
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SkyNews.png" group-title="国际频道",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
