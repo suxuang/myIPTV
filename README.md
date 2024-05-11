@@ -1,14 +1,17 @@
 # 【典藏版】高清直播源涵盖几乎所有卫视节目，完美台标加节目预告
 
-
-如果喜欢请给一颗小星星，会不断收集并完善，有问题请留言，PS：部分高清直播源需开启IPV6
-
-## 订阅地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+## 订阅地址
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 
 ## 📖说明
+
 所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
 
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
+
+如果喜欢请给一颗小星星，将持续收集并完善。
+
+PS：部分高清直播源需开启IPV6访问权限，自行百度方法
 
 ## 🆕更新日志
 
