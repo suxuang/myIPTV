@@ -226,10 +226,10 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
 http://1.70.32.171:8083/udp/239.1.1.75:8075
 #EXTINF:-1 tvg-id="茶友频道" tvg-name="茶友频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字频道",茶友频道
-http://183.153.89.133:1521/rtp/233.50.201.188:5140
+http://171.125.90.217:8000/rtp/226.0.2.213:9616
 #http://tvbox.netsite.cc/proxy/1322311734/1322311734.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://183.153.89.133:1521/rtp/233.50.201.109:5140
+http://171.125.90.217:8000/rtp/226.0.2.214:9624
 #http://tvbox.netsite.cc/proxy/316113716/316113716.m3u8
 #EXTINF:-1 tvg-id="乐游频道" tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游频道
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
