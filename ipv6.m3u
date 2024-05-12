@@ -405,7 +405,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/in
 #EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="BRTV体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方频道",BRTV体育休闲
 http://114.245.191.147:10000/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BRTV国际频道" tvg-name="BRTV国际频道" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing11.png" group-title="地方频道",BRTV国际频道
-http://183.242.49.77:8787/live/BTV国际/index.m3u8
+http://114.245.191.147:10000/rtp/239.3.1.235:8000
 
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方频道",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
