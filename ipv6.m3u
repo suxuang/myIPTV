@@ -224,6 +224,8 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字频道",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="SH07" tvg-name="新视觉" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/xsj.png" group-title="地方特色",新视觉
+http://php.jdshipin.com:8880/bst.php?id=xsj&$1920x1080
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
 http://1.70.32.171:8083/udp/239.1.1.75:8075
 #EXTINF:-1 tvg-id="乐游频道" tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游频道
@@ -403,10 +405,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="BRTV卡酷少儿" tvg-name="BRTV卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方频道",BRTV卡酷少儿
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
 #EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="BRTV体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方频道",BRTV体育休闲
-http://114.245.191.147:10000/rtp/239.3.1.243:8000
+http://114.254.84.178:2222/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BRTV国际频道" tvg-name="BRTV国际频道" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing11.png" group-title="地方频道",BRTV国际频道
-http://114.245.191.147:10000/rtp/239.3.1.235:8000
+http://183.242.49.77:8787/live/BTV国际/index.m3u8
 
+#上海/8个频道
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方频道",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方频道",五星体育
