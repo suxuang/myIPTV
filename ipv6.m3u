@@ -313,6 +313,8 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
 #EXTINF:-1 tvg-id="NX03" tvg-name="宁夏少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/ningxia/Ningxia3.png" group-title="动画频道",宁夏少儿
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+#EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng5.png" group-title="地方频道",内蒙古少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 
 #EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot01.png" group-title="IHOT频道",iHOT爱院线
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
@@ -395,23 +397,23 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 #北京/9个频道
 #EXTINF:-1 tvg-id="BRTV新闻" tvg-name="BRTV新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方频道",BRTV新闻
-http://183.242.49.77:8787/live/BTV新闻/index.m3u8
+http://114.246.183.121:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="BRTV影视" tvg-name="BRTV影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="地方频道",BRTV影视
-http://183.242.49.77:8787/live/BTV影视/index.m3u8
+http://114.246.183.121:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="BRTV文艺" tvg-name="BRTV文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方频道",BRTV文艺
-http://183.242.49.77:8787/live/BTV文艺/index.m3u8
+http://114.246.183.121:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BRTV财经" tvg-name="BRTV财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="地方频道",BRTV财经
-http://183.242.49.77:8787/live/BTV财经/index.m3u8
+http://114.246.183.121:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="地方频道",BRTV生活
-http://183.242.49.77:8787/live/BTV生活/index.m3u8
+http://114.246.183.121:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",BRTV纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="BRTV卡酷少儿" tvg-name="BRTV卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方频道",BRTV卡酷少儿
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
 #EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="BRTV体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方频道",BRTV体育休闲
-http://183.242.49.77:8787/live/BTV体育/index.m3u8
+http://114.246.183.121:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BRTV国际频道" tvg-name="BRTV国际频道" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing11.png" group-title="地方频道",BRTV国际频道
-http://183.242.49.77:8787/live/BTV国际/index.m3u8
+http://114.246.183.121:4022/rtp/239.3.1.235:8000
 
 #上海/8个频道
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方频道",纪实人文
@@ -528,19 +530,18 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 #江苏/6个频道
-#EXTINF:-1 tvg-id="JS07" tvg-name="江苏新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu1.png" group-title="地方特色",江苏新闻
+#EXTINF:-1 tvg-id="JS07" tvg-name="江苏新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu1.png" group-title="地方频道",江苏新闻
 http://20240504.shunyue1809.com:6321/udp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu2.png" group-title="地方特色",江苏城市
+#EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu2.png" group-title="地方频道",江苏城市
 http://20240504.shunyue1809.com:6321/udp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="JS02" tvg-name="江苏综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu3.png" group-title="地方特色",江苏综艺
+#EXTINF:-1 tvg-id="JS02" tvg-name="江苏综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu3.png" group-title="地方频道",江苏综艺
 http://20240504.shunyue1809.com:6321/udp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="JS03" tvg-name="江苏影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu4.png" group-title="地方特色",江苏影视
+#EXTINF:-1 tvg-id="JS03" tvg-name="江苏影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu4.png" group-title="地方频道",江苏影视
 http://20240504.shunyue1809.com:6321/udp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="JS04" tvg-name="江苏教育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu7.png" group-title="地方特色",江苏教育
+#EXTINF:-1 tvg-id="JS04" tvg-name="江苏教育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu7.png" group-title="地方频道",江苏教育
 http://20240504.shunyue1809.com:6321/udp/239.49.8.122:8000
-#EXTINF:-1 tvg-id="JS05" tvg-name="江苏体育休闲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu5.png" group-title="地方特色",江苏体育休闲
+#EXTINF:-1 tvg-id="JS05" tvg-name="江苏体育休闲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu5.png" group-title="地方频道",江苏体育休闲
 http://20240504.shunyue1809.com:6321/udp/239.49.8.117:8000
-
 
 #黑龙江/6个频道
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻法治" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang1.png" group-title="地方频道",黑龙江新闻法治
@@ -569,16 +570,16 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 
 #内蒙古/5个频道
-#EXTINF:-1 tvg-id="NM02" tvg-name="内蒙古新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng1.png" group-title="地方特色",内蒙古新闻综合
+#EXTINF:-1 tvg-id="NM02" tvg-name="内蒙古新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng1.png" group-title="地方频道",内蒙古新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 tvg-id="NM03" tvg-name="内蒙古经济生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng3.png" group-title="地方特色",内蒙古经济生活
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-#EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng5.png" group-title="地方特色",内蒙古少儿频道
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 tvg-id="NM05" tvg-name="内蒙古文体娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng2.png" group-title="地方特色",内蒙古文体娱乐
+#EXTINF:-1 tvg-id="NM05" tvg-name="内蒙古文体娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng2.png" group-title="地方频道",内蒙古文体娱乐
 https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-#EXTINF:-1 tvg-id="NM06" tvg-name="内蒙古农牧频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng4.png" group-title="地方特色",内蒙古农牧频道
+#EXTINF:-1 tvg-id="NM03" tvg-name="内蒙古经济生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng3.png" group-title="地方频道",内蒙古经济生活
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+#EXTINF:-1 tvg-id="NM06" tvg-name="内蒙古农牧频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng4.png" group-title="地方频道",内蒙古农牧
 https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+#EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng5.png" group-title="地方频道",内蒙古少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 
 
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆",楚汉骄雄
