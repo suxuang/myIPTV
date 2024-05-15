@@ -185,10 +185,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K"  tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/ah4k.png" tvg-logo="" group-title="数字频道",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="漫威电影" tvg-name="漫威电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/漫威电影.png" group-title="数字频道",漫威电影
-https://tv.iill.top/douyu/6140589
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道",求索科学
@@ -197,8 +193,10 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道",求索动物
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/BesTV.png" group-title="数字频道",华语影院
-http://222.212.14.196:8000/udp/239.93.0.138:5140
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-id="漫威电影" tvg-name="漫威电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/漫威电影.png" group-title="数字频道",漫威电影
+https://www.goodiptv.club/douyu/6140589
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/sichuan/Sichuan8.png" group-title="数字频道",峨眉电影
@@ -641,7 +639,9 @@ https://www.goodiptv.club/huya/11342412
 https://www.goodiptv.club/huya/11352944
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",新水浒传
 https://www.goodiptv.club/huya/11342384
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",神探狄仁杰
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",神探狄仁杰轮播
+https://www.goodiptv.club/douyu/3395113
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",神探狄仁杰3
 https://www.goodiptv.club/huya/11342425
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",爱情公寓
 https://www.goodiptv.club/huya/11336726
@@ -649,6 +649,15 @@ https://www.goodiptv.club/huya/11336726
 https://www.goodiptv.club/huya/11342403
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",铁齿铜牙纪晓岚
 https://www.goodiptv.club/huya/11342396
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",士兵突击
+https://www.goodiptv.club/huya/11342430
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",康熙王朝
+https://www.goodiptv.club/huya/11352940
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",鬼吹灯之精绝古城
+https://www.goodiptv.club/huya/11352871
+
+
+
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNN.png" group-title="国际频道",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
