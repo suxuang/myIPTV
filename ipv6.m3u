@@ -54,13 +54,13 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVfyyy.png" group-title="央视频道",CCTV-风云音乐
 http://110.178.52.119:8084/udp/239.1.1.96:8096
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVfyjc.png" group-title="央视频道",CCTV-风云剧场
-http://110.178.52.119:8084/udp/239.1.1.93:8093
+http://218.67.180.251:8888/udp/225.1.2.174:5002
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVhjjc.png" group-title="央视频道",CCTV-怀旧剧场
 http://110.178.52.119:8084/udp/239.1.1.95:8095
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVwhjp.png" group-title="央视频道",CCTV-文化精品
 http://110.178.52.119:8084/udp/239.1.1.91:8091
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVnxss.png" group-title="央视频道",CCTV-女性时尚
-http://110.178.52.119:8084/udp/239.1.1.89:8089
+http://218.67.180.251:8888/udp/225.1.2.172:5002
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVdszn.png" group-title="央视频道",CCTV-电视指南
 http://110.178.52.119:8084/udp/239.1.1.90:8090
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1 综合教育
