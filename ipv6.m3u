@@ -200,7 +200,8 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="漫威电影" tvg-name="漫威电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/漫威电影.png" group-title="数字频道",漫威电影
-http://43.138.170.29:35455/douyu/6140589
+http://live.iill.top/douyu.php?id=6140589
+#http://43.138.170.29:35455/douyu/6140589
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/sichuan/Sichuan8.png" group-title="数字频道",峨眉电影
@@ -664,7 +665,7 @@ http://live.iill.top/huya.php?id=26355864
 https://www.goodiptv.club/huya/11352944
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",新水浒传
 https://www.goodiptv.club/huya/11342384
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",神探狄仁杰第三部
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视剧",神探狄仁杰第三部
 https://www.goodiptv.club/huya/11342425
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",爱情公寓
 https://www.goodiptv.club/huya/11336726
@@ -678,7 +679,7 @@ https://www.goodiptv.club/huya/11342430
 https://www.goodiptv.club/huya/11352940
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",鬼吹灯之精绝古城
 https://www.goodiptv.club/huya/11352871
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧",神探狄仁杰轮播
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰.png" group-title="电视剧",神探狄仁杰轮播
 http://live.iill.top/douyu.php?id=3395113
 #http://43.138.170.29:35455/douyu/3395113
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="电视剧",少年包青天
