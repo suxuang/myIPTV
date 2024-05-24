@@ -332,6 +332,12 @@ rtmp://f13h.mine.nu/sat/tv771
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="港澳台频道",纬来体育
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 tvg-name="大爱1台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Daai1.png" group-title="港澳台频道",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Daai2.png" group-title="港澳台频道",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="大立电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png" group-title="港澳台频道",大立电视台  
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 
 
@@ -738,7 +744,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="国际频道",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道",日本全天新闻
+#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="" group-title="国际频道",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://live.fanmingming.com/tv/TRT-World.png" group-title="国际频道",TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
