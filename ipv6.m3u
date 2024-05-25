@@ -726,8 +726,10 @@ http://live.iill.top/douyu.php?id=3395113
 http://live.iill.top/yy.php?id=38498680
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/dianshiju/伪装者.png" group-title="电视剧",伪装者
 http://43.138.170.29:35455/yy/1354936244
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/dianshiju/雪豹.png" group-title="电视剧",雪豹
+http://43.138.170.29:35455/douyu/3337730
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/dianshiju/天龙八部.png" group-title="电视剧",天龙八部
-http://43.138.170.29:35455/huya/29560227
+http://43.138.170.29:35455/douyu/9285904
 
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
