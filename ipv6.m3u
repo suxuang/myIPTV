@@ -732,6 +732,10 @@ http://live.iill.top/yy.php?id=1354936244
 http://live.iill.top/douyu.php?id=3337730
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png" group-title="电视剧",天龙八部
 http://live.iill.top/douyu.php?id=9285904
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png" group-title="电视剧",西游记后传
+https://live.metshop.top/yy/1353392400
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/隋唐英雄传.png" group-title="电视剧",隋唐英雄传
+https://lunbo.freetv.top/yy/1352475619
 
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
