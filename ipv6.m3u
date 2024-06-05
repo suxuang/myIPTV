@@ -691,14 +691,23 @@ https://tv.iill.top/huya/23734256
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆",埋堆堆26
 https://tv.iill.top/huya/23749083
 
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电影",周星驰电影
-https://www.goodiptv.club/huya/11342412
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电影",林正英电影
-https://www.goodiptv.club/huya/11342421
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/漫威电影2.png" group-title="电影",漫威系列电影
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/漫威电影2.png" group-title="电影",漫威电影
 http://live.iill.top/douyu.php?id=12095114
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电影",金庸武侠
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",周星驰电影
+https://www.goodiptv.club/huya/11342412
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",林正英电影
+https://www.goodiptv.club/huya/11342421
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",李连杰电影
+https://www.goodiptv.club/huya/11342390
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",沈腾电影
+https://www.goodiptv.club/huya/11601968
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",金庸武侠
 https://www.goodiptv.club/huya/11342435
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",功夫电影
+https://www.goodiptv.club/huya/11352941
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",贺岁电影
+https://www.goodiptv.club/huya/11601986
+
 
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧",延禧攻略
 http://live.iill.top/huya.php?id=26355864
@@ -725,13 +734,10 @@ http://live.iill.top/douyu.php?id=3395113
 #http://43.138.170.29:35455/douyu/3395113
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧",少年包青天轮播
 http://live.iill.top/yy.php?id=487126
-#http://live.iill.top/yy.php?id=38498680
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视剧",笑傲江湖
 http://live.iill.top/douyu.php?id=11741883
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧",伪装者
 http://live.iill.top/yy.php?id=1354936244
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视剧",雪豹
-http://live.iill.top/douyu.php?id=3337730
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png" group-title="电视剧",天龙八部
 http://live.iill.top/douyu.php?id=9285904
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png" group-title="电视剧",西游记后传
