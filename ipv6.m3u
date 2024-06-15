@@ -370,7 +370,7 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b
 #EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="动画频道",七龙珠
 http://live.iill.top/huya.php?id=11601966
 #EXTINF:-1 tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="动画频道",灌篮高手
-http://43.138.170.29:35455/yy/1382735626
+http://live.iill.top/yy.php?id=1382735626
 
 #EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot01.png" group-title="IHOT频道",iHOT爱院线
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
@@ -752,6 +752,8 @@ http://live.iill.top/yy.php?id=1382749903
 http://live.iill.top/douyu.php?id=3113309
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视剧",神雕侠侣
 http://live.iill.top/huya.php?id=11352964
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧",我是特种兵之利刃出鞘
+http://live.iill.top/yy.php?id=18600
 
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
