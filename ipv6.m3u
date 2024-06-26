@@ -726,6 +726,8 @@ https://www.goodiptv.club/huya/11352940
 https://www.goodiptv.club/huya/11352871
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png" group-title="电视剧",鬼吹灯之怒晴湘西
 https://www.goodiptv.club/huya/11602075
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="电视剧",鬼吹灯之龙岭迷窟
+https://www.goodiptv.club/huya/29465863
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png" group-title="电视剧",鬼吹灯之云南虫谷
 https://www.goodiptv.club/huya/11352898
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰.png" group-title="电视剧",神探狄仁杰轮播
@@ -733,7 +735,7 @@ http://live.iill.top/douyu.php?id=3395113
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧",少年包青天轮播
 http://live.iill.top/yy.php?id=487126
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视剧",笑傲江湖
-http://live.iill.top/douyu.php?id=11741883
+http://live.iill.top/douyu.php?id=26355790
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧",伪装者
 http://live.iill.top/yy.php?id=1354936244
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png" group-title="电视剧",天龙八部
@@ -750,12 +752,12 @@ http://live.iill.top/douyu.php?id=3113309
 http://live.iill.top/huya.php?id=11352964
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧",我是特种兵
 http://live.iill.top/yy.php?id=442410
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧",我是特种兵2
-http://live.iill.top/yy.php?id=11419
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧",我是特种兵之利刃出鞘
+http://live.iill.top/yy.php?id=18600
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧",狂飙
 http://live.iill.top/yy.php?id=17981
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png" group-title="电视剧",陈情令
-http://live.iill.top/yy.php?id=1382745121
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视剧",雪豹
+http://live.iill.top/huya.php?id=29920656
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
