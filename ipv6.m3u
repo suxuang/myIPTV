@@ -458,15 +458,15 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 #北京/9个频道
 #EXTINF:-1 tvg-id="BRTV新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方频道",BRTV新闻
-http://114.246.183.121:4022/rtp/239.3.1.159:8000
+http://114.246.102.14:4000/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="BRTV影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="地方频道",BRTV影视
-http://114.246.183.121:4022/rtp/239.3.1.158:8000
+http://114.246.102.14:4000/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="BRTV文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方频道",BRTV文艺
-http://114.246.183.121:4022/rtp/239.3.1.242:8000
+http://114.246.102.14:4000/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BRTV财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="地方频道",BRTV财经
-http://114.246.183.121:4022/rtp/239.3.1.116:8000
+http://114.246.102.14:4000/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="BRTV生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="地方频道",BRTV生活
-http://114.246.183.121:4022/rtp/239.3.1.117:8000
+http://114.246.102.14:4000/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",BRTV纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="BRTV卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方频道",BRTV卡酷少儿
