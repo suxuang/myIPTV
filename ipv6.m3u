@@ -64,14 +64,17 @@ http://218.67.180.251:8888/udp/225.1.2.172:5002
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVdszn.png" group-title="央视频道",CCTV-电视指南
 http://110.178.52.119:8084/udp/239.1.1.90:8090
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1 综合教育
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+http://hwylivehd.centv.cn/cetv1/ypd.m3u8
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频道",CETV-2 空中课堂
-http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 #EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="央视频道",CETV-3 教育服务
-http://61.51.141.145:8888/rtp/239.3.1.55:4120
+http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 #http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频道",CETV-4 职业教育
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1 tvg-id="CGTN新闻" tvg-name="CGTN新闻" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN-新闻
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 #http://live.cgtn.com/1000/prog_index.m3u8
