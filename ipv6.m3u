@@ -160,7 +160,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
+#http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
+http://[2409:8087:1a0a:df::4039]/wh7f454c46tw2710545171_1093384597/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8?icpid=88888888&RTS=1713110546&from=4&hms_devid=1212&online=1713110546&vqe=3
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
