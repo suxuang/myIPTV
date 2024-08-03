@@ -747,8 +747,12 @@ http://live.iill.top/huya.php?id=23865058
 http://live.iill.top/huya.php?id=11342412
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",林正英电影
 http://live.iill.top/huya.php?id=11342421
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",古天乐电影
+http://live.iill.top/huya.php?id=29982675
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",李连杰电影
 http://live.iill.top/huya.php?id=11342390
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",狄仁杰系列
+http://live.iill.top/huya.php?id=30080229
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",沈腾电影
 http://live.iill.top/huya.php?id=11601968
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",金庸武侠
@@ -812,7 +816,10 @@ http://live.iill.top/yy.php?id=18600
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧",狂飙
 http://live.iill.top/yy.php?id=17981
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视剧",雪豹
-http://live.iill.top/huya.php?id=29920656
+http://live.iill.top/huya.php?id=29580970
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png" group-title="电视剧",陈情令
+http://live.iill.top/huya.php?id=29465862
+
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
