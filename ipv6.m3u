@@ -215,10 +215,6 @@ http://live.iill.top/douyu.php?id=6140589
 #http://43.138.170.29:35455/douyu/6140589
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/sichuan/Sichuan8.png" group-title="数字频道",峨眉电影
-http://118.114.168.57:8888/udp/239.93.0.252:5140
-EXTINF:-1 tvg-id="纪实科教8K" tvg-name="纪实科教8K" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing9.png" group-title="数字频道",纪实科教8K
-http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="数字频道",足球频道
@@ -240,6 +236,8 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
+#EXTINF:-1 tvg-id="纪实科教8K" tvg-name="纪实科教8K" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing9.png" group-title="数字频道",纪实科教8K
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
