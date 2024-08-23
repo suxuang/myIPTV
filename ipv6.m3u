@@ -592,15 +592,15 @@ https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 
 #甘肃/5个频道
 #EXTINF:-1 tvg-id="GS01" tvg-name="甘肃经济" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu2.png" group-title="地方频道",甘肃经济
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
+https://hls.gstv.com.cn/49048r/10iv1j.m3u8
 #EXTINF:-1 tvg-id="GS02" tvg-name="甘肃公共应急" tvg-logo="https://upload.112114.xyz/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png" group-title="地方频道",甘肃公共应急
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000325/index.m3u8?
+https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
 #EXTINF:-1 tvg-id="GS03" tvg-name="甘肃都市" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu1.png" group-title="地方频道",甘肃都市
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8?
+https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 tvg-id="GS04" tvg-name="甘肃少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu4.png" group-title="地方频道",甘肃少儿
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
+https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-id="GS05" tvg-name="甘肃文化影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu3.png" group-title="地方频道",甘肃文化影视
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
+https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
 
 #湖北/7个频道
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei1.png" group-title="地方频道",湖北综合
