@@ -571,6 +571,8 @@ http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #四川/8个频道
 #EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan3.png" group-title="地方频道",四川新闻
 http://182.138.160.221:8999/udp/239.93.0.47:5140
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan8.png" group-title="地方频道",峨眉电影
+http://182.138.160.221:8999/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan4.png" group-title="地方频道",四川影视文艺
 http://182.138.160.221:8999/udp/239.93.0.166:5140
 #EXTINF:-1 tvg-name="四川经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan1.png" group-title="地方频道",四川经济
