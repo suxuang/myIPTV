@@ -355,11 +355,11 @@ https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e3
 
 #电影频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC4.png" group-title="电影频道",CHC影迷电影
-http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 #EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC2.png" group-title="电影频道",CHC家庭影院
-http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC3.png" group-title="电影频道",CHC动作电影
-http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 #EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan8.png" group-title="电影频道",峨眉电影
 http://wouu.net:9977/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-name="力量影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="电影频道",1905电影
