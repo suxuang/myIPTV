@@ -19,11 +19,10 @@ PS：部分高清直播源需开启IPV6访问权限，自行百度方法
 
 ## 🎬IPTV播放器
 
-推荐播放软件：
-电脑端：PotPlayer
-安卓/TV端：DIYP影音、TiviMate、Televizo
-IOS端：zFuse、APTV  
-首选播放软件推荐：
+- 推荐播放软件：
+电脑端：PotPlayer 安卓/TV端：DIYP影音、TiviMate、Televizo IOS端：zFuse、APTV
+
+- 首选播放软件推荐：
 安卓TV端：TiviMate （遇断流或者网络卡顿会自动刷新重载，播放非常稳定，解码强，支持epg和回看功能，支持每个频道单独设置不同的画面比例）
 IOS端：APTV （免费版可使用一套配置，支持epg和回看功能）
 
