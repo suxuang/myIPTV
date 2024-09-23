@@ -901,7 +901,7 @@ https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NHKWorld.png" group-title="国际频道",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/tvlog/img/NBC1.png" group-title="国际频道",NBC News Now
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/NBC1.png" group-title="国际频道",NBC News Now
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SkyNews.png" group-title="国际频道",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
