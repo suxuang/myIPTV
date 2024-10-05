@@ -893,6 +893,8 @@ http://live.iill.top/yy.php?id=17981
 https://www.goodiptv.club/huya/29580970
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png" group-title="电视剧轮播",陈情令
 https://www.goodiptv.club/huya/29465862
+#EXTINF:-1 group-title="电视剧轮播",知否知否应是绿肥红瘦
+https://lunbo.freetv.top/yy/21881901
 
 #国际频道
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
