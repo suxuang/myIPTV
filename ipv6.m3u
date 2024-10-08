@@ -357,12 +357,9 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" group-title="港澳台频道",人间卫视
 https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
-#EXTINF:-1 tvg-id="面包台" tvg-name="面包台" tvg-logo="https://live.fanmingming.com/tv/面包台.png" group-title="港澳台频道",面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://live.fanmingming.com/tv/点掌财经.png" group-title="港澳台频道",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台.png" group-title="港澳台频道",TVBS欢乐台
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
 http://litv.zapi.us.kg/?id=4gtv-4gtv068
 #EXTINF:-1 tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://live.fanmingming.com/tv/番薯台.png" group-title="港澳台频道",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -905,81 +902,81 @@ http://live.iill.top/huya.php?id=29465862
 #EXTINF:-1 group-title="电视剧轮播",知否知否应是绿肥红瘦
 http://live.iill.top/yy.php?id=21881901
 
-#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1983年春晚
+#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1983年春晚
 http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1984年春晚
+#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1984年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1985年春晚
+#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1985年春晚
 http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1986年春晚
+#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1986年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1987年春晚
+#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1987年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1988年春晚
+#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1988年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1989年春晚
+#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1989年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1992年春晚
+#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1992年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1993年春晚
+#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1993年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1994年春晚
+#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1994年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1995年春晚
+#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1995年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1996年春晚
+#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1996年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1997年春晚
+#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1997年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1998年春晚
+#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1998年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",1999年春晚
+#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1999年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2000年春晚
+#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2000年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2001年春晚
+#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2001年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2002年春晚
+#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2002年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2003年春晚
+#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2003年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2004年春晚
+#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2004年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2005年春晚
+#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2005年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2006年春晚
+#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2006年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2007年春晚
+#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2007年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2008年春晚
+#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2008年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2009年春晚
+#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2009年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2010年春晚
+#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2010年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2011年春晚
+#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2011年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2012年春晚
+#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2012年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2013年春晚
+#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2013年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2014年春晚
+#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2014年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2015年春晚
+#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2015年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2016年春晚
+#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2016年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2017年春晚
+#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2017年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2018年春晚
+#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2018年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2019年春晚
+#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2019年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2020年春晚
+#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2020年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2021年春晚
+#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2021年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚频道",2022年春晚
+#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2022年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
 
 #国际频道
