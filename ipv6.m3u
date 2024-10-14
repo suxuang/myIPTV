@@ -194,6 +194,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010112/1.m3u8
 http://origin.lean.org.cn:4000/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-name="第一卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/oneTV.png" group-title="卫视频道",第一卫视
 http://play2.one-tv.com/live/onetv.m3u8
+#EXTINF:-1 tvg-name="亚洲卫视" group-title="卫视频道",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 
 
 #数字频道
@@ -289,6 +291,8 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港环球卫视" group-title="港澳台频道",香港环球卫视
+rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-1a56ccd327477eb45e7da54c8be2a6b5
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台频道",澳视澳门
 http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Aoya.png" group-title="港澳台频道",澳亚卫视
@@ -298,7 +302,7 @@ http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台频道",TVB无线新闻
 http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台频道",TVB无线星河
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVB娱乐新闻台.jpg" group-title="港澳台频道",TVB娱乐新闻
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台
@@ -331,14 +335,18 @@ https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台频道",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港澳台频道",台视新闻
-#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
+#https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
+https://litv.zapi.us.kg/?id=4gtv-4gtv051
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港澳台频道",中天新闻
-http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+https://litv.zapi.us.kg/?id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台频道",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+https://litv.zapi.us.kg/?id=litv-ftv13
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="港澳台频道",华视新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="港澳台频道",中视新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png" group-title="港澳台频道",三立新闻
-http://66.165.240.154:8080/live/slxw01/hls.m3u8
+https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI4.png" group-title="港澳台频道",中天亚洲台
 http://livetv.skycf.eu.org/live.m3u8?c=3
 #EXTINF:-1 tvg-id="美亚C+" tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳台频道",美亚C+
