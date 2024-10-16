@@ -759,6 +759,12 @@ http://wouu.net:9977/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" group-title="地方频道",四川妇女儿童
 http://wouu.net:9977/udp/239.93.0.219:5140
 
+#广东/2个频道
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://www.helloimg.com/i/2024/10/10/6707defb7b984.png" group-title="地方频道",潮州综合
+http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8
+#EXTINF:-1 tvg-id="潮州公共" tvg-name="潮州公共" tvg-logo="https://www.helloimg.com/i/2024/10/10/6707defb7b984.png" group-title="地方频道",潮州公共
+http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8
+
 #安徽/3个频道
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/anhui/Anhui2.png" group-title="地方频道",安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
