@@ -202,7 +202,7 @@ http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&si
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC3.png" group-title="数字频道",CHC动作电影
 http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K"  tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/ah4k.png" tvg-logo="" group-title="数字频道",爱上4K
-http://wouu.net:9977/udp/239.93.0.97:5140
+https://vip.taoiptv.cn/source/itv.php?id=华数4K.m3u8&sign=4t5lg3
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" tvg-logo="" group-title="数字频道",纯享4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道",求索纪录
