@@ -339,7 +339,7 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv052
 http://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png" group-title="港澳台频道",三立新闻
 https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
-#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://gongdian.top/logo/tv/非凡新闻.png" group-title="港澳台频道",非凡新闻
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" group-title="港澳台频道",非凡新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv010
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://gongdian.top/logo/tv/东森新闻.png" group-title="港澳台频道",东森新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv152
@@ -399,23 +399,23 @@ http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:3 group-title="港澳台频道" tvg-id="aktv/tvbplus" tvg-logo="", TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:4 group-title="港澳台频道" tvg-id="aktv/tvbs" tvg-logo="", TVBS
+#EXTINF:4 group-title="港澳台频道" tvg-id="aktv/tvbs" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS.png", TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:5 group-title="港澳台频道" tvg-id="aktv/tvbs-1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png", TVBS-新聞台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:6 group-title="港澳台频道" tvg-id="aktv/null-13" tvg-logo="", 三立綜合台
+#EXTINF:6 group-title="港澳台频道" tvg-id="aktv/null-13" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SET1.png", 三立綜合台
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:7 group-title="港澳台频道" tvg-id="aktv/null-14" tvg-logo="", 三立財經新聞
+#EXTINF:7 group-title="港澳台频道" tvg-id="aktv/null-14" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SET3.png", 三立財經新聞
 http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-#EXTINF:8 group-title="港澳台频道" tvg-id="aktv/null-12" tvg-logo="", 中天亞洲台
+#EXTINF:8 group-title="港澳台频道" tvg-id="aktv/null-12" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI4.png", 中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:9 group-title="港澳台频道" tvg-id="aktv/null-8" tvg-logo="https://gongdian.top/logo/tv/中天新闻.png", 中天新聞台
+#EXTINF:9 group-title="港澳台频道" tvg-id="aktv/null-8" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png", 中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:10 group-title="港澳台频道" tvg-id="aktv/null-10" tvg-logo="https://gongdian.top/logo/tv/中视新闻.png", 中視新聞台
+#EXTINF:10 group-title="港澳台频道" tvg-id="aktv/null-10" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV1.png", 中視新聞台
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:20 group-title="港澳台频道" tvg-id="aktv/null-11" tvg-logo="", 華視新聞台
+#EXTINF:20 group-title="港澳台频道" tvg-id="aktv/null-11" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTS1.png", 華視新聞台
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:11 group-title="港澳台频道" tvg-id="aktv/null-9" tvg-logo="", 寰宇新聞台
+#EXTINF:11 group-title="港澳台频道" tvg-id="aktv/null-9" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png", 寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:15 group-title="港澳台频道" tvg-id="aktv/null-1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png", 無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -423,19 +423,19 @@ http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:17 group-title="港澳台频道" tvg-id="aktv/null" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png", 翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:16 group-title="港澳台频道" tvg-id="aktv/null-18" tvg-logo="", 翡翠剧集台(北美)
+#EXTINF:16 group-title="港澳台频道" tvg-id="aktv/null-18" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png", 翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:12 group-title="港澳台频道" tvg-id="aktv/null-20" tvg-logo="", 无线新闻台(北美)
+#EXTINF:12 group-title="港澳台频道" tvg-id="aktv/null-20" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png", 无线新闻台(北美)
 http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-#EXTINF:13 group-title="港澳台频道" tvg-id="aktv/null-19" tvg-logo="", 明珠剧集台(北美)
+#EXTINF:13 group-title="港澳台频道" tvg-id="aktv/null-19" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png", 明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:18 group-title="港澳台频道" tvg-id="aktv/null-16" tvg-logo="", 翡翠台(泰国)
+#EXTINF:18 group-title="港澳台频道" tvg-id="aktv/null-16" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png", 翡翠台(泰国)
 http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-#EXTINF:19 group-title="港澳台频道" tvg-id="aktv/null-17" tvg-logo="", 翡翠综合台(北美)
+#EXTINF:19 group-title="港澳台频道" tvg-id="aktv/null-17" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB9.png", 翡翠综合台
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:21 group-title="港澳台频道" tvg-id="aktv/null-6" tvg-logo="", 靖天電影台
+#EXTINF:21 group-title="港澳台频道" tvg-id="aktv/null-6" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/GoldenTV9.png", 靖天電影台
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:25 group-title="港澳台频道" tvg-id="aktv/null-7" tvg-logo="", 龍華經典台
+#EXTINF:25 group-title="港澳台频道" tvg-id="aktv/null-7" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB14.png", 龍華經典台
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 
 #动画频道
