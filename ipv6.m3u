@@ -1049,24 +1049,10 @@ https://lunbo.freetv.top/yy/1382736720
 https://lunbo.freetv.top/yy/1382736866
 
 #国际频道
-#EXTINF:-1 tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视.png" group-title="国际频道",环球电视
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-name="中國環球" tvg-logo="https://live.fanmingming.com/tv/中國環球.png" group-title="国际频道",中國環球
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 tvg-name="CNA新闻" tvg-logo="https://live.fanmingming.com/tv/CNA新闻.png" group-title="国际频道",CNA新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际频道",半岛新闻
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际频道",半岛新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="俄罗斯频" tvg-logo="https://live.fanmingming.com/tv/俄罗斯频.png" group-title="国际频道",俄罗斯频
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="韩国国防" tvg-logo="https://live.fanmingming.com/tv/韩国国防.png" group-title="国际频道",韩国国防
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="韩国新闻" tvg-logo="https://live.fanmingming.com/tv/韩国新闻.png" group-title="国际频道",韩国新闻
 http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-name="日语新闻" tvg-logo="https://live.fanmingming.com/tv/日语新闻.png" group-title="国际频道",日语新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-name="环球频道" tvg-logo="https://live.fanmingming.com/tv/环球频道.png" group-title="国际频道",环球频道
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-name="NHK日本" tvg-logo="https://live.fanmingming.com/tv/NHK日本.png" group-title="国际频道",NHK日本
@@ -1093,7 +1079,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="国际频道",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道",日本全天新闻
+#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道",日本新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://live.fanmingming.com/tv/TRT-World.png" group-title="国际频道",TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
