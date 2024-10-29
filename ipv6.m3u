@@ -465,6 +465,8 @@ http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="美亞電影台(HK)" tvg-logo="", 美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-name=="Now星影台" tvg-logo="", Now星影台
+http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
