@@ -283,11 +283,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 
 #港澳台频道
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
-http://aktv.top/AKTV/live/aktv/null-3/master.m3u8
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯
-http://aktv.top/AKTV/live/aktv/null-4/master.m3u8
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
-http://aktv.top/AKTV/live/aktv/null-5/master.m3u8
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -442,7 +442,7 @@ http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="翡翠剧集台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png", 翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="无线新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png", 无线新闻台(北美)
-http://aktv.top/AKTV/live/aktv2/null-1/master.m3u8
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="明珠剧集台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png", 明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png", 翡翠台(泰国)
@@ -464,11 +464,9 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="美亞電影台(HK)" tvg-logo="", 美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="TVB星河台" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB6.png", TVB星河台
-http://aktv.top/AKTV/live/aktv2/tvb/master.m3u8
+http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="Now星影台" tvg-logo="", Now星影台
-http://aktv.top/AKTV/live/aktv2/now/master.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-name=="Now爆谷台" tvg-logo="", Now爆谷台
-http://aktv.top/AKTV/live/aktv2/null/master.m3u8
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
