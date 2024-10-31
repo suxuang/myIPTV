@@ -283,11 +283,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 
 #港澳台频道
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/null-3/master.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/null-4/master.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/null-5/master.m3u8
 #http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -419,10 +419,8 @@ http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="TVBS新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png", TVBS新聞台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-name=="三立綜合" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SET1.png", 三立綜合台
+#EXTINF:-1 group-title="港澳台频道" tvg-name=="日本全天新聞" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png", 日本全天新聞
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-name=="三立財經新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SET3.png", 三立財經新聞
-http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="中天亞洲" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI4.png", 中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="中天新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png", 中天新聞台
@@ -444,7 +442,7 @@ http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="翡翠剧集台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png", 翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="无线新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png", 无线新闻台(北美)
-http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv2/null-1/master.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="明珠剧集台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png", 明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png", 翡翠台(泰国)
@@ -465,8 +463,12 @@ http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="美亞電影台(HK)" tvg-logo="", 美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-name=="TVB星河台" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB6.png", TVB星河台
+http://aktv.top/AKTV/live/aktv2/tvb/master.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-name=="Now星影台" tvg-logo="", Now星影台
-http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv2/now/master.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-name=="Now爆谷台" tvg-logo="", Now爆谷台
+http://aktv.top/AKTV/live/aktv2/null/master.m3u8
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
@@ -1109,7 +1111,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="国际频道",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道",日本新闻
+#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://live.fanmingming.com/tv/TRT-World.png" group-title="国际频道",TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
