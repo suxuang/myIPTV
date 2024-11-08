@@ -418,9 +418,9 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="动画频道",七龙珠
 http://cfss.cc/cdn/hy/11601966.flv
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="动画频道",灌篮高手
-http://jiaojirentv.top/2020/yy.php?id=1382735626
+http://cfss.cc/cdn/yy/1382735626.m3u8
 #EXTINF:-1 group-title="动画频道",国漫热播
-http://jiaojirentv.top/2020/yy.php?id=1353937086
+http://cfss.cc/cdn/yy/1353937086.m3u8
 
 #IHOT频道
 #EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot01.png" group-title="IHOT频道",iHOT爱院线
