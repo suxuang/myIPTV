@@ -385,7 +385,6 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv076
 http://61.221.215.25:8800/hls/39/index.m3u8
 
 #港澳台频道二
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="https://live.fanmingming.com/tv/28 AI 智慧賽馬.png" group-title="港澳台频道2",28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 5 HD.png" group-title="港澳台频道2",Channel 5 HD
