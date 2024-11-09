@@ -268,10 +268,12 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #港澳台频道
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港环球卫视" group-title="港澳台频道",香港环球卫视
@@ -381,6 +383,124 @@ http://61.221.215.25:8800/hls/43/index.m3u8
 http://litv.zapi.us.kg/?id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="八大戏剧HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png" group-title="港澳台频道",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
+
+#港澳台频道二
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="https://live.fanmingming.com/tv/28 AI 智慧賽馬.png" group-title="港澳台频道2",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 5 HD.png" group-title="港澳台频道2",Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 8 HD.png" group-title="港澳台频道2",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel U HD" tvg-logo="https://live.fanmingming.com/tv/Channel U HD.png" group-title="港澳台频道2",Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Hoy 78" tvg-logo="https://live.fanmingming.com/tv/Hoy 78.png" group-title="港澳台频道2",Hoy 78
+http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 18台.png" group-title="港澳台频道2",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://live.fanmingming.com/tv/PopC.png" group-title="港澳台频道2",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://live.fanmingming.com/tv/ROCK Action.png" group-title="港澳台频道2",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB Plus.png" group-title="港澳台频道2",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="港澳台频道2",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS-新聞台" tvg-logo="https://live.fanmingming.com/tv/TVBS-新聞台.png" group-title="港澳台频道2",TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="港澳台频道2",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://live.fanmingming.com/tv/中天亞洲台.png" group-title="港澳台频道2",中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://live.fanmingming.com/tv/中天新聞台.png" group-title="港澳台频道2",中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="港澳台频道2",中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://live.fanmingming.com/tv/千禧經典台.png" group-title="港澳台频道2",千禧經典台
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-name="娛樂新聞台(HK)" tvg-logo="https://live.fanmingming.com/tv/娛樂新聞台(HK).png" group-title="港澳台频道2",娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞台.png" group-title="港澳台频道2",寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-name="日本全天新聞" tvg-logo="https://live.fanmingming.com/tv/日本全天新聞.png" group-title="港澳台频道2",日本全天新聞
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://live.fanmingming.com/tv/明珠剧集台(北美).png" group-title="港澳台频道2",明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台频道2",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://live.fanmingming.com/tv/無線新聞台.png" group-title="港澳台频道2",無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://live.fanmingming.com/tv/美亞電影台(HK).png" group-title="港澳台频道2",美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="https://live.fanmingming.com/tv/翡翠剧集台(北美).png" group-title="港澳台频道2",翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道2",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://live.fanmingming.com/tv/翡翠综合台(北美).png" group-title="港澳台频道2",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.com/tv/華視.png" group-title="港澳台频道2",華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://live.fanmingming.com/tv/靖天電影台.png" group-title="港澳台频道2",靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png" group-title="港澳台频道2",鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="港澳台频道2",鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/鳳凰香港.png" group-title="港澳台频道2",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://live.fanmingming.com/tv/黃金翡翠台.png" group-title="港澳台频道2",黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://live.fanmingming.com/tv/龍華日韓台.png" group-title="港澳台频道2",龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://live.fanmingming.com/tv/龍華經典台.png" group-title="港澳台频道2",龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://live.fanmingming.com/tv/龍華電影台.png" group-title="港澳台频道2",龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.com/tv/Now星影台.png" group-title="港澳台频道2",Now星影台
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB 星河台" tvg-logo="https://live.fanmingming.com/tv/TVB 星河台.png" group-title="港澳台频道2",TVB 星河台
+http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+#EXTINF:-1 tvg-name="viutv 99" tvg-logo="https://live.fanmingming.com/tv/viutv 99.png" group-title="港澳台频道2",viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 tvg-name="viutv6 96" tvg-logo="https://live.fanmingming.com/tv/viutv6 96.png" group-title="港澳台频道2",viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻台(北美)" tvg-logo="https://live.fanmingming.com/tv/无线新闻台(北美).png" group-title="港澳台频道2",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="爆谷台" tvg-logo="https://live.fanmingming.com/tv/爆谷台.png" group-title="港澳台频道2",爆谷台
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="Animax-HK" tvg-logo="https://live.fanmingming.com/tv/Animax-HK.png" group-title="港澳台频道2",Animax-HK
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="C+台" tvg-logo="https://live.fanmingming.com/tv/C+台.png" group-title="港澳台频道2",C+台
+http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="港澳台频道2",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.com/tv/France 24.png" group-title="港澳台频道2",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-name="KIX" tvg-logo="https://live.fanmingming.com/tv/KIX.png" group-title="港澳台频道2",KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.com/tv/Love Nature HD.png" group-title="港澳台频道2",Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://live.fanmingming.com/tv/NHK World-Japan.png" group-title="港澳台频道2",NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="港澳台频道2",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="港澳台频道2",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://live.fanmingming.com/tv/ROCK Action.png" group-title="港澳台频道2",ROCK Action
+http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="港澳台频道2",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://live.fanmingming.com/tv/ZooMoo.png" group-title="港澳台频道2",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 tvg-name="亞洲新聞台" tvg-logo="https://live.fanmingming.com/tv/亞洲新聞台.png" group-title="港澳台频道2",亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="東方衛視國際頻道" tvg-logo="https://live.fanmingming.com/tv/東方衛視國際頻道.png" group-title="港澳台频道2",東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線衛星新聞台" tvg-logo="https://live.fanmingming.com/tv/無線衛星新聞台.png" group-title="港澳台频道2",無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="神州新聞台" tvg-logo="https://live.fanmingming.com/tv/神州新聞台.png" group-title="港澳台频道2",神州新聞台
+http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
