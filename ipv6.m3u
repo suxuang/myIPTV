@@ -1113,20 +1113,8 @@ https://lunbo.freetv.top/yy/1382736720
 https://lunbo.freetv.top/yy/1382736866
 
 #国际频道
-#EXTINF:-1 tvg-name="韩国国防" tvg-logo="https://live.fanmingming.com/tv/韩国国防.png" group-title="国际频道",韩国国防
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="韩国新闻" tvg-logo="https://live.fanmingming.com/tv/韩国新闻.png" group-title="国际频道",韩国新闻
 http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-name="环球频道" tvg-logo="https://live.fanmingming.com/tv/环球频道.png" group-title="国际频道",环球频道
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 tvg-name="NHK日本" tvg-logo="https://live.fanmingming.com/tv/NHK日本.png" group-title="国际频道",NHK日本
-http://180.167.104.105:9901/tsfile/live/1025_1.m3u8
-#EXTINF:-1 tvg-name="KBS韩国" tvg-logo="https://live.fanmingming.com/tv/KBS韩国.png" group-title="国际频道",KBS韩国
-http://180.167.104.105:9901/tsfile/live/1026_1.m3u8
-#EXTINF:-1 tvg-name="CAN亚洲" tvg-logo="https://live.fanmingming.com/tv/CAN亚洲.png" group-title="国际频道",CAN亚洲
-http://180.167.104.105:9901/tsfile/live/1030_1.m3u8
-#EXTINF:-1 tvg-name="CNB亚太" tvg-logo="https://live.fanmingming.com/tv/CNB亚太.png" group-title="国际频道",CNB亚太
-http://180.167.104.105:9901/tsfile/live/1031_1.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际频道",BBC
@@ -1157,19 +1145,19 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-id="988" tvg-name="Trace Sports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际频道",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="国际频道",RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Español
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-#EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Français
-https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Arabic
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_DE.png" group-title="国际频道",RT DE
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_Doc.png" group-title="国际频道",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_Doc.png" group-title="国际频道",RT Doc-Русский
+#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="国际频道",RT News（英语国际）
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Español（西语）
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Français（法语）
+https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Arabic（阿语）
+https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_DE.png" group-title="国际频道",RT DE（德语）
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_Doc.png" group-title="国际频道",RT Documentary（英语纪录）
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_Doc.png" group-title="国际频道",RT Doc-Русский（俄语纪录）
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 group-title="国际频道",SKY
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
