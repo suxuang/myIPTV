@@ -204,7 +204,8 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="漫威电影" tvg-name="漫威电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/漫威电影2.png" group-title="数字频道",漫威电影
-http://jiaojirentv.top/2020/dy.php?id=6140589
+http://diyp.zxxoo.work/douyu/6140589
+#http://jiaojirentv.top/2020/dy.php?id=6140589
 #http://43.138.170.29:35455/douyu/6140589
 #http://zzy789.xyz/douyu1.php?id=6140589
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网
@@ -536,7 +537,8 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="动画频道",七龙珠
 http://diyp.zxxoo.work/huya/11601966
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="动画频道",灌篮高手
-http://jiaojirentv.top/2020/yy.php?id=1382735626
+#http://jiaojirentv.top/2020/yy.php?id=1382735626
+https://lunbo.freetv.top/yy/1382735626
 #EXTINF:-1 group-title="动画频道",国漫热播
 http://jiaojirentv.top/2020/yy.php?id=1353937086
 
@@ -724,11 +726,11 @@ http://diyp.zxxoo.work/huya/11342412
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",林正英电影
 http://diyp.zxxoo.work/huya/11342421
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",刘德华电影
-http://jiaojirentv.top/2020/dy.php?id=2516864
+http://diyp.zxxoo.work/douyu/2516864
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",古天乐电影
 http://diyp.zxxoo.work/huya/29982675
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",成龙电影
-http://jiaojirentv.top/2020/dy.php?id=3379942
+http://diyp.zxxoo.work/douyu/3379942
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",李连杰电影
 http://diyp.zxxoo.work/huya/11342390
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",甄子丹电影
@@ -750,9 +752,9 @@ http://diyp.zxxoo.work/huya/11352941
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",贺岁电影
 http://diyp.zxxoo.work/huya/11601986
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",X战警电影
-http://jiaojirentv.top/2020/dy.php?id=9651304
+http://diyp.zxxoo.work/douyu/9651304
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",欧美大片
-http://jiaojirentv.top/2020/dy.php?id=2793084
+http://diyp.zxxoo.work/douyu/2793084
 
 #电视剧轮播
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧轮播",延禧攻略
@@ -765,8 +767,12 @@ http://diyp.zxxoo.work/huya/11352944
 http://diyp.zxxoo.work/huya/11342384
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="电视剧轮播",少年包青天第一部
 http://jiaojirentv.top/2020/yy.php?id=1356043677
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="电视剧轮播",少年包青天第一部（备用）
+https://lunbo.freetv.top/yy/1356043677
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天第三部
-http://jiaojirentv.top/2020/yy.php?id=1382736814
+http://live.iill.top/yy.php?id=1382736814
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天第三部（备用）
+http://www.goodiptv.club/yy/1382736814
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰.png" group-title="电视剧轮播",神探狄仁杰第一部
 http://diyp.zxxoo.work/huya/11352958
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视剧轮播",神探狄仁杰第三部
@@ -774,7 +780,7 @@ http://diyp.zxxoo.work/huya/11342425
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视剧轮播",爱情公寓
 http://diyp.zxxoo.work/huya/11336726
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/欢乐颂.png" group-title="电视剧轮播",欢乐颂
-http://jiaojirentv.top/2020/dy.php?id=3756989
+http://diyp.zxxoo.work/douyu/3756989
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视剧轮播",倚天屠龙记
 http://diyp.zxxoo.work/huya/11342403
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视剧轮播",铁齿铜牙纪晓岚
@@ -804,7 +810,7 @@ http://jiaojirentv.top/2020/yy.php?id=1352475619
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/仙剑奇侠传.png" group-title="电视剧轮播",仙剑奇侠传
 http://jiaojirentv.top/2020/yy.php?id=1382749903
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="电视剧轮播",西游记续集
-http://jiaojirentv.top/2020/dy.php?id=3113309
+http://diyp.zxxoo.work/douyu/3113309
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视剧轮播",神雕侠侣
 http://diyp.zxxoo.work/huya/11352964
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧轮播",我是特种兵之利刃出鞘
@@ -1237,17 +1243,17 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="国际频道",RT News（英语国际）
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Español（西语）
+#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Español（西语）
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Français（法语）
+#EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Français（法语）
 https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Arabic（阿语）
+#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Arabic（阿语）
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT德国.png" group-title="国际频道",RT DE（德语）
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_Doc.png" group-title="国际频道",RT Documentary（英语纪录）
+#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道",RT Documentary（英语纪录）
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_Doc.png" group-title="国际频道",RT Doc-Русский（俄语纪录）
+#EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道",RT Doc-Русский（俄语纪录）
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 group-title="国际频道",SKY
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
