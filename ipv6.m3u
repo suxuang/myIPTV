@@ -537,7 +537,8 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="动画频道",七龙珠
 http://diyp.zxxoo.work/huya/11601966
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="动画频道",灌篮高手
-http://jiaojirentv.top/2020/yy.php?id=1382735626
+#http://jiaojirentv.top/2020/yy.php?id=1382735626
+https://lunbo.freetv.top/yy/1382735626
 #EXTINF:-1 group-title="动画频道",国漫热播
 http://jiaojirentv.top/2020/yy.php?id=1353937086
 
