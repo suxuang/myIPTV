@@ -1237,17 +1237,17 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="国际频道",RT News（英语国际）
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Español（西语）
+#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Español（西语）
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Français（法语）
+#EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Français（法语）
 https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_News.png" group-title="国际频道",RT Arabic（阿语）
+#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Arabic（阿语）
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT德国.png" group-title="国际频道",RT DE（德语）
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_Doc.png" group-title="国际频道",RT Documentary（英语纪录）
+#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道",RT Documentary（英语纪录）
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/RT_Doc.png" group-title="国际频道",RT Doc-Русский（俄语纪录）
+#EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道",RT Doc-Русский（俄语纪录）
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 group-title="国际频道",SKY
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
