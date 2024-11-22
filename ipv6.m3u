@@ -48,15 +48,15 @@ http://111.61.236.247:9081/hls/62/index.m3u8
 http://222.169.41.210:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视频道",CCTV-央视高网
 http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVfyyy.png" group-title="央视频道",CCTV-风云音乐
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视频道",CCTV-风云音乐
 http://60.10.225.157:555/rtp/239.253.93.253:6431
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVfyjc.png" group-title="央视频道",CCTV-风云剧场
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",CCTV-风云剧场
 http://60.10.225.157:555/rtp/239.253.93.251:6429
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVhjjc.png" group-title="央视频道",CCTV-怀旧剧场
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
 http://111.61.236.247:9081/hls/67/index.m3u8
-#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVwhjp.png" group-title="央视频道",CCTV-文化精品
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视频道",CCTV-文化精品
 http://wouu.net:9977/udp/239.93.42.47:5140
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVnxss.png" group-title="央视频道",CCTV-女性时尚
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视频道",CCTV-女性时尚
 http://111.61.236.247:9081/hls/59/index.m3u8
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVdszn.png" group-title="央视频道",CCTV-电视指南
 http://60.10.225.157:555/rtp/239.253.93.249:6427
