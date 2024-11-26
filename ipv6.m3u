@@ -787,8 +787,10 @@ http://jiaojirentv.top/2020/dy.php?id=9651304
 http://jiaojirentv.top/2020/dy.php?id=2793084
 
 #电视剧轮播
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/甄嬛传.png" group-title="电视剧轮播",甄嬛传
+http://zby.xjqxz.top/live8/live.m3u8
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧轮播",延禧攻略
-http://diyp.zxxoo.work/huya/26355864
+http://120.77.28.4:8648/huya.php?id=26355864
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/琅琊榜.png" group-title="电视剧轮播",琅琊榜
 http://zby.xjqxz.top/lyb/live.m3u8
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视剧轮播",新三国
@@ -842,7 +844,7 @@ http://diyp.zxxoo.work/huya/11352964
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧轮播",我是特种兵之利刃出鞘
 http://jiaojirentv.top/2020/yy.php?id=11419
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧轮播",狂飙
-http://jiaojirentv.top/2020/yy.php?id=17981
+http://111.67.193.2:35455/yy/1355142167
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视剧轮播",雪豹
 http://diyp.zxxoo.work/huya/29580970
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png" group-title="电视剧轮播",陈情令
