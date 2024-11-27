@@ -795,9 +795,11 @@ http://zby.xjqxz.top/lyb/live.m3u8
 http://120.77.28.4:8648/huya.php?id=11352944
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视剧轮播",新水浒传
 http://120.77.28.4:8648/huya.php?id=11342384
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="电视剧轮播",少年包青天第一部
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="电视剧轮播",少年包青天
+https://lunbo.freetv.top/yy/38498680
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天第一部
 http://111.67.193.2:35455/yy/1356043677
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天第三部
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png" group-title="电视剧轮播",少年包青天第三部
 http://111.67.193.2:35455/yy/1382736814
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰.png" group-title="电视剧轮播",神探狄仁杰第一部
 http://120.77.28.4:8648/huya.php?id=11352958
