@@ -753,13 +753,13 @@ http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=Fif
 
 #电影轮播
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",周星驰电影
-http://120.77.28.4:8648/huya.php?id=11342412
+http://rihou.cc:555/hy.php?id=11342412
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",林正英电影
-http://120.77.28.4:8648/huya.php?id=11342421
+http://rihou.cc:555/hy.php?id=11342421
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",刘德华电影
-http://120.77.28.4:8648/huya.php?id=11342424
+http://rihou.cc:555/hy.php?id=11342424
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",古天乐电影
-http://diyp.zxxoo.work/huya/29982675
+http://rihou.cc:555/hy.php?id=29982675
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",成龙电影
 http://jiaojirentv.top/2020/dy.php?id=3379942
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",李连杰电影
