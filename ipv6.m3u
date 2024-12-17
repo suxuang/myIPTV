@@ -67,8 +67,7 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
 #EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="央视频道",CETV-3 教育服务
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频道",CETV-4 职业教育
-#http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 #EXTINF:-1 tvg-name="直播中国" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/直播中国.png" group-title="央视频道",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视频道",中国天气
@@ -1191,28 +1190,6 @@ https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe
 https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 #EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.com/tv/乌兰察布.png" group-title="地方频道",乌兰察布新闻
 https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-
-#新疆
-#EXTINF:-1 tvg-name="新疆卫视2" tvg-logo="https://live.fanmingming.com/tv/新疆卫视2.png" group-title="地方频道",新疆卫视2
-https://slstplay.xjtvs.com.cn/xjtv2/xjtv2stream.m3u8?auth_key=1733226603-0-0-a8b89c2d8c1989267ab9d9797dc3b5fc
-#EXTINF:-1 tvg-name="新疆卫视3" tvg-logo="https://live.fanmingming.com/tv/新疆卫视3.png" group-title="地方频道",新疆卫视3
-https://slstplay.xjtvs.com.cn/xjtv3/xjtv3stream.m3u8?auth_key=1733226603-0-0-a234cafafc1930dcfd179495bbb6051b
-#EXTINF:-1 tvg-name="新疆卫视4" tvg-logo="https://live.fanmingming.com/tv/新疆卫视4.png" group-title="地方频道",新疆卫视4
-https://slstplay.xjtvs.com.cn/xjtv4/xjtv4stream.m3u8?auth_key=1733226603-0-0-433da64b6a20b7a2d16149536aa6cb7e
-#EXTINF:-1 tvg-name="新疆卫视5" tvg-logo="https://live.fanmingming.com/tv/新疆卫视5.png" group-title="地方频道",新疆卫视5
-https://slstplay.xjtvs.com.cn/xjtv5/xjtv5stream.m3u8?auth_key=1733226603-0-0-7f0bdb094025a03dc0249a61d0480c36
-#EXTINF:-1 tvg-name="新疆卫视7" tvg-logo="https://live.fanmingming.com/tv/新疆卫视7.png" group-title="地方频道",新疆卫视7
-https://slstplay.xjtvs.com.cn/xjtv7/xjtv7stream.m3u8?auth_key=1733226603-0-0-a97207a50544b5ef6208913a0cf64d10
-#EXTINF:-1 tvg-name="新疆卫视8" tvg-logo="https://live.fanmingming.com/tv/新疆卫视8.png" group-title="地方频道",新疆卫视8
-https://slstplay.xjtvs.com.cn/xjtv8/xjtv8stream.m3u8?auth_key=1733226603-0-0-4f6f99fd2c45b45d1fe1275ff563ff55
-#EXTINF:-1 tvg-name="新疆卫视9" tvg-logo="https://live.fanmingming.com/tv/新疆卫视9.png" group-title="地方频道",新疆卫视9
-https://slstplay.xjtvs.com.cn/xjtv9/xjtv9stream.m3u8?auth_key=1733226603-0-0-d55d720db452d8adc31a9edc712d2319
-#EXTINF:-1 tvg-name="新疆卫视10" tvg-logo="https://live.fanmingming.com/tv/新疆卫视10.png" group-title="地方频道",新疆卫视10
-https://slstplay.xjtvs.com.cn/xjtv10/xjtv10stream.m3u8?auth_key=1733226603-0-0-7f3874192ccdb5fa7f040f7b6e906943
-#EXTINF:-1 tvg-name="新疆卫视11" tvg-logo="https://live.fanmingming.com/tv/新疆卫视11.png" group-title="地方频道",新疆卫视11
-https://slstplay.xjtvs.com.cn/xjtv11/xjtv11stream.m3u8?auth_key=1733226603-0-0-6db39c78d00a46a319d3b1d7c4267a0d
-#EXTINF:-1 tvg-name="新疆卫视12" tvg-logo="https://live.fanmingming.com/tv/新疆卫视12.png" group-title="地方频道",新疆卫视12
-https://slstplay.xjtvs.com.cn/xjtv12/xjtv12stream.m3u8?auth_key=1733226603-0-0-ce7fb2fd59356ccfd2dbb728f4eaf032
 
 #春晚
 #EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1983年春晚
