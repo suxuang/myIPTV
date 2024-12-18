@@ -832,9 +832,11 @@ http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
 #EXTINF:-1 tvg-name="三国演义" tvg-id="三国演义" tvg-logo="" group-title="电视剧轮播", 三国演义
 http://live.metshop.top/huya/11602081
 #EXTINF:-1 tvg-name="三国演义" tvg-id="三国演义" tvg-logo="" group-title="电视剧轮播", 三国演义（备用）
-https://lunbo.freetv.top/yy/1354930932
+http://lunbo.freetv.top/yy/1354930932
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天第一部
 http://jiaojirentv.top/2020/yy.php?id=1356043677
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天（备用）
+http://lunbo.freetv.top/yy/1356043677
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png" group-title="电视剧轮播",少年包青天第三部
 http://jiaojirentv.top/2020/yy.php?id=1382736814
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰.png" group-title="电视剧轮播",神探狄仁杰第一部
