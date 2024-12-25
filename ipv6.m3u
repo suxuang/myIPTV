@@ -833,8 +833,6 @@ http://live.metshop.top/huya/11342384
 http://live.metshop.top/huya/11602081
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天第一部
 http://jiaojirentv.top/2020/yy.php?id=1356043677
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天（备用）
-http://lunbo.freetv.top/yy/1356043677
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png" group-title="电视剧轮播",少年包青天第三部
 http://jiaojirentv.top/2020/yy.php?id=1382736814
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰.png" group-title="电视剧轮播",神探狄仁杰第一部
@@ -884,12 +882,14 @@ http://jiaojirentv.top/2020/yy.php?id=1352475619
 http://jiaojirentv.top/2020/yy.php?id=1382749903
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="电视剧轮播",西游记续集
 http://jiaojirentv.top/2020/dy.php?id=3113309
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/三国演义.png" group-title="电视剧轮播", 三国演义
-http://lunbo.freetv.top/yy/1354930932
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧轮播",我是特种兵之利刃出鞘
 http://jiaojirentv.top/2020/yy.php?id=11419
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧轮播",狂飙
 http://jiaojirentv.top/2020/yy.php?id=1355142167
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/三国演义.png" group-title="电视剧轮播", 三国演义
+http://lunbo.freetv.top/yy/1354930932
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天
+http://lunbo.freetv.top/yy/1356043677
 
 #埋堆堆
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆",楚汉骄雄
