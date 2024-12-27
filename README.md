@@ -5,7 +5,7 @@
 本项目不定期维护更新直播源，如果有稳定可靠的直播源想加入本项目，可以在问题栏留言给我！！！
 
 ## 📺订阅地址
-https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 
 ## 📖项目说明
 
