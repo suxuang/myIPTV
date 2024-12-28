@@ -3,9 +3,15 @@
 ## 💡项目公告
 
 本项目不定期维护更新直播源，如果有稳定可靠的直播源想加入本项目，可以在问题栏留言给我！！！
+**_PS：本项目直播源纯手动不定期维护，致力于为大家呈现完美且免费的直播节目，工作量很大，有能力的同学希望可以赞赏一下，谢谢！_**
 
 ## 📺订阅地址
 https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+
+## 🙋‍♂️赞赏
+<p>
+<img width="200" height="200" src="https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/img/赞赏.png">
+</p>
 
 ## 📖项目说明
 
