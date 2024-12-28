@@ -5,7 +5,8 @@
 **_本项目直播源纯手工不定期维护更新，致力于为大家呈现完美且免费的直播节目，工作量比较大，有能力的同学可以赞赏一下，谢谢！_**
 
 ## 📺订阅地址
-https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+
+📺🌐订阅链接-IPV6专用：_https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u_
 
 ## 🙋‍♂️赞赏
 <p>
