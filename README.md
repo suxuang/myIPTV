@@ -2,13 +2,13 @@
 
 ## 💡项目公告
 
-**_本项目直播源纯手工不定期维护更新，致力于为大家呈现完美且免费的直播节目，工作量比较大，有能力的同学可以赞赏一下，谢谢！_**
+**_本项目直播源纯手工不定期更新维护，致力于为大家呈现完美且免费流畅的直播电视节目，整理维护的工作量比较大，感觉好用的朋友可以打赏一下，谢谢！_**
 
 ## 📺订阅地址
 
 🌐订阅链接-IPV6专用：_https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u_
 
-## 🙋‍♂️赞赏
+## 💰打赏支持
 <p>
 <img width="200" height="200" src="https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/img/赞赏.png">
 </p>
