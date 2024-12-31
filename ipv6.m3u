@@ -620,45 +620,45 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="newtv农业致富" tvg-name="newtv农业致富" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV08.png" group-title="NewTV频道",NewTV 农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV22.png" group-title="NewTV频道",NewTV 超级体育
+#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV22.png" group-title="NewTV频道",NewTV 超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV23.png" group-title="NewTV频道",NewTV 超级电影
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV23.png" group-title="NewTV频道",NewTV 超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV25.png" group-title="NewTV频道",NewTV 超级电视剧
+#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV25.png" group-title="NewTV频道",NewTV 超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="newtv东北热剧" tvg-name="newtv东北热剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV09.png" group-title="NewTV频道",NewTV 东北热剧
+#EXTINF:-1 tvg-id="newtv东北热剧" tvg-name="newtv东北热剧" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV09.png" group-title="NewTV频道",NewTV 东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="newtv海外剧场" tvg-name="newtv海外剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV06.png" group-title="NewTV频道",NewTV 海外剧场
+#EXTINF:-1 tvg-id="newtv海外剧场" tvg-name="newtv海外剧场" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV06.png" group-title="NewTV频道",NewTV 海外剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="newtv中国功夫" tvg-name="newtv中国功夫" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV07.png" group-title="NewTV频道",NewTV 中国功夫
+#EXTINF:-1 tvg-id="newtv中国功夫" tvg-name="newtv中国功夫" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV07.png" group-title="NewTV频道",NewTV 中国功夫
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-name="newtv军旅剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV02.png" group-title="NewTV频道",NewTV 军旅剧场
+#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-name="newtv军旅剧场" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV02.png" group-title="NewTV频道",NewTV 军旅剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV10.png" group-title="NewTV频道",NewTV 惊悚悬疑
+#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV10.png" group-title="NewTV频道",NewTV 惊悚悬疑
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV17.png" group-title="NewTV频道",NewTV 爱情喜剧
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV17.png" group-title="NewTV频道",NewTV 爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV15.png" group-title="NewTV频道",NewTV 潮妈辣婆
+#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV15.png" group-title="NewTV频道",NewTV 潮妈辣婆
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV18.png" group-title="NewTV频道",NewTV 精品体育
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV18.png" group-title="NewTV频道",NewTV 精品体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品纪录" tvg-name="newtv精品纪录" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV20.png" group-title="NewTV频道",NewTV 精品纪录
+#EXTINF:-1 tvg-id="newtv精品纪录" tvg-name="newtv精品纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV20.png" group-title="NewTV频道",NewTV 精品纪录
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="newtv家庭剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV05.png" group-title="NewTV频道",NewTV 家庭剧场
+#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="newtv家庭剧场" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV05.png" group-title="NewTV频道",NewTV 家庭剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品大剧" tvg-name="newtv精品大剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV19.png" group-title="NewTV频道",NewTV 精品大剧
+#EXTINF:-1 tvg-id="newtv精品大剧" tvg-name="newtv精品大剧" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV19.png" group-title="NewTV频道",NewTV 精品大剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="newtv军事评论" tvg-name="newtv军事评论" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV01.png" group-title="NewTV频道",NewTV 军事评论
+#EXTINF:-1 tvg-id="newtv军事评论" tvg-name="newtv军事评论" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV01.png" group-title="NewTV频道",NewTV 军事评论
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="newtv明星大片" tvg-name="newtv明星大片" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV12.png" group-title="NewTV频道",NewTV 明星大片
+#EXTINF:-1 tvg-id="newtv明星大片" tvg-name="newtv明星大片" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV12.png" group-title="NewTV频道",NewTV 明星大片
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV13.png" group-title="NewTV频道",NewTV 欢乐剧场
+#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV13.png" group-title="NewTV频道",NewTV 欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品萌宠" tvg-name="newtv精品萌宠" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV39.png" group-title="NewTV频道",NewTV 精品萌宠
+#EXTINF:-1 tvg-id="newtv精品萌宠" tvg-name="newtv精品萌宠" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV39.png" group-title="NewTV频道",NewTV 精品萌宠
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV24.png" group-title="NewTV频道",NewTV 超级综艺
+#EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV24.png" group-title="NewTV频道",NewTV 超级综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV21.png" group-title="NewTV频道",NewTV 金牌综艺
+#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV21.png" group-title="NewTV频道",NewTV 金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-id="newtv魅力潇湘" tvg-name="newtv魅力潇湘" tvg-logo="https://epg.iill.top/logo/NewTV魅力潇湘.png" group-title="NewTV频道",NewTV 魅力潇湘
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281
