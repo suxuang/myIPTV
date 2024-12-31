@@ -540,7 +540,7 @@ http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000040
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225654/1.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hunan/Hunan10.png" group-title="动画频道",金鹰卡通
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=YanG-1989
 #http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
@@ -621,7 +621,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="newtv农业致富" tvg-name="newtv农业致富" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV08.png" group-title="NewTV频道",NewTV 农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV22.png" group-title="NewTV频道",NewTV 超级体育
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV23.png" group-title="NewTV频道",NewTV 超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/NewTV/NewTV25.png" group-title="NewTV频道",NewTV 超级电视剧
