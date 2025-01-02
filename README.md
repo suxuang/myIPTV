@@ -6,7 +6,8 @@
 
 ## 📺订阅地址
 
-🌐订阅链接-IPV6专用：_https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u_
+🌐M3U链接-IPV6专用：_https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u_
+🌐TXT链接-IPV6专用：_https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.txt_
 
 ## 💰打赏支持
 <p>
@@ -33,6 +34,8 @@ PS：部分高清直播源需开启IPV6访问权限，自行百度方法
 IOS端：APTV （免费版可使用一套配置，支持epg和回看功能）
 
 ## 🆕更新日志
+
+- 2025/01/02：更新多个港澳台流畅直播源以及新增txt直播源，方便DYIP等播放器使用
 
 - 2024/12/28：修复节目预告
 
