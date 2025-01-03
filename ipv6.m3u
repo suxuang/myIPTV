@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.iill.top/epg"
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
