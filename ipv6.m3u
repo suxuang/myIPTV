@@ -503,8 +503,6 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台AKTV",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台AKTV",翡翠台4K
-http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://live.fanmingming.com/tv/翡翠综合台(北美).png" group-title="港澳台AKTV",翡翠综合台(北美)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTS1.png" group-title="港澳台AKTV",華視新聞台
