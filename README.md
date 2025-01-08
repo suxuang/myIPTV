@@ -14,7 +14,7 @@
 
 ## 📺订阅地址
 
-🌐订阅链接-IPV6专用：_https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u_
+🌐订阅链接-IPV6专用：_https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u_
 
 ## 💰打赏支持
 <p>
