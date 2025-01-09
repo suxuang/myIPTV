@@ -302,6 +302,7 @@ http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台频道",澳视澳门
 http://cdn.132.us.kg/live/asam/stream.m3u8
+#http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoya.png" group-title="港澳台频道",澳亚卫视
 http://cdn.132.us.kg/live/as/stream.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="港澳台频道",莲花卫视
@@ -315,6 +316,8 @@ http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台 4K
+http://cdn.132.us.kg/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台（备用）
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台频道",TVB明珠台
@@ -410,20 +413,15 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv011
 http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/GoldenTV9.png" group-title="港澳台频道",靖天电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv061
-#EXTINF:-1 tvg-name="美亚电影台" group-title="港澳台频道",美亚电影台
-https://iptv.vip-tptv.xyz/tv.php?id=1
-#EXTINF:-1 tvg-name="美亚电影" group-title="港澳台频道",美亚电影台（粤语）
+#EXTINF:-1 tvg-name="美亚电影" group-title="港澳台频道",美亚电影台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="HOY TV" group-title="港澳台频道",HOY TV
 http://cdn.132.us.kg/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="港澳台频道",翡翠台4K
-http://cdn.132.us.kg/live/fct4k/stream.m3u8
 #EXTINF:-1 group-title="港澳台频道",凤凰中文
 http://cdn.132.us.kg/live/fhzw/stream.m3u8
 #EXTINF:-1 group-title="港澳台频道",凤凰资讯
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="港澳台频道",澳视澳门
-http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
+
 
 #港澳台AKTV
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台AKTV",鳳凰中文
