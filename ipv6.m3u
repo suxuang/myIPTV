@@ -425,7 +425,6 @@ http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="港澳台频道",澳视澳门
 http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 
-
 #港澳台AKTV
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台AKTV",鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -766,20 +765,7 @@ http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011520/index.m3u8?
 http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播",咪咕直播38
 http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播",咪咕直播39
-http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播",咪咕直播40
-http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011524/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播",咪咕直播41
-http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播",咪咕直播42
-http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播",咪咕直播43
-http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播",咪咕直播44
-http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011530/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播",咪咕直播45
-http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
+
 
 #电影轮播
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",周星驰电影
@@ -866,7 +852,7 @@ http://223.85.105.11/test-txdwk.flv.huya.com/src/1423787855-1423787855-611512227
 http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11342425
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视剧轮播",爱情公寓
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11336726
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/欢乐颂.png" group-title="电视剧轮播",欢乐颂
 http://zzy789.xyz/douyu1.php?id=3756989
@@ -885,7 +871,7 @@ http://www.52sw.top:678/play/huya.php?id=26355790
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视剧轮播",神雕侠侣
 http://www.52sw.top:678/play/huya.php?id=11352964
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png" group-title="电视剧轮播",天龙八部
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视剧轮播",倚天屠龙记
 http://www.52sw.top:678/play/huya.php?id=11342403
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视剧轮播",铁齿铜牙纪晓岚
