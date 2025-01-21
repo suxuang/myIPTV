@@ -133,6 +133,12 @@ http://148.135.93.213:81/live.php?id=重温经典
 http://148.135.93.213:81/live.php?id=CHC家庭影院
 #EXTINF:-1 tvg-id="CHC3"    tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC3.png" group-title="央卫备用",CHC动作电影
 http://148.135.93.213:81/live.php?id=CHC动作电影
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" http-user-agent="iPhone" group-title="央卫备用",凤凰中文
+http://148.135.93.213:81/phenix.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" http-user-agent="iPhone" group-title="央卫备用",凤凰资讯
+http://148.135.93.213:81/phenix.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" http-user-agent="iPhone" group-title="央卫备用",凤凰香港
+http://148.135.93.213:81/phenix.php?id=fhhk
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="央卫备用",北京卫视
 http://148.135.93.213:81/live.php?id=北京卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="央卫备用",湖南卫视
