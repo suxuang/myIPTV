@@ -238,7 +238,7 @@ http://148.135.93.213:81/live.php?id=江苏卫视
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="央卫备用1",陕西卫视
 http://148.135.93.213:81/live.php?id=陕西卫视
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="央卫备用1",湖北卫视
-http://cc2022.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=2025
+http://148.135.93.213:81/live.php?id=湖北卫视
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="央卫备用1",内蒙古卫视
 http://148.135.93.213:81/live.php?id=内蒙古卫视
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="央卫备用1",江西卫视
@@ -266,7 +266,7 @@ http://148.135.93.213:81/live.php?id=广西卫视
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="央卫备用1",河北卫视
 http://148.135.93.213:81/live.php?id=河北卫视
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="央卫备用1",河南卫视
-http://cc2022.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=2025
+http://148.135.93.213:81/live.php?id=河南卫视
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="央卫备用1",深圳卫视
 http://148.135.93.213:81/live.php?id=深圳卫视
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="央卫备用1",甘肃卫视
@@ -281,6 +281,8 @@ http://148.135.93.213:81/live.php?id=重庆卫视
 http://148.135.93.213:81/live.php?id=黑龙江卫视
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="央卫备用1",海南卫视
 http://148.135.93.213:81/live.php?id=海南卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="央卫备用1",大湾区卫视
+http://148.135.93.213:81/live.php?id=大湾区卫视
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="央卫备用1",西藏卫视
 http://148.135.93.213:81/live.php?id=西藏卫视
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="央卫备用1",云南卫视
