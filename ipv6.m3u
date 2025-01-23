@@ -857,11 +857,11 @@ http://1.94.31.214:35455/huya/23749096
 
 #IHOT频道
 #EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="IHOT频道",iHOT 爱喜剧
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000032
+http://nas.zyylover.homes:35455/itv/2000000004000000032.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.iill.top/logo/iHOT爱科幻.png" group-title="IHOT频道",iHOT 爱科幻
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000033
+http://nas.zyylover.homes:35455/itv/2000000004000000033.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.iill.top/logo/iHOT爱院线.png" group-title="IHOT频道",iHOT 爱院线
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000034
+http://nas.zyylover.homes:35455/itv/2000000004000000034.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.iill.top/logo/iHOT爱浪漫.png" group-title="IHOT频道",iHOT 爱浪漫
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000035/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.iill.top/logo/iHOT爱悬疑.png" group-title="IHOT频道",iHOT 爱悬疑
@@ -889,13 +889,13 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000060/index.m3u
 
 #NewTV频道
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://epg.iill.top/logo/NewTV哒啵电竞.png" group-title="NewTV频道",NewTV 哒啵电竞
-http://itv.nctv.top:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+http://nas.zyylover.homes:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.iill.top/logo/NewTV哒啵赛事.png" group-title="NewTV频道",NewTV 哒啵赛事
-http://itv.nctv.top:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+http://nas.zyylover.homes:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.iill.top/logo/NewTV黑莓动画.png" group-title="NewTV频道",NewTV 黑莓动画
-http://itv.nctv.top:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+http://nas.zyylover.homes:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.iill.top/logo/NewTV黑莓电影.png" group-title="NewTV频道",NewTV 黑莓电影
-http://itv.nctv.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+http://nas.zyylover.homes:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://epg.iill.top/logo/NewTV超级电影.png" group-title="NewTV频道",NewTV 超级电影
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" group-title="NewTV频道",NewTV 超级电视剧
@@ -949,7 +949,7 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u
 #EXTINF:-1 tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://epg.iill.top/logo/NewTV海外剧场.png" group-title="NewTV频道",NewTV 海外剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://epg.iill.top/logo/NewTV爱情喜剧.png" group-title="NewTV频道",NewTV 爱情喜剧
-http://itv.nctv.top:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+http://nas.zyylover.homes:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 
 #百事通频道
 #EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",星光影院
