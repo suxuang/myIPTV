@@ -705,7 +705,7 @@ https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Neimeng5.png" group-title="动画频道",内蒙古少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="动画频道",七龙珠
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="动画频道",灌篮高手
 http://jiaojirentv.top/2020/yy.php?id=1382735626
@@ -946,10 +946,10 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011522/index.m3u
 
 #电影轮播
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",周星驰电影
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11342412
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",林正英电影
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11342421
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",刘德华电影
 http://1.94.31.214:35455/huya/11342424
@@ -989,15 +989,15 @@ http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337
 
 #电视剧轮播
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧轮播",延禧攻略
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
 #http://www.52sw.top:678/play/huya.php?id=26355864
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/琅琊榜.png" group-title="电视剧轮播",琅琊榜
 http://zby.xjqxz.top/lyb/live.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视剧轮播",新三国
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11352944
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视剧轮播",新水浒传
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天第一部
 #http://jiaojirentv.top/2020/yy.php?id=38498680
@@ -1005,16 +1005,16 @@ http://jiaojirentv.top/2020/yy.php?id=1356043677
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png" group-title="电视剧轮播",少年包青天第三部
 http://jiaojirentv.top/2020/yy.php?id=1382736814
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰1.png" group-title="电视剧轮播",神探狄仁杰第一部
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11352958
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰2.png" group-title="电视剧轮播",神探狄仁杰第二部
 http://jiaojirentv.top/2020/yy.php?id=1382851146
 #http://dns.yiandrive.com:15907/yy/1382828767
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视剧轮播",神探狄仁杰第三部
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11342425
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视剧轮播",爱情公寓
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11336726
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/欢乐颂.png" group-title="电视剧轮播",欢乐颂
 http://zzy789.xyz/douyu1.php?id=3756989
@@ -1025,7 +1025,7 @@ http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11
 #http://1.94.31.214:35455/huya/29580970
 http://1.94.31.214:35455/huya/29731435
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/特种兵之火凤凰.png" group-title="电视剧轮播",特种兵之火凤凰
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1239543150714-1239543150714-11135001069078183936-2479086424884-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150714-1239543150714-11135001069078183936-2479086424884-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=29982636
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/士兵突击.png" group-title="电视剧轮播",士兵突击
 http://1.94.31.214:35455/huya/11342430
@@ -1034,7 +1034,7 @@ http://1.94.31.214:35455/huya/26355790
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视剧轮播",神雕侠侣
 http://1.94.31.214:35455/huya/11352964
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png" group-title="电视剧轮播",天龙八部
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视剧轮播",倚天屠龙记
 http://1.94.31.214:35455/huya/11342403
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视剧轮播",铁齿铜牙纪晓岚
@@ -1070,8 +1070,8 @@ http://zzy789.xyz/douyu1.php?id=3113309
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧轮播",我是特种兵之利刃出鞘
 http://jiaojirentv.top/2020/yy.php?id=37999586
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧轮播",狂飙
-http://1.94.31.214:35455/huya/30357165
-#http://jiaojirentv.top/2020/yy.php?id=1355142167
+#http://1.94.31.214:35455/huya/30357165
+http://jiaojirentv.top/2020/yy.php?id=1355142167
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/三国演义.png" group-title="电视剧轮播", 三国演义
 http://1.94.31.214:35455/huya/11602081
 #http://live.metshop.top/huya/11602081
