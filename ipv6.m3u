@@ -980,10 +980,14 @@ http://1.94.31.214:35455/huya/11342435
 http://1.94.31.214:35455/huya/11352941
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",贺岁电影
 http://1.94.31.214:35455/huya/11601986
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",狄仁杰系列
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",狄仁杰电影
 http://1.94.31.214:35455/huya/30080229
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",变形金刚系列
-https://lunbo.freetv.top/yy/1382736803
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",变形金刚合集
+http://fy27.zbds.top:55455/yy/1382736803
+#https://lunbo.freetv.top/yy/1382736803
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",末日电影合集
+http://fy27.zbds.top:55455/yy/1354889019
+
 
 #电视剧频道
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧频道",延禧攻略
