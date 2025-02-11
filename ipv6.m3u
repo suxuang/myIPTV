@@ -376,7 +376,7 @@ http://home.dzlove.top:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" tvg-name="法治天地" group-title="数字频道",法治天地
 http://home.dzlove.top:35455/itv/9001547084732463424.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.cn/tv/七彩戏剧.png" tvg-name="七彩戏剧" group-title="数字频道",七彩戏剧
-http://home.dzlove.top:35455/itv/2000000002000000010.m3u8?cdn=hnbblive
+http://home.dzlove.top:35455/itv/5000000011000031116.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" tvg-name="动漫秀场" group-title="数字频道",动漫秀场
 http://home.dzlove.top:35455/itv/5000000011000031113.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" tvg-name="游戏风云" group-title="数字频道",游戏风云
@@ -387,8 +387,6 @@ http://home.dzlove.top:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 http://home.dzlove.top:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" tvg-name="金色学堂" group-title="数字频道",金色学堂
 http://home.dzlove.top:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://epg.iill.top/logo/健康养生.png" group-title="数字频道", 健康养生
-http://home.dzlove.top:35455/itv/5000000011000288006.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/南国都市.png" group-title="数字频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://live.fanmingming.cn/tv/足球频道.png" group-title="数字频道",足球频道
@@ -396,13 +394,13 @@ http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://live.fanmingming.cn/tv/天元围棋.png" group-title="数字频道",天元围棋
 http://wouu.net:9977/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球
-http://home.dzlove.top:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+http://home.dzlove.top:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技
-http://home.dzlove.top:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+http://home.dzlove.top:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="数字频道",睛彩青少
-http://home.dzlove.top:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+http://home.dzlove.top:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
-http://home.dzlove.top:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+http://home.dzlove.top:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 
 #港澳台频道
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
@@ -725,16 +723,17 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5529729098703832176/index.m3u
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",漫游世界
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",健康养生
+http://home.dzlove.top:35455/itv/5000000011000288006.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",英雄联盟音乐节
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/8978605063318475207/index.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=YanG-1989
 
 #咪咕直播
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕直播",咪咕直播4K
-http://home.dzlove.top:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕直播",咪咕直播1
-http://home.dzlove.top:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+http://home.dzlove.top:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕直播",咪咕直播2
-http://home.dzlove.top:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕直播",咪咕直播3
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕直播",咪咕直播4
