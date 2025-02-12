@@ -1133,27 +1133,17 @@ http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsi
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 
 #广东/2个频道
-#EXTINF:-1 tvg-name="广州电视台综合频道" tvg-logo="https://live.fanmingming.cn/tv/广州电视台综合频道.png" group-title="地方频道",广州电视台综合频道
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="地方频道",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 tvg-name="广州电视台新闻频道" tvg-logo="https://live.fanmingming.cn/tv/广州电视台新闻频道.png" group-title="地方频道",广州电视台新闻频道
-https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.cn/tv/广州新闻.png" group-title="地方频道",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 tvg-name="广州影视频道" tvg-logo="https://live.fanmingming.cn/tv/广州影视频道.png" group-title="地方频道",广州影视频道
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.cn/tv/广州影视.png" group-title="地方频道",广州影视
 http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
-#EXTINF:-1 tvg-name="广州电视台影视频道" tvg-logo="https://live.fanmingming.cn/tv/广州电视台影视频道.png" group-title="地方频道",广州电视台影视频道
-https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
-#EXTINF:-1 tvg-name="广州电视台法治频道" tvg-logo="https://live.fanmingming.cn/tv/广州电视台法治频道.png" group-title="地方频道",广州电视台法治频道
-https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
-#EXTINF:-1 tvg-name="广州电视台法治频道" tvg-logo="https://live.fanmingming.cn/tv/广州电视台法治频道.png" group-title="地方频道",广州电视台法治频道
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.cn/tv/广州法治.png" group-title="地方频道",广州法治
 http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
-#EXTINF:-1 tvg-name="广州南国都市频道" tvg-logo="https://live.fanmingming.cn/tv/广州南国都市频道.png" group-title="地方频道",广州南国都市频道
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
-#EXTINF:-1 tvg-name="4K南国都市频道" tvg-logo="https://live.fanmingming.cn/tv/4K南国都市频道.png" group-title="地方频道",4K南国都市频道
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.cn/tv/南国都市.png" group-title="地方频道",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 tvg-name="广州竞赛频道" tvg-logo="https://live.fanmingming.cn/tv/广州竞赛频道.png" group-title="地方频道",广州竞赛频道
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.cn/tv/广州竞赛.png" group-title="地方频道",广州竞赛
 https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 #EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://www.helloimg.com/i/2024/10/10/6707defb7b984.png" group-title="地方频道",潮州综合
 http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8
