@@ -1085,6 +1085,8 @@ http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="地方频道",上海教育
 http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="地方频道",崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 
 #湖南/8个频道
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.cn/tv/湖南爱晚.png" group-title="地方频道",湖南爱晚
@@ -1121,6 +1123,14 @@ http://wouu.net:9977/udp/239.93.42.44:5140
 http://wouu.net:9977/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" group-title="地方频道",四川妇女儿童
 http://wouu.net:9977/udp/239.93.0.219:5140
+#EXTINF:-1 group-title="地方频道",乐山新闻综合
+http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",乐至综合
+http://175.155.106.72:89/live1/live1.m3u8?zsicd
+#EXTINF:-1 group-title="地方频道",利州综合
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="地方频道",剑阁综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 
 #广东/2个频道
 #EXTINF:-1 tvg-name="广州电视台综合频道" tvg-logo="https://live.fanmingming.cn/tv/广州电视台综合频道.png" group-title="地方频道",广州电视台综合频道
