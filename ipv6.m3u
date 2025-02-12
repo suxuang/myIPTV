@@ -581,10 +581,14 @@ http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-61150972
 http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" group-title="动画频道",喜羊羊与灰太狼
 http://1.94.31.214:35455/huya/23865080
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png" group-title="动画频道",宠物小精灵
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png" group-title="动画频道",精灵宝可梦
 http://1.94.31.214:35455/huya/23749096
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/航海王.png" group-title="动画频道",航海王
 http://1.94.31.214:35455/huya/16913382
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="动画频道",名侦探柯南
+http://1.94.31.214:35455/huya/30080236
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/中华小当家.png" group-title="动画频道",中华小当家
+http://1.94.31.214:35455/huya/11342413
 
 #IHOT频道
 #EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="IHOT频道",iHOT 爱喜剧
