@@ -1391,11 +1391,11 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 group-title="国际频道",Fox LiveNow
+#EXTINF:-1 tvg-name="Fox LiveNow" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="国际频道",Fox LiveNow
 https://jmp2.uk/sam-USBA300024TN.m3u8
-#EXTINF:-1 group-title="国际频道",CBC News
+#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="国际频道",CBC News
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
-#EXTINF:-1 group-title="国际频道",ABC News Live
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 group-title="国际频道",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
