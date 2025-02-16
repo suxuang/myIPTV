@@ -33,7 +33,7 @@ http://tv.20191209.xyz:37377/migu/624878440.m3u8?migutoken=d84c14c00275d7fa951be
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://tv.20191209.xyz:37377/migu/673168223.m3u8?migutoken=91bfd27ec54e6b68df329e3a36e211ea78e34558edc20ae3d76e0cbf89e6012d4e33c760dd200a4a41b2587c50dee210ca66da4ff8be48c4a97a2c7ab22d824ea440cc9c06961aa846be65a0
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800$LR•IPV4
+http://www.52iptv.vip:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://live.zbds.top/logo/CCTV4K.png" group-title="央视频道",CCTV 4K
@@ -528,8 +528,12 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv011
 http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/GoldenTV9.png" group-title="港澳台频道",靖天电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv061
-#EXTINF:-1 tvg-name="HOY TV" group-title="港澳台频道",HOY TV
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/HOYTV.png" group-title="港澳台频道",HOY TV
 http://cdn.132.us.kg/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://live.fanmingming.com/tv/港台电视31.png" group-title="港澳台频道",港台电视31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.com/tv/港台电视32.png" group-title="港澳台频道",港台电视32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
