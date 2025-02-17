@@ -767,8 +767,10 @@ http://182.40.120.195/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/琅琊榜.png" group-title="电视剧频道",琅琊榜
 http://zby.xjqxz.top/lyb/live.m3u8
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视剧频道",新三国
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
+http://tc-tct.douyucdn2.cn/dyliveflv1a/5908256rDlFrmHF6_4000.xs?wsAuth=3d3b70c173a402db1657d8aabdc70952&token=web-h5-0-5908256-e1a3ec39ffc07cbc7381a3e5f0b29d639c4ccec38cfa581d&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
+#http://182.40.120.195/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
 #http://huanqiuzhibo.cn/manifest/huya.php?id=11352944
+#http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视剧频道",新水浒传
 http://zby.xjqxz.top/shz/live.m3u8
 #http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
