@@ -12,7 +12,7 @@
 
 ## 💰打赏支持
 <p>
-<img width="200" height="200" src="https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/img/赞赏.png">
+<img width="200" height="200" src="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/赞赏.png">
 </p>
 
 ## 📖项目说明
