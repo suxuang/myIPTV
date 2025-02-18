@@ -1157,11 +1157,13 @@ http://www.cdnstv.com:6398/hls/1118/index.m3u8
 #EXTINF:-1 tvg-name="中华功夫" tvg-logo="https://live.fanmingming.cn/tv/中华功夫.png" group-title="地方频道",中华功夫
 http://www.cdnstv.com:6398/hls/1120/index.m3u8
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.cn/tv/武术世界.png" group-title="地方频道",武术世界
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8?IASHttpSessionId=
+http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+#http://www.lizhinas.top:1009/rtp/239.252.220.180:5140
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.cn/tv/文物宝库.png" group-title="地方频道",文物宝库
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8?IASHttpSessionId=
+http://www.lizhinas.top:1009/rtp/239.252.220.158:5140
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://live.fanmingming.cn/tv/河南梨园.png" group-title="地方频道",梨园频道
 http://183.196.87.176:880/hls/57/index.m3u8
+#http://www.lizhinas.top:1009/rtp/239.252.220.179:5140
 
 #黑龙江/6个频道
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Heilongjiang1.png" group-title="地方频道",黑龙江新闻法治
