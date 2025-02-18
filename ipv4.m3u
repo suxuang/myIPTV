@@ -176,9 +176,9 @@ http://ott.eonn.cn:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
 http://ott.eonn.cn:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://ott.eonn.cn:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="卫视频道",珠江卫视
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="卫视频道",珠江卫视
 http://ott.eonn.cn:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道",香港卫视
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="卫视频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
 http://ott.eonn.cn:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
@@ -290,14 +290,10 @@ http://ott.eonn.cn:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 #港澳台频道
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
 http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
-#http://cdn.132.us.kg/live/fhzw/stream.m3u8
-#http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯
 http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-#http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-#http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
-http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="港澳台频道",凤凰电影
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="港澳台频道",香港卫视
@@ -413,11 +409,9 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv011
 http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/GoldenTV9.png" group-title="港澳台频道",靖天电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv061
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/HOYTV.png" group-title="港澳台频道",HOY TV
-http://cdn.132.us.kg/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://live.fanmingming.com/tv/港台电视31.png" group-title="港澳台频道",港台电视31
+#EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://live.fanmingming.cn/tv/港台电视31.png" group-title="港澳台频道",港台电视31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.com/tv/港台电视32.png" group-title="港澳台频道",港台电视32
+#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.cn/tv/港台电视32.png" group-title="港澳台频道",港台电视32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 
 #动画频道
