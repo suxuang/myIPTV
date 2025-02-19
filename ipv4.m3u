@@ -987,21 +987,21 @@ http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 
 #☘️北京频道#
-#EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="☘️北京频道",BRTV纪实科教
+#EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="☘️北京频道",BRTV纪实科教
 http://www.lizhinas.top:1009/rtp/239.252.220.245:5140
-#EXTINF:-1 tvg-id="BRTV卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="☘️北京频道",BRTV卡酷少儿
+#EXTINF:-1 tvg-id="BRTV卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="☘️北京频道",BRTV卡酷少儿
 http://www.lizhinas.top:1009/rtp/239.252.220.246:5140
-#EXTINF:-1 tvg-id="BRTV新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="☘️北京频道",BRTV新闻
+#EXTINF:-1 tvg-id="BRTV新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="☘️北京频道",BRTV新闻
 http://114.246.102.14:4000/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="BRTV影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="☘️北京频道",BRTV影视
+#EXTINF:-1 tvg-id="BRTV影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.cn/tv/北京影视.png" group-title="☘️北京频道",BRTV影视
 http://114.246.102.14:4000/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="BRTV文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="☘️北京频道",BRTV文艺
+#EXTINF:-1 tvg-id="BRTV文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="☘️北京频道",BRTV文艺
 http://114.246.102.14:4000/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="BRTV财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="☘️北京频道",BRTV财经
+#EXTINF:-1 tvg-id="BRTV财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.cn/tv/北京财经.png" group-title="☘️北京频道",BRTV财经
 http://114.246.102.14:4000/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="BRTV生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="☘️北京频道",BRTV生活
+#EXTINF:-1 tvg-id="BRTV生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.cn/tv/北京生活.png" group-title="☘️北京频道",BRTV生活
 http://114.246.102.14:4000/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="☘️北京频道",BRTV体育休闲
+#EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.cn/tv/北京体育休闲.png" group-title="☘️北京频道",BRTV体育休闲
 http://114.246.183.121:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BRTV国际频道" tvg-name="北京国际频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing11.png" group-title="☘️北京频道",BRTV国际频道
 http://114.246.183.121:4022/rtp/239.3.1.235:8000
