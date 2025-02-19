@@ -758,7 +758,6 @@ http://1.94.31.214:35455/yy/1382736803
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",末日电影合集
 http://1.94.31.214:35455/yy/1354889019
 
-
 #电视剧频道
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧频道",延禧攻略
 http://1.94.31.214:35455/huya/26355864
@@ -1222,9 +1221,6 @@ https://hls.gstv.com.cn/49048r/l54391.m3u8
 https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-id="GS05" tvg-name="甘肃文化影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gansu/Gansu3.png" group-title="地方频道",甘肃文化影视
 https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-
-
-
 
 #黑龙江/6个频道
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Heilongjiang1.png" group-title="地方频道",黑龙江新闻法治
