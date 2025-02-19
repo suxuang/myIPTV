@@ -1006,25 +1006,28 @@ http://114.246.183.121:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BRTV国际频道" tvg-name="北京国际频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing11.png" group-title="☘️北京频道",BRTV国际频道
 http://114.246.183.121:4022/rtp/239.3.1.235:8000
 
-#上海/6个频道
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="地方频道",东方财经
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="地方频道",第一财经
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="地方频道",东方影视
-http://61.173.144.157:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="地方频道",上海都市
-http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="地方频道",上海新闻
-http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
-#http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="地方频道",上海外语
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="地方频道",上海教育
+#☘️上海频道#
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="☘️上海频道",纪实人文
+http://998969.xyz:35455/itv/5000000004000010282.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="☘️上海频道",上海新闻
+http://998969.xyz:35455/itv/5000000011000031110.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="☘️上海频道",东方财经
+http://998969.xyz:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="☘️上海频道",第一财经
+http://998969.xyz:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="☘️上海频道",东方影视
+http://998969.xyz:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="☘️上海频道",五星体育
+http://998969.xyz:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="️☘️上海频道",哈哈炫动
+http://998969.xyz:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="☘️上海频道",上海都市
+http://998969.xyz:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="☘️上海频道",上海外语
+http://998969.xyz:35455/itv/2000000002000000001.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="☘️上海频道",上海教育
 http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="地方频道",崇明电视台
+#EXTINF:-1 group-title="☘️上海频道",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 
 #湖南/8个频道
