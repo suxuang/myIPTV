@@ -1,45 +1,47 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://jf.jxx2023.work:40446/tsfile/live/0001_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://jf.jxx2023.work:40446/tsfile/live/0002_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://jf.jxx2023.work:40446/tsfile/live/0003_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://jf.jxx2023.work:40446/tsfile/live/0004_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 欧洲
 http://www.lizhinas.top:1009/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 美洲
 http://www.lizhinas.top:1009/rtp/239.252.219.193:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://jf.jxx2023.work:40446/tsfile/live/0005_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://jf.jxx2023.work:40446/tsfile/live/0016_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://jf.jxx2023.work:40446/tsfile/live/0006_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://jf.jxx2023.work:40446/tsfile/live/0007_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://jf.jxx2023.work:40446/tsfile/live/0008_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://jf.jxx2023.work:40446/tsfile/live/0009_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://jf.jxx2023.work:40446/tsfile/live/0010_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://jf.jxx2023.work:40446/tsfile/live/0011_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://jf.jxx2023.work:40446/tsfile/live/0012_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://jf.jxx2023.work:40446/tsfile/live/0013_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265101.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://jf.jxx2023.work:40446/tsfile/live/0014_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://jf.jxx2023.work:40446/tsfile/live/0015_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
+http://xiaoya.crccxw.top:35455/itv/1000000006000233001.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
+http://xiaoya.crccxw.top:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://jf.jxx2023.work:40446/tsfile/live/0017_1.m3u8
+http://xiaoya.crccxw.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://live.zbds.top/logo/CCTV4K.png" group-title="央视频道",CCTV 4K
 https://stream1.freetv.fun/cctv4k-2.ctv
 #EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://live.zbds.top/logo/CCTV8K.png" group-title="央视频道",CCTV 8K
