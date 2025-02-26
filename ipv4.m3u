@@ -186,12 +186,10 @@ http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
 http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
 #http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC2.png" group-title="数字频道",CHC家庭影院
-http://tvbox6.icu/tv/migu.php?id=chcjtdy
-#http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
+http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 #http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC3.png" group-title="数字频道",CHC动作电影
-http://tvbox6.icu/tv/migu.php?id=chcdzdy
-#http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
+http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
 #http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道",求索纪录
 http://home.wwang.pw:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
