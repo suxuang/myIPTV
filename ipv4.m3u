@@ -1026,31 +1026,36 @@ https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 #☘️湖南频道#
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hunan/Hunan9.png" group-title="☘️湖南频道",金鹰纪实
-http://drive.mxmy.net:8888/udp/239.3.1.58:8156
+http://tvbox6.icu/tv/mgtv.php?id=316
+#http://drive.mxmy.net:8888/udp/239.3.1.58:8156
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hunan/Hunan10.png" group-title="☘️湖南频道",金鹰卡通
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPTlhZmE5MTUyZDc0YTQwOTk0OWJlYmIyZDRiNWY0Yjc5JnVpZD0mdXVpZD02ZGVmMWMyZjNiZjExZWNiNDcxZGYzNmI0M2E2MDk1NC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQwNzA1Mjk2/JYKTMPP360.m3u8
+http://tvbox6.icu/tv/mgtv.php?id=287
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="☘️湖南频道",茶友频道
 http://drive.mxmy.net:8888/udp/239.3.1.165:8001
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="☘️湖南频道",快乐垂钓
 http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.cn/tv/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPWIxMzI3MzlmZDZiMDEwZWZkMTQxNzE4YzI2ZTg5MDNhJnVpZD0mdXVpZD1iYjYxODBhZDMwNDljOWRiZDk4N2U4NThkODNhZmQ1ZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQwNDA4OTMw/HNGGMPP360.m3u8
+http://tvbox6.icu/tv/mgtv.php?id=261
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.cn/tv/湖南电视剧.png" group-title="☘️湖南频道",湖南视剧
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPTIyMzA1MTRlMGU1M2M1MGNlZDM1YTQ0N2U4OTcyOTdjJnVpZD0mdXVpZD01NjY4ZTVlMjdmMzU0Yjg5NzA1OGVmM2M0YWIwZjAwMy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQwNzIyOTM3/HNDSJMPP360.m3u8
+http://tvbox6.icu/tv/mgtv.php?id=484
 #EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.cn/tv/湖南电影.png" group-title="☘️湖南频道",湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+http://tvbox6.icu/tv/mgtv.php?id=221
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.cn/tv/湖南都市.png" group-title="☘️湖南频道",湖南都市
-http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz1hOTQwYjQ3ZGE1Y2I3ZDM3ZTcwMzc2NGMxMTEyZTRiNSZ1aWQ9JnV1aWQ9MGQxNmRiNmM2NmZiNTMwNjg2NGYwNjRkY2JhNzIyM2UtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDcwNTI3NQ,,/HNDSMPP360.m3u8
+http://tvbox6.icu/tv/mgtv.php?id=346
 #EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.cn/tv/湖南国际.png" group-title="☘️湖南频道",湖南国际
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPTM4ZWVjNDRhNzkwNzNjYmRhZjA3MDNjNTBlM2EyODg5JnVpZD0mdXVpZD0wMWYxOTJkZmNiOWQ4MTg2NzBhMTAwYTliMDBiYzU4OS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQwNzMyNDU1/HNGJMPP360.m3u8
+http://tvbox6.icu/tv/mgtv.php?id=229
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/湖南经视.png" group-title="☘️湖南频道",湖南经视
-http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz1lMWRhYjdmZjFiMmRiOTRjNTBmYWI4M2I4M2JhYjkwMiZ1aWQ9JnV1aWQ9OWE2NTBkZTI2NDcxMmZkZDIwOGY0NTE4ZjZhYzU5NDAtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDcxMDAzNw,,/HNJSMPP360.m3u8
+http://tvbox6.icu/tv/mgtv.php?id=280
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.cn/tv/湖南娱乐.png" group-title="☘️湖南频道",湖南娱乐
-http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz1lZTJlN2U3NDVhMDljZTAxYmJkOTJhYWM3M2ZmYjJkMiZ1aWQ9JnV1aWQ9NTRhMjk2ZWU5ZWQ2MzFiNmJjOWU5ZDBhNjUxY2Q3MTctNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDcxODUxMg,,/HNYLMPP360.m3u8
+http://tvbox6.icu/tv/mgtv.php?id=344
 #EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://live.fanmingming.cn/tv/湖南教育.png" group-title="☘️湖南频道",湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1 tvg-id="长沙新闻" tvg-logo="http://tv.haoqu99.com/d/file/2021/0215/small7ff3d34c5627b5c263817abeff70e23d.gif" group-title="☘️湖南频道",长沙新闻
-http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz04NDMyZDU1Y2QyYzk3OTVlMjI1M2JlODNmNzY3ODdjMiZ1aWQ9JnV1aWQ9ODFmNTk0OTg3MGIwZWVmZDljMjZkYzgwOTkwODgyNzctNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDczMzI0Mg,,/CSXWMPP360.m3u8
+http://tvbox6.icu/tv/mgtv.php?id=269
+#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/长沙政法.png" group-title="☘️湖南频道",长沙政法
+http://tvbox6.icu/tv/mgtv.php?id=254
+#EXTINF:-1 tvg-name="长沙女性" tvg-logo="https://live.fanmingming.com/tv/长沙女性.png" group-title="☘️湖南频道",长沙女性
+http://tvbox6.icu/tv/mgtv.php?id=230
 
 #☘️四川频道#
 #EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan3.png" group-title="☘️四川频道",四川新闻
