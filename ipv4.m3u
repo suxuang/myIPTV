@@ -226,7 +226,7 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="漫威电影" tvg-name="漫威电影" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/漫威电影.png" group-title="🚀数字频道",漫威电影
 http://1.94.31.214:35455/douyu/6140589
 #EXTINF:-1 tvg-id="豆瓣电影" tvg-name="豆瓣电影" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/豆瓣电影.png" group-title="🚀数字频道",豆瓣电影
-http://zzy789.xyz/douyu1.php?id=8770422
+http://1.94.31.214:35455/douyu/8770422
 #EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/bjtdy.png" group-title="🚀数字频道",淘电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2
 #http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -282,8 +282,6 @@ http://www.xzbn.site:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 http://www.xzbn.site:35455/itv/5000000010000026105.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/南国都市.png" group-title="🚀数字频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://live.fanmingming.cn/tv/足球频道.png" group-title="🚀数字频道",足球频道
-http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://live.fanmingming.cn/tv/天元围棋.png" group-title="🚀数字频道",天元围棋
 http://wouu.net:9977/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="🚀数字频道",睛彩竞技
