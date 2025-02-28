@@ -511,112 +511,112 @@ http://www.xzbn.site:35455/itv/2000000004000000059.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="🎥IHOT频道",iHOT 爱体育
 http://www.xzbn.site:35455/itv/2000000004000000060.m3u8?cdn=hnbblive
 
-#NewTV频道
-#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://epg.iill.top/logo/NewTV超级电影.png" group-title="NewTV频道",NewTV 超级电影
+#✨NewTV频道
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://epg.iill.top/logo/NewTV超级电影.png" group-title="✨NewTV频道",NewTV 超级电影
 http://www.xzbn.site:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" group-title="NewTV频道",NewTV 超级电视剧
+#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" group-title="✨NewTV频道",NewTV 超级电视剧
 http://www.xzbn.site:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://epg.iill.top/logo/NewTV超级体育.png" group-title="NewTV频道",NewTV 超级体育
+#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://epg.iill.top/logo/NewTV超级体育.png" group-title="✨NewTV频道",NewTV 超级体育
 http://www.xzbn.site:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://epg.iill.top/logo/NewTV超级综艺.png" group-title="NewTV频道",NewTV 超级综艺
+#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://epg.iill.top/logo/NewTV超级综艺.png" group-title="✨NewTV频道",NewTV 超级综艺
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://epg.iill.top/logo/NewTV金牌综艺.png" group-title="NewTV频道",NewTV 金牌综艺
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://epg.iill.top/logo/NewTV金牌综艺.png" group-title="✨NewTV频道",NewTV 金牌综艺
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="魅力潇湘" tvg-name="魅力潇湘" tvg-logo="https://epg.iill.top/logo/NewTV魅力潇湘.png" group-title="NewTV频道",NewTV 魅力潇湘
+#EXTINF:-1 tvg-id="魅力潇湘" tvg-name="魅力潇湘" tvg-logo="https://epg.iill.top/logo/NewTV魅力潇湘.png" group-title="✨NewTV频道",NewTV 魅力潇湘
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://epg.iill.top/logo/NewTV东北热剧.png" group-title="NewTV频道",NewTV 东北热剧
+#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://epg.iill.top/logo/NewTV东北热剧.png" group-title="✨NewTV频道",NewTV 东北热剧
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" group-title="NewTV频道",NewTV 古装剧场
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" group-title="✨NewTV频道",NewTV 古装剧场
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://epg.iill.top/logo/NewTV欢乐剧场.png" group-title="NewTV频道",NewTV 欢乐剧场
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://epg.iill.top/logo/NewTV欢乐剧场.png" group-title="✨NewTV频道",NewTV 欢乐剧场
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://epg.iill.top/logo/NewTV怡伴健康.png" group-title="NewTV频道",NewTV 怡伴健康
+#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://epg.iill.top/logo/NewTV怡伴健康.png" group-title="✨NewTV频道",NewTV 怡伴健康
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.iill.top/logo/NewTV潮妈辣婆.png" group-title="NewTV频道",NewTV 潮妈辣婆
+#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.iill.top/logo/NewTV潮妈辣婆.png" group-title="✨NewTV频道",NewTV 潮妈辣婆
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.iill.top/logo/NewTV军旅剧场.png" group-title="NewTV频道",NewTV 军旅剧场
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.iill.top/logo/NewTV军旅剧场.png" group-title="✨NewTV频道",NewTV 军旅剧场
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://epg.iill.top/logo/NewTV军事评论.png" group-title="NewTV频道",NewTV 军事评论
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://epg.iill.top/logo/NewTV军事评论.png" group-title="✨NewTV频道",NewTV 军事评论
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://epg.iill.top/logo/NewTV中国功夫.png" group-title="NewTV频道",NewTV 中国功夫
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://epg.iill.top/logo/NewTV中国功夫.png" group-title="✨NewTV频道",NewTV 中国功夫
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://epg.iill.top/logo/NewTV农业致富.png" group-title="NewTV频道",NewTV 农业致富
+#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://epg.iill.top/logo/NewTV农业致富.png" group-title="✨NewTV频道",NewTV 农业致富
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6193684637634073625/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://epg.iill.top/logo/NewTV动作电影.png" group-title="NewTV频道",NewTV 动作电影
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://epg.iill.top/logo/NewTV动作电影.png" group-title="✨NewTV频道",NewTV 动作电影
 http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
 #http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://epg.iill.top/logo/NewTV家庭剧场.png" group-title="NewTV频道",NewTV 家庭剧场
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://epg.iill.top/logo/NewTV家庭剧场.png" group-title="✨NewTV频道",NewTV 家庭剧场
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://epg.iill.top/logo/NewTV惊悚悬疑.png" group-title="NewTV频道",NewTV 惊悚悬疑
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://epg.iill.top/logo/NewTV惊悚悬疑.png" group-title="✨NewTV频道",NewTV 惊悚悬疑
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://epg.iill.top/logo/NewTV炫舞未来.png" group-title="NewTV频道",NewTV 炫舞未来
+#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://epg.iill.top/logo/NewTV炫舞未来.png" group-title="✨NewTV频道",NewTV 炫舞未来
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://epg.iill.top/logo/NewTV精品萌宠.png" group-title="NewTV频道",NewTV 精品萌宠
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://epg.iill.top/logo/NewTV精品萌宠.png" group-title="✨NewTV频道",NewTV 精品萌宠
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://epg.iill.top/logo/NewTV精品体育.png" group-title="NewTV频道",NewTV 精品体育
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://epg.iill.top/logo/NewTV精品体育.png" group-title="✨NewTV频道",NewTV 精品体育
 http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
 #http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://epg.iill.top/logo/NewTV精品大剧.png" group-title="NewTV频道",NewTV 精品大剧
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://epg.iill.top/logo/NewTV精品大剧.png" group-title="✨NewTV频道",NewTV 精品大剧
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="精品记录" tvg-name="精品记录" tvg-logo="https://epg.iill.top/logo/NewTV精品记录.png" group-title="NewTV频道",NewTV 精品记录
+#EXTINF:-1 tvg-id="精品记录" tvg-name="精品记录" tvg-logo="https://epg.iill.top/logo/NewTV精品记录.png" group-title="✨NewTV频道",NewTV 精品记录
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://epg.iill.top/logo/NewTV武搏世界.png" group-title="NewTV频道",NewTV 武搏世界
+#EXTINF:-1 tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://epg.iill.top/logo/NewTV武搏世界.png" group-title="✨NewTV频道",NewTV 武搏世界
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.iill.top/logo/NewTV明星大片.png" group-title="NewTV频道",NewTV 明星大片
+#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.iill.top/logo/NewTV明星大片.png" group-title="✨NewTV频道",NewTV 明星大片
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://epg.iill.top/logo/NewTV海外剧场.png" group-title="NewTV频道",NewTV 海外剧场
+#EXTINF:-1 tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://epg.iill.top/logo/NewTV海外剧场.png" group-title="✨NewTV频道",NewTV 海外剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://epg.iill.top/logo/NewTV爱情喜剧.png" group-title="NewTV频道",NewTV 爱情喜剧
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://epg.iill.top/logo/NewTV爱情喜剧.png" group-title="✨NewTV频道",NewTV 爱情喜剧
 http://www.xzbn.site:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 
-#百事通频道
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",星光影院
+#💰百事通频道
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",星光影院
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288013/index.m3u8?channel-id=bestzb&Contentid=5000000011000288013&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",谍战剧场
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",谍战剧场
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288004/index.m3u8?channel-id=bestzb&Contentid=5000000011000288004&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",华语影院
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",华语影院
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288005/index.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",全球大片
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",全球大片
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288009/index.m3u8?channel-id=bestzb&Contentid=5000000011000288009&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",热门剧场
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",热门剧场
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288010/index.m3u8?channel-id=bestzb&Contentid=5000000011000288010&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",宝宝动画
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",宝宝动画
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288002/index.m3u8?channel-id=bestzb&Contentid=5000000011000288002&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",精品综合
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",精品综合
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5595720619887440144/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",电竞天堂
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",电竞天堂
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",热门综艺
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",热门综艺
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288011/index.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",戏曲精选
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",戏曲精选
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288012/index.m3u8?channel-id=bestzb&Contentid=5000000011000288012&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",热播精选
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",热播精选
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/7681593242002292003/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",看天下精选
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",看天下精选
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288007/index.m3u8?channel-id=bestzb&Contentid=5000000011000288007&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",亚洲影院
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",亚洲影院
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",欧美影院
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",欧美影院
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",探索纪录
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",探索纪录
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",少儿动漫
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",少儿动漫
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",青春动漫
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",青春动漫
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",百变课堂
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",百变课堂
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288001/index.m3u8?channel-id=bestzb&Contentid=5000000011000288001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",电子竞技
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",电子竞技
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",风尚音乐
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",风尚音乐
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",高清娱乐
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",高清娱乐
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",漫游世界
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",漫游世界
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",健康养生
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",健康养生
 http://www.xzbn.site:35455/itv/5000000011000288006.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",英雄联盟音乐节
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="💰百事通",英雄联盟音乐节
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/8978605063318475207/index.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=YanG-1989
 
 #🏀咪咕直播
@@ -875,56 +875,56 @@ http://1.94.31.214:35455/huya/23865142
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="📺电视剧频道",梦中的那片海
 http://1.94.31.214:35455/huya/26355765
 
-#埋堆堆频道
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",楚汉骄雄
+#🏛埋堆堆频道
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",楚汉骄雄
 http://1.94.31.214:35455/huya/29465854
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",封神榜
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",封神榜
 http://1.94.31.214:35455/huya/29465849
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",西游记1
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",西游记1
 http://1.94.31.214:35455/huya/23728660
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",西游记2
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",西游记2
 http://1.94.31.214:35455/huya/29465859
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",天龙八部
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",天龙八部
 http://1.94.31.214:35455/huya/23903123
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",鹿鼎记
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",鹿鼎记
 http://1.94.31.214:35455/yy/28265277
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",寻秦记
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",寻秦记
 http://1.94.31.214:35455/huya/29465848
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",大唐双龙传
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",大唐双龙传
 http://1.94.31.214:35455/huya/23728674
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",神雕侠侣
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",神雕侠侣
 http://1.94.31.214:35455/huya/23865171
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",射雕英雄传
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",射雕英雄传
 http://1.94.31.214:35455/huya/23824164
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",倚天屠龙记
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",倚天屠龙记
 http://1.94.31.214:35455/huya/23734246
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",笑傲江湖
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",笑傲江湖
 http://1.94.31.214:35455/huya/23865142
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",刑事侦缉档案
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",刑事侦缉档案
 http://1.94.31.214:35455/huya/29465856
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",法政先锋
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",法政先锋
 http://1.94.31.214:35455/huya/23863804
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",洗冤录
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",洗冤录
 http://1.94.31.214:35455/huya/29465851
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",陀枪师姐
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",陀枪师姐
 http://1.94.31.214:35455/huya/29465857
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",使徒行者
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",使徒行者
 http://1.94.31.214:35455/huya/23734256
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",鉴证实录
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",鉴证实录
 http://1.94.31.214:35455/huya/23903183
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",金枝欲孽
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",金枝欲孽
 http://1.94.31.214:35455/huya/23865036
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",扫黄先锋
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",扫黄先锋
 http://1.94.31.214:35455/huya/29465855
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",创世纪
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",创世纪
 http://1.94.31.214:35455/huya/29465852
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",妙手仁心
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",妙手仁心
 http://1.94.31.214:35455/huya/29465853
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",大时代
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",大时代
 http://1.94.31.214:35455/huya/23865161
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",野蛮亲家
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",野蛮亲家
 http://1.94.31.214:35455/huya/23863796
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",笑看风云
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="🏛埋堆堆频道",笑看风云
 http://1.94.31.214:35455/huya/29465858
 
 #🎞️点播电影
