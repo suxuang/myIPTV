@@ -188,7 +188,8 @@ http://www.xzbn.site:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="卫视频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
-http://www.xzbn.site:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#http://www.xzbn.site:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
 
 #数字频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="数字频道",CHC影迷电影
