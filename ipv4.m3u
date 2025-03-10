@@ -18,6 +18,7 @@ http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8
 http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
+#http://goo.bkpcp.top/mg/cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
