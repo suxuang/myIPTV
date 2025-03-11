@@ -1167,6 +1167,38 @@ http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 #EXTINF:-1 tvg-name="马尔康综合" tvg-logo="https://live.fanmingming.cn/tv/马尔康综合.png" group-title="☘️四川频道",马尔康综合
 http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 tvg-name="青神综合" tvg-logo="https://live.fanmingming.com/tv/青神综合.png" group-title="☘️四川频道",青神综合
+http://lmt.scqstv.com:80/live1/live1.m3u8
+#EXTINF:-1 tvg-name="青川综合" tvg-logo="https://live.fanmingming.com/tv/青川综合.png" group-title="☘️四川频道",青川综合
+http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+#EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="https://live.fanmingming.com/tv/雅安新闻综合.png" group-title="☘️四川频道",雅安新闻综合
+https://play.yunxya.com/channellive/xinwen.m3u8
+#EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://live.fanmingming.com/tv/长宁综合.png" group-title="☘️四川频道",长宁综合
+http://cnpull.sccnfb.com:80/live/123456.m3u8
+#EXTINF:-1 tvg-name="荥经综合" tvg-logo="https://live.fanmingming.com/tv/荥经综合.png" group-title="☘️四川频道",荥经综合
+https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+#EXTINF:-1 tvg-name="绵阳科技" tvg-logo="https://live.fanmingming.com/tv/绵阳科技.png" group-title="☘️四川频道",绵阳科技
+http://livepull.myntv.cn:80/rtmp/mykj.m3u8
+#EXTINF:-1 tvg-name="绵阳综合" tvg-logo="https://live.fanmingming.com/tv/绵阳综合.png" group-title="☘️四川频道",绵阳综合
+http://119.6.59.216:60033/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="筠连综合" tvg-logo="https://live.fanmingming.com/tv/筠连综合.png" group-title="☘️四川频道",筠连综合
+http://live.dameijunlian.cn:80/live1/live1.m3u8
+#EXTINF:-1 tvg-name="甘孜综合" tvg-logo="https://live.fanmingming.com/tv/甘孜综合.png" group-title="☘️四川频道",甘孜综合
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+#EXTINF:-1 tvg-name="石棉综合" tvg-logo="https://live.fanmingming.com/tv/石棉综合.png" group-title="☘️四川频道",石棉综合
+rtmp://tv.yunxya.com:1937/channellive/shimian
+#EXTINF:-1 tvg-name="泸县新闻综合" tvg-logo="https://live.fanmingming.com/tv/泸县新闻综合.png" group-title="☘️四川频道",泸县新闻综合
+https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
+#EXTINF:-1 tvg-name="汉源综合" tvg-logo="https://live.fanmingming.com/tv/汉源综合.png" group-title="☘️四川频道",汉源综合
+http://live.hyxrmt.com:85/live/xwpd.m3u8
+#EXTINF:-1 tvg-name="攀枝花新闻综合" tvg-logo="https://live.fanmingming.com/tv/攀枝花新闻综合.png" group-title="☘️四川频道",攀枝花新闻综合
+http://live.pzhkai.com/xwzhtl/sd/live.m3u8
+#EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://live.fanmingming.com/tv/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
+http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+#EXTINF:-1 tvg-name="昭化综合" tvg-logo="https://live.fanmingming.com/tv/昭化综合.png" group-title="☘️四川频道",昭化综合
+http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
+#EXTINF:-1 tvg-name="朝天综合" tvg-logo="https://live.fanmingming.com/tv/朝天综合.png" group-title="☘️四川频道",朝天综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 
 #☘️辽宁频道#
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.cn/tv/辽宁北方.png" group-title="☘️辽宁频道",辽宁北方
