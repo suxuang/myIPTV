@@ -1363,16 +1363,18 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND
-#EXTINF:-1 tvg-name="北京IPTV 淘电影" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV 淘电影.png" group-title="北京频道",北京IPTV 淘电影
+#EXTINF:-1 tvg-name="北京IPTV 淘电影" tvg-logo="https://live.fanmingming.cn/tv/淘电影.png" group-title="北京频道",淘电影
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-#EXTINF:-1 tvg-name="北京IPTV 淘剧场" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV 淘剧场.png" group-title="北京频道",北京IPTV 淘剧场
+#EXTINF:-1 tvg-name="北京IPTV 淘剧场" tvg-logo="https://live.fanmingming.cn/tv/淘剧场.png" group-title="北京频道",淘剧场
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
-#EXTINF:-1 tvg-name="北京IPTV 淘娱乐" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV 淘娱乐.png" group-title="北京频道",北京IPTV 淘娱乐
+#EXTINF:-1 tvg-name="北京IPTV 淘娱乐" tvg-logo="https://live.fanmingming.cn/tv/淘娱乐.png" group-title="北京频道",淘娱乐
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-#EXTINF:-1 tvg-name="北京IPTV 淘BABY" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV 淘BABY.png" group-title="北京频道",北京IPTV 淘BABY
+#EXTINF:-1 tvg-name="北京IPTV 淘BABY" tvg-logo="https://live.fanmingming.cn/tv/淘BABY.png" group-title="北京频道",淘BABY
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-#EXTINF:-1 tvg-name="北京IPTV 萌宠TV" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV 萌宠TV.png" group-title="北京频道",北京IPTV 萌宠TV
+#EXTINF:-1 tvg-name="北京IPTV 萌宠TV" tvg-logo="https://live.fanmingming.cn/tv/萌宠TV.png" group-title="北京频道",萌宠TV
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
+#EXTINF:-1 tvg-name="北京IPTV" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV.png" group-title="北京频道",北京4K超清
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 
 #上海/6个频道
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="地方频道",东方财经
