@@ -1622,6 +1622,8 @@ http://1.94.31.214/php/hntv.php?id=wspd
 http://1.94.31.214/php/hntv.php?id=jczy
 #EXTINF:-1 tvg-name="移动戏曲" tvg-logo="https://live.fanmingming.cn/tv/移动戏曲.png" group-title="☘️河南频道",移动戏曲
 http://1.94.31.214/php/hntv.php?id=ydxj
+#EXTINF:-1 tvg-name="象视界" tvg-logo="https://live.fanmingming.cn/tv/象视界.png" group-title="☘️河南频道",象视界
+http://1.94.31.214/php/hntv.php?id=xsj
 
 #☘️河北频道#
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="☘️河北频道",河北卫视
