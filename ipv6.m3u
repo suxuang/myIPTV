@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
@@ -38,9 +38,9 @@ http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://live.zbds.top/logo/CCTV4K.png" group-title="央视频道",CCTV 4K
-https://stream1.freetv.fun/cctv4k-4.m3u8
+http://3501776.xyz:35455/gaoma/cctv4k.m3u8
 #EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://live.zbds.top/logo/CCTV8K.png" group-title="央视频道",CCTV 8K
-https://stream1.freetv.fun/cctv8k-3.m3u8
+http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVbqkj.png" group-title="央视频道",CCTV-兵器科技
 http://dassby.qqff.top:99/live/兵器科技/index.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="央视频道",CCTV-世界地理
