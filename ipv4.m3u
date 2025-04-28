@@ -508,7 +508,7 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv052
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV1.png" group-title="港澳台频道",中视新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png" group-title="港澳台频道",三立新闻
-https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
+http://live4play.uk/livehttpplay?channel_id=10126
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" group-title="港澳台频道",非凡新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv010
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png" group-title="港澳台频道",寰宇新闻
@@ -518,13 +518,17 @@ https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png" group-title="港澳台频道",东森超视
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC7.png" group-title="港澳台频道",东森财经
-http://litv.zapi.us.kg/?id=4gtv-4gtv153
+http://live4play.uk/livehttpplay?channel_id=20078
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="港澳台频道",东森电影
 http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="港澳台频道",东森综合
 http://live4play.uk/livehttpplay?channel_id=20104
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" group-title="港澳台频道",东森电影
 http://live4play.uk/livehttpplay?channel_id=20077
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="港澳台频道",东森洋片
+http://live4play.uk/livehttpplay?channel_id=20080
+#EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" group-title="港澳台频道",东森戏剧
+http://live4play.uk/livehttpplay?channel_id=20072
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" group-title="港澳台频道",美亚电影
 http://live4play.uk/livehttpplay?channel_id=20197
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="港澳台频道",民视新闻台
@@ -549,8 +553,10 @@ rtmp://f13h.mine.nu/sat/tv761
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai4.png" group-title="港澳台频道",纬来电影
 http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" group-title="港澳台频道",纬来电影
+http://live4play.uk/livehttpplay?channel_id=20199
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="港澳台频道",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
+http://live4play.uk/livehttpplay?channel_id=20120
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来音乐台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai6.png" group-title="港澳台频道",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai7.png" group-title="港澳台频道",纬来精采
