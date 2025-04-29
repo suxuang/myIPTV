@@ -1024,9 +1024,9 @@ http://dsj.motem.top:8880/itv/3000000010000005180.m3u8
 #EXTINF:-1 tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="咪咕体育",咪咕体育4K-2
 http://dsj.motem.top:8880/itv/3000000010000015686.m3u8
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕直播1
-http://dsj.motem.top:8880/itv/3000000001000005308.m3u8?cdn=FifastbLive
+http://dsj.motem.top:8880/itv/3000000001000005308.m3u8
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕直播2
-http://dsj.motem.top:8880/itv/3000000001000005969.m3u8?cdn=FifastbLive
+http://dsj.motem.top:8880/itv/3000000001000005969.m3u8
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕直播3
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕直播4
