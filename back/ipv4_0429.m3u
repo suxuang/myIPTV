@@ -3,39 +3,44 @@
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://itv.iptv1688.top:2016/itv.php?id=CCTV2
+http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://itv.iptv1688.top:2016/itv.php?id=CCTV3
+http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://itv.iptv1688.top:2016/itv.php?id=CCTV4
+http://itv.iptv1688.top:2016/itv.php?id=CCTV1
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 欧洲
+http://drive.mxmy.net:8888/udp/239.3.1.213:4220
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 美洲
+http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://itv.iptv1688.top:2016/itv.php?id=CCTV5
+http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
+http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://itv.iptv1688.top:2016/itv.php?id=CCTV6
+http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
+#http://goo.bkpcp.top/mg/cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://itv.iptv1688.top:2016/itv.php?id=CCTV7
+http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://itv.iptv1688.top:2016/itv.php?id=CCTV8
+http://xiaoya.crccxw.top:35455/gaoma/cctv8.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://itv.iptv1688.top:2016/itv.php?id=CCTV9
+http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://itv.iptv1688.top:2016/itv.php?id=CCTV10
+http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://itv.iptv1688.top:2016/itv.php?id=CCTV11
+http://xiaoya.crccxw.top:35455/gaoma/cctv11.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://itv.iptv1688.top:2016/itv.php?id=CCTV12
+http://xiaoya.crccxw.top:35455/gaoma/cctv12.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://itv.iptv1688.top:2016/itv.php?id=CCTV13
+http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://itv.iptv1688.top:2016/itv.php?id=CCTV14
+http://xiaoya.crccxw.top:35455/gaoma/cctv14.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://itv.iptv1688.top:2016/itv.php?id=CCTV15
+http://xiaoya.crccxw.top:35455/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://itv.iptv1688.top:2016/itv.php?id=CCTV16
+http://xiaoya.crccxw.top:35455/gaoma/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://itv.iptv1688.top:2016/itv.php?id=CCTV17
+http://xiaoya.crccxw.top:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://live.zbds.top/logo/CCTV4K.png" group-title="央视频道",CCTV 4K
 http://3501776.xyz:35455/gaoma/cctv4k.m3u8
 #EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://live.zbds.top/logo/CCTV8K.png" group-title="央视频道",CCTV 8K
