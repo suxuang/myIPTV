@@ -550,11 +550,14 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #数字频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="数字频道",CHC影迷电影
-http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
+#http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC2.png" group-title="数字频道",CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
+#http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC3.png" group-title="数字频道",CHC动作电影
-http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
+#http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道",求索纪录
 http://111.22.153.159:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道",求索科学
@@ -565,6 +568,18 @@ http://111.22.153.159:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 http://111.22.153.159:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="数字频道",纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="数字频道",北京IPTV4K
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887500.m3u8
+#EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="数字频道",萌宠TV
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887495.m3u8
+#EXTINF:-1 tvg-name="淘BABY" tvg-logo="https://epg.v1.mk/logo/淘BABY.png" group-title="数字频道",淘BABY
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://epg.v1.mk/logo/淘剧场.png" group-title="数字频道",淘剧场
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://epg.v1.mk/logo/淘电影.png" group-title="数字频道",淘电影
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://epg.v1.mk/logo/淘娱乐.png" group-title="数字频道",淘娱乐
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K"  tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/ah4k.png" tvg-logo="" group-title="数字频道",爱上4K
 http://wouu.net:9977/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K"  tvg-logo="https://epg.iill.top/logo/%E5%8D%8E%E6%95%B04K.png" tvg-logo="" group-title="数字频道",华数4K
