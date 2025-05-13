@@ -635,7 +635,8 @@ http://111.22.153.159:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" tvg-name="生活时尚" group-title="数字频道",生活时尚
 http://111.22.153.159:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" tvg-name="都市剧场" group-title="数字频道",都市剧场
-http://111.22.153.159:35455/itv/5000000011000031111.m3u8?cdn=bestzb
+http://112.46.105.20:8009/hls/72/index.m3u8
+#http://111.22.153.159:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" tvg-name="金色学堂" group-title="数字频道",金色学堂
 http://111.22.153.159:35455/itv/5000000010000026105.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/南国都市.png" group-title="数字频道",南国都市
