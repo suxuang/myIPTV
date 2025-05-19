@@ -15,6 +15,8 @@
 
 🌐订阅链接-IPV6专用：_https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u_
 
+🌐订阅链接-移动专用（简洁版）：_https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt_
+
 ## 💰打赏支持
 <p>
 <img width="200" height="200" src="https://gitee.com/suxuang/logo/raw/master/logo/%E8%B5%9E%E8%B5%8F.png">
