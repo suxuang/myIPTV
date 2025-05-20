@@ -99,7 +99,7 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://nctv.top/IDOEPpiryt/jstv5.php?id=jsws
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226692/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -191,8 +191,6 @@ http://111.22.153.159:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 tvg-name="西部电影" tvg-logo="https://live.fanmingming.cn/tv/西部电影.png" group-title="卫视频道",西部电影
-http://112.46.105.20:8009/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="长影频道" tvg-logo="https://live.fanmingming.cn/tv/长影频道.png" group-title="卫视频道",长影频道
 http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="央视新闻" tvg-logo="https://live.fanmingming.cn/tv/央视新闻.png" group-title="卫视频道",央视新闻
