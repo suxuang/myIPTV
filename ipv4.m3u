@@ -1002,8 +1002,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011522/index.m3u
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
 http://112.46.105.20:8009/hls/69/index.m3u8
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="动画频道",北京卡酷
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1747569614&sign=5ab56420b553da6ad10853f9c6c08d2e
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hunan/Hunan10.png" group-title="动画频道",金鹰卡通
 http://112.46.105.20:8009/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="动画频道",优漫卡通
