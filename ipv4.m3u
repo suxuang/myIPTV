@@ -807,11 +807,9 @@ http://live4play.uk/livehttpplay?channel_id=10104
 #EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="港澳台频道",DAZN体育2
 http://live4play.uk/livehttpplay?channel_id=10105
 #EXTINF:-1 tvg-name="ELEVEN体育1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ELTA4.png" group-title="港澳台频道",ELEVEN体育1
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
-#rtmp://f13h.mine.nu/sat/tv731
+rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="ELEVEN体育2" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ELTA5.png" group-title="港澳台频道",ELEVEN体育2
-http://108.181.20.197/livehttpplay?channel_id=20107
-#rtmp://f13h.mine.nu/sat/tv741
+rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-name="ELEVEN体育3" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ELTA6.png" group-title="港澳台频道",ELEVEN体育3
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 
