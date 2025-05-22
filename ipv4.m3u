@@ -816,8 +816,6 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 #EXTINF:-1 tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.cn/tv/韩国电影2.png" group-title="港澳台频道",韩国电影2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 tvg-name="韩国电影3" tvg-logo="https://live.fanmingming.cn/tv/韩国电影3.png" group-title="港澳台频道",韩国电影3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 
 #IHOT频道
 #EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="IHOT频道",iHOT 爱喜剧
