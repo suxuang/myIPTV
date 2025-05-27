@@ -2116,6 +2116,48 @@ http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 #EXTINF:-1 tvg-name="十堰新闻" tvg-logo="https://live.fanmingming.cn/tv/十堰新闻.png" group-title="☘️湖北频道",十堰新闻
 http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 
+#☘️福建频道#
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="☘️福建频道",东南卫视
+http://8.138.7.223/tv/fjtv1.php?id=dnws
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.cn/tv/海峡卫视.png" group-title="☘️福建频道",海峡卫视
+http://8.138.7.223/tv/fjtv1.php?id=hxws
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
+http://8.138.7.223/tv/fjtv1.php?id=xmws
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://live.fanmingming.cn/tv/福建综合.png" group-title="☘️福建频道",福建综合
+http://8.138.7.223/tv/fjtv1.php?id=fjzh
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.cn/tv/福建新闻.png" group-title="☘️福建频道",福建新闻
+http://8.138.7.223/tv/fjtv1.php?id=fjxw
+#EXTINF:-1 tvg-name="福建乡村振兴公共" tvg-logo="https://live.fanmingming.cn/tv/福建乡村振兴公共.png" group-title="☘️福建频道",福建乡村振兴公共
+http://8.138.7.223/tv/fjtv1.php?id=fjxc
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.cn/tv/福建电视剧.png" group-title="☘️福建频道",福建电视剧
+http://8.138.7.223/tv/fjtv1.php?id=fjdsj
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://live.fanmingming.cn/tv/福建旅游.png" group-title="☘️福建频道",福建旅游
+http://8.138.7.223/tv/fjtv1.php?id=fjly
+#EXTINF:-1 tvg-name="福建经济" tvg-logo="https://live.fanmingming.cn/tv/福建经济.png" group-title="☘️福建频道",福建经济
+http://8.138.7.223/tv/fjtv1.php?id=fjjj
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://live.fanmingming.cn/tv/福建文体.png" group-title="☘️福建频道",福建文体
+http://8.138.7.223/tv/fjtv1.php?id=fjwt
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://live.fanmingming.cn/tv/福建少儿.png" group-title="☘️福建频道",福建少儿
+http://8.138.7.223/tv/fjtv1.php?id=fjse
+#EXTINF:-1 tvg-name="福州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/福州新闻综合.png" group-title="☘️福建频道",福州新闻综合
+http://8.138.7.223/tv/fjtv1.php?id=fz1
+#EXTINF:-1 tvg-name="漳州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/漳州新闻综合.png" group-title="☘️福建频道",漳州新闻综合
+http://8.138.7.223/tv/fjtv1.php?id=zz1
+#EXTINF:-1 tvg-name="泉州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/泉州新闻综合.png" group-title="☘️福建频道",泉州新闻综合
+http://8.138.7.223/tv/fjtv1.php?id=qz1
+#EXTINF:-1 tvg-name="三明综合" tvg-logo="https://live.fanmingming.cn/tv/三明综合.png" group-title="☘️福建频道",三明综合
+http://8.138.7.223/tv/fjtv1.php?id=sm1
+#EXTINF:-1 tvg-name="莆田综合" tvg-logo="https://live.fanmingming.cn/tv/莆田综合.png" group-title="☘️福建频道",莆田综合
+http://8.138.7.223/tv/fjtv1.php?id=pt1
+#EXTINF:-1 tvg-name="南平综合" tvg-logo="https://live.fanmingming.cn/tv/南平综合.png" group-title="☘️福建频道",南平综合
+http://8.138.7.223/tv/fjtv1.php?id=np1
+#EXTINF:-1 tvg-name="龙岩综合" tvg-logo="https://live.fanmingming.cn/tv/龙岩综合.png" group-title="☘️福建频道",龙岩综合
+http://8.138.7.223/tv/fjtv1.php?id=ly1
+#EXTINF:-1 tvg-name="宁德新闻综合" tvg-logo="https://live.fanmingming.cn/tv/宁德新闻综合.png" group-title="☘️福建频道",宁德新闻综合
+http://8.138.7.223/tv/fjtv1.php?id=nd1
+#EXTINF:-1 tvg-name="平潭综合" tvg-logo="https://live.fanmingming.cn/tv/平潭综合.png" group-title="☘️福建频道",平潭综合
+http://8.138.7.223/tv/fjtv1.php?id=pttv
+
 #☘️黑龙江频道#
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Heilongjiang1.png" group-title="☘️黑龙江频道",黑龙江新闻法治
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
