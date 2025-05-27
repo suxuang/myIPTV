@@ -187,7 +187,7 @@ http://lt.hxtre.com:8880/bptv/10000100000000050000000003887452.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226695/1.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",延边卫视
-http://111.22.153.159:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
+http://120.76.248.139/live/bfgd/4200000117.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226661/1.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视
@@ -634,8 +634,6 @@ http://111.22.153.159:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
 http://111.22.153.159:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道",求索纪录4K
 http://tvbox6.icu/tv/gdmzyd.php?id=104
-#EXTINF:-1 tvg-id="纪实科教8K" tvg-name="纪实科教8K" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing9.png" group-title="数字频道",纪实科教8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="数字频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" group-title="数字频道",动物星球
@@ -653,7 +651,7 @@ http://111.22.153.159:35455/itv/6000000006000320630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="数字频道",中国天气
 http://111.22.153.159:35455/itv/5000000005000031974.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="数字频道",纪实科教
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226656/1.m3u8
+http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hunan/Hunan9.png" group-title="数字频道",金鹰纪实
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png" group-title="数字频道",新视觉HD
@@ -1259,7 +1257,7 @@ http://43.138.0.72:35455/yy/1382736814
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰1.png" group-title="电视剧频道",神探狄仁杰第一部
 http://www.douzhicloud.site:35455/huya/11352958
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰2.png" group-title="电视剧频道",神探狄仁杰第二部
-http://43.138.0.72:35455/yy/1382851146
+http://www.douzhicloud.site:35455/douyu/431460
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视剧频道",神探狄仁杰第三部
 http://www.douzhicloud.site:35455/huya/11342425
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视剧频道",爱情公寓
@@ -1647,6 +1645,30 @@ http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
 http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.cn/tv/辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
 http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+#EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="https://live.fanmingming.cn/tv/朝阳新闻综合.png" group-title="☘️辽宁频道",朝阳新闻综合
+http://120.76.248.139/live/bfgd/4200000282.m3u8
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.cn/tv/辽宁体育.png" group-title="☘️辽宁频道",辽宁体育
+http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
+#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="☘️辽宁频道",辽宁公共
+http://120.76.248.139/live/bfgd/4200000077.m3u8
+#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="☘️辽宁频道",辽宁公共
+http://120.76.248.139/live/bfgd/4200000481.m3u8
+#EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.cn/tv/辽宁北方.png" group-title="☘️辽宁频道",辽宁北方
+http://120.76.248.139/live/bfgd/4200000071.m3u8
+#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.cn/tv/辽宁影视剧.png" group-title="☘️辽宁频道",辽宁影视剧
+http://120.76.248.139/live/bfgd/4200000070.m3u8
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" group-title="☘️辽宁频道",辽宁教育青少
+http://120.76.248.139/live/bfgd/4200000075.m3u8
+#EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://live.fanmingming.cn/tv/辽宁生活.png" group-title="☘️辽宁频道",辽宁生活
+http://120.76.248.139/live/bfgd/4200000073.m3u8
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.cn/tv/辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
+http://120.76.248.139/live/bfgd/4200000076.m3u8
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.cn/tv/辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
+http://120.76.248.139/live/bfgd/4200000480.m3u8
+#EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.cn/tv/辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
+http://120.76.248.139/live/bfgd/4200000068.m3u8
+#EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.cn/tv/辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
+http://120.76.248.139/live/bfgd/4200000610.m3u8
 
 #☘️广东频道#
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
