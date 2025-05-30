@@ -138,7 +138,7 @@ http://112.46.105.20:8009/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://112.46.105.20:8009/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226679/1.m3u8
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://112.46.105.20:8009/hls/46/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
@@ -2037,6 +2037,22 @@ http://8.138.7.223/tv/fjtv1.php?id=nd1
 #EXTINF:-1 tvg-name="平潭综合" tvg-logo="https://live.fanmingming.cn/tv/平潭综合.png" group-title="☘️福建频道",平潭综合
 http://8.138.7.223/tv/fjtv1.php?id=pttv
 
+#☘️海南频道#
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南卫视.png" group-title="☘️海南频道",海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/三沙卫视.png" group-title="☘️海南频道",三沙卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南自贸.png" group-title="☘️海南频道",海南自贸
+http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南新闻.png" group-title="☘️海南频道",海南新闻
+http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南公共.png" group-title="☘️海南频道",海南公共
+http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南文旅.png" group-title="☘️海南频道",海南文旅
+http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南少儿.png" group-title="☘️海南频道",海南少儿
+http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+
 #☘️黑龙江频道#
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Heilongjiang1.png" group-title="☘️黑龙江频道",黑龙江新闻法治
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
@@ -2126,18 +2142,6 @@ https://hls.gstv.com.cn/49048r/l54391.m3u8
 https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-id="GS05" tvg-name="甘肃文化影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gansu/Gansu3.png" group-title="地方频道",甘肃文化影视
 https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-
-#海南/5个频道
-#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hainan/Hainan2.png" group-title="地方频道",海南新闻
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
-#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.cn/tv/海南文旅.png" group-title="地方频道",海南文旅
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
-#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.cn/tv/海南少儿.png" group-title="地方频道",海南少儿 
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.cn/tv/海南公共.png" group-title="地方频道",海南公共
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
-#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hainan/Hainan6.png" group-title="地方频道",海南自贸
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 
 #江西频道
 #EXTINF:-1 tvg-name="赣州新闻" tvg-logo="https://live.fanmingming.cn/tv/赣州新闻.png" group-title="地方频道",赣州新闻
