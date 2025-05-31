@@ -1448,6 +1448,10 @@ http://43.138.0.72:35455/yy/1355344777
 http://43.138.0.72:35455/yy/1382660835
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",康熙微服私访记
 http://103.193.151.146/huya.php?id=11342418
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",如懿传
+http://103.193.151.146/huya.php?id=29465868
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",芈月传
+http://103.193.151.146/huya.php?id=11352975
 
 #埋堆堆频道
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="埋堆堆频道",楚汉骄雄
