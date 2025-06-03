@@ -545,6 +545,14 @@ http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/ind
 http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="移动专区",宁夏卫视
 http://39.134.65.7/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索纪录.png" group-title="移动专区",求索纪录
+http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索生活.png" group-title="移动专区",求索生活
+http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索科学.png" group-title="移动专区",求索科学
+http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/求索动物.png" group-title="移动专区",求索动物
+http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://live.fanmingming.cn/tv/动作电影.png" group-title="移动专区",动作电影
 http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.cn/tv/家庭剧场.png" group-title="移动专区",家庭剧场
@@ -579,6 +587,8 @@ http://39.134.65.64/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index
 http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="移动专区",黑莓电影
 http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="移动专区",黑莓动画
+http://39.134.65.106/PLTV/88888888/224/3221225529/1.m3u8
 
 #APTV专享
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="APTV专享",CCTV-1 综合
