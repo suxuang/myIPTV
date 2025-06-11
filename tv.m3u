@@ -240,7 +240,7 @@ http://www.douzhicloud.site:35455/mgtv/626064703.m3u8
 http://www.douzhicloud.site:35455/mgtv/614952364.m3u8
 
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="影视",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="影视", 新片放映厅
 http://www.douzhicloud.site:35455/mgtv/619495952.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_1080.jpg" group-title="影视", CHC影迷电影
