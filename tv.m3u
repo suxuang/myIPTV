@@ -236,6 +236,8 @@ http://www.douzhicloud.site:35455/mgtv/639731832.m3u8
 http://www.douzhicloud.site:35455/mgtv/639731747.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/553/202104022139_5100186455_H169_1080.jpg" group-title="地方", 优漫卡通频道
 http://www.douzhicloud.site:35455/mgtv/626064703.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/172/388/202304101530_2206172388_H169_1080.jpg" group-title="地方", 嘉佳卡通
+http://www.douzhicloud.site:35455/mgtv/614952364.m3u8
 
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="影视",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -247,8 +249,6 @@ http://www.douzhicloud.site:35455/mgtv/952383261.m3u8
 http://www.douzhicloud.site:35455/mgtv/644368714.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="影视", CHC家庭影院
 http://www.douzhicloud.site:35455/mgtv/644368373.m3u8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/525/202504151721_1744708803016_H169_1080.jpg" group-title="影视", 和美乡途轮播台
-http://www.douzhicloud.site:35455/mgtv/713591450.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="影视", 高清大片
 http://www.douzhicloud.site:35455/mgtv/629943678.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/173/738/202304081513_2206173738_HSJ720H.jpg" group-title="影视", 南方影视
@@ -368,8 +368,6 @@ http://www.douzhicloud.site:35455/mgtv/609169226.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/937/202209211800_2200192937_H169_1080.jpg" group-title="熊猫", 熊猫频道10
 http://www.douzhicloud.site:35455/mgtv/609169285.m3u8
 
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/172/388/202304101530_2206172388_H169_1080.jpg" group-title="其他", 嘉佳卡通
-http://www.douzhicloud.site:35455/mgtv/614952364.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/652/202204010055_5101034205_H169_1080.jpg" group-title="其他", 经典动画大集合
 http://www.douzhicloud.site:35455/mgtv/629942219.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="其他", 咪咕24小时体育台
@@ -382,7 +380,7 @@ http://www.douzhicloud.site:35455/mgtv/707671890.m3u8
 http://www.douzhicloud.site:35455/mgtv/625133682.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="其他", 最强综艺趴
 http://www.douzhicloud.site:35455/mgtv/629942228.m3u8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/523/202506060000_1749138932995_H169_1080.jpg" group-title="其他", 新动力量创一流
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/523/202506060000_1749138932995_H169_1080.jpg" group-title="其他", 新动力量
 http://www.douzhicloud.site:35455/mgtv/713589837.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/196/215/202210281603_1609397771872_H169_1080.jpg" group-title="其他", 开封鼓楼
 http://www.douzhicloud.site:35455/mgtv/681448619.m3u8
@@ -396,5 +394,7 @@ http://www.douzhicloud.site:35455/mgtv/631354620.m3u8
 http://www.douzhicloud.site:35455/mgtv/629943305.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/242/089/202504141650_1744619996761_H169_1080.jpg" group-title="其他", 深度对话
 http://www.douzhicloud.site:35455/mgtv/625703337.m3u8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/717/202504111600_1744357080920_H169_1080.jpg" group-title="其他", 中国航天“逆袭”之路
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/717/202504111600_1744357080920_H169_1080.jpg" group-title="其他", 中国航天
 http://www.douzhicloud.site:35455/mgtv/617432318.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/525/202504151721_1744708803016_H169_1080.jpg" group-title="其他", 和美乡途
+http://www.douzhicloud.site:35455/mgtv/713591450.m3u8

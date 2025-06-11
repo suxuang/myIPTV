@@ -13,7 +13,7 @@
 
 🌐订阅链接-IPV4专用（推荐）：_https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u_
 
-🌐订阅链接-IPV6专用：_https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u_
+🌐订阅链接-小肥羊：_https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tv.m3u_
 
 🌐订阅链接-移动专用（简洁版）：_https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt_
 
@@ -38,6 +38,8 @@
 IOS端：APTV （免费版可使用一套配置，支持epg和回看功能）
 
 ## 🆕更新日志
+
+- 2025/05/19：新增小肥羊直播源地址
 
 - 2025/05/19：推荐更换ipv4订阅地址，更新多个频道直播源
 
