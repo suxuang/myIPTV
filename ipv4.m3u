@@ -142,9 +142,11 @@ http://8.138.7.223/tv/hot.php?id=41
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://8.138.7.223/tv/hot.php?id=42
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://8.138.7.223/tv/hot.php?id=43
+http://112.46.105.20:8009/hls/56/index.m3u8
+#http://8.138.7.223/tv/hot.php?id=43
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://8.138.7.223/tv/hot.php?id=44
+http://112.46.105.20:8009/hls/59/index.m3u8
+#http://8.138.7.223/tv/hot.php?id=44
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://8.138.7.223/tv/hot.php?id=45
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -1070,13 +1072,13 @@ http://vip.lqcc.xyz:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
-http://8.138.7.223/tv/hot.php?id=60
+http://itv.iptv1688.top:2016/itv.php?id=卡酷少儿
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hunan/Hunan10.png" group-title="动画频道",金鹰卡通
-http://8.138.7.223/tv/hot.php?id=63
+http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="动画频道",优漫卡通
-http://8.138.7.223/tv/hot.php?id=62
+http://itv.iptv1688.top:2016/itv.php?id=优漫卡通
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="动画频道",哈哈炫动
-http://8.138.7.223/tv/hot.php?id=61
+http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="动画频道",嘉佳卡通
 http://8.138.7.223/tv/hot.php?id=64
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="动画频道",黑莓动画
