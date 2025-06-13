@@ -312,10 +312,22 @@ http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=厦门卫视
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/三沙卫视.png" group-title="全网通",三沙卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=三沙卫视
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/海峡卫视.png" group-title="全网通",海峡卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=海峡卫视
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/内蒙古卫视.png" group-title="全网通",内蒙古卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/黑龙江卫视.png" group-title="全网通",黑龙江卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/安多卫视.png" group-title="全网通",安多卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=安多卫视
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/农林卫视.png" group-title="全网通",农林卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=农林卫视
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/山东教育卫视.png" group-title="全网通",山东教育
+http://qwt.zhibotv.top:2016/全网通.php?id=山东教育卫视
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/康巴卫视.png" group-title="全网通",康巴卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=康巴卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/大湾区卫视.png" group-title="全网通",大湾区卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=大湾区卫视
 
 #移动专区
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="移动专区",CCTV1
