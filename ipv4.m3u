@@ -1027,8 +1027,6 @@ http://vip.lqcc.xyz:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 http://vip.lqcc.xyz:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="咪咕赛事",赛事睛彩篮球
 http://vip.lqcc.xyz:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事纬来NBA" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="咪咕赛事",赛事纬来体育
-rtmp://9hv9.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="咪咕赛事4k-1" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕赛事",咪咕赛事4k-1
 http://vip.lqcc.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="咪咕赛事4k-2" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕赛事",咪咕赛事4k-2
