@@ -167,10 +167,6 @@ http://120.76.248.139/live/bfgd/4200000117.m3u8
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/安多卫视.png" group-title="卫视频道",安多卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=安多卫视
-#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/康巴卫视.png" group-title="卫视频道",康巴卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=康巴卫视
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/农林卫视.png" group-title="卫视频道",农林卫视
 http://112.46.105.20:8009/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/山东教育卫视.png" group-title="卫视频道",山东教育
@@ -181,6 +177,10 @@ http://8.138.7.223/tv/migu8.php?id=98395285f1edf12ae051f6e22728faca
 https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/安多卫视.png" group-title="卫视频道",安多卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=安多卫视
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/康巴卫视.png" group-title="卫视频道",康巴卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=康巴卫视
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="卫视频道",珠江卫视
