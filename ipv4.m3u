@@ -593,13 +593,15 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文台HD
-#http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
+http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯台HD
-#http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
+http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港台HD
-#http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="港澳台频道",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-id="星空国际" tvg-name="星空国际" group-title="港澳台频道",星空国际
+http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台频道",澳视澳门
@@ -616,7 +618,7 @@ http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 #http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港澳台频道",TVB无线新闻（备用）
-#http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
+http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 #EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台频道",TVB无线星河
 http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 #http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -625,7 +627,7 @@ http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台（备用）
-#http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
+http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台4K
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
 #http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
@@ -644,7 +646,7 @@ http://cdn.163189.xyz/live/tvbp/stream.m3u8
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 #http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="港澳台频道",星空卫视
-http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 tvg-id="星光影视" tvg-name="星光影视" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png" group-title="港澳台频道",星光影视
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="港澳台频道",环球电视
@@ -662,13 +664,15 @@ rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="港澳台频道",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="港澳台频道",中天新闻
-#http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
+http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
+#https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI3.png" group-title="港澳台频道",中天娱乐
-http://61.221.215.25:8800/hls/47/index.m3u8
+https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 #EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="港澳台频道",华视新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv052
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV1.png" group-title="港澳台频道",中视新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv074
+http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+#http://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png" group-title="港澳台频道",三立新闻
 http://live4play.uk/livehttpplay?channel_id=10126
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" group-title="港澳台频道",三立综合
@@ -680,9 +684,12 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" group-title="港澳台频道",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png" group-title="港澳台频道",寰宇新闻
-#http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
+http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
+#https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
+#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" group-title="港澳台频道",年代新闻
+http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="港澳台频道",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
+https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png" group-title="港澳台频道",东森超视
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC7.png" group-title="港澳台频道",东森财经
@@ -735,6 +742,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png" group-title="港澳台频道",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
+#http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 #EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS2.png" group-title="港澳台频道",TVBS欢乐台
 http://litv.zapi.us.kg/?id=4gtv-4gtv068
 #EXTINF:-1 tvg-name="番薯台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/fanshutv.png" group-title="港澳台频道",番薯台
