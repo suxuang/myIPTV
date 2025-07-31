@@ -13,8 +13,6 @@
 
 🌐订阅链接-IPV4专用（推荐）：_https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u_
 
-🌐订阅链接-小肥羊：_https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tv.m3u_
-
 🌐订阅链接-移动专用（简洁版）：_https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt_
 
 ## 💰打赏支持
@@ -38,6 +36,8 @@
 IOS端：APTV （免费版可使用一套配置，支持epg和回看功能）
 
 ## 🆕更新日志
+
+- 2025/07/31：更新部分直播源和台标
 
 - 2025/07/30：更新直播源
 
