@@ -1213,94 +1213,102 @@ http://111.22.153.159:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 http://111.22.153.159:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 
 #AKTV频道
-#EXTINF:-1 tvg-name="Animax (HK)" tvg-logo="https://live.fanmingming.cn/tv/Animax (HK).png" group-title="AKTV频道",Animax (HK)
+#EXTINF:1 aktv-group="AKTV" tvg-id="aktv/animaxhk" provider-type="iptv" group-title="AKTV频道",Animax (HK)
 http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.cn/tv/AXN.png" group-title="AKTV频道",AXN
+#EXTINF:2 aktv-group="AKTV" tvg-id="aktv/axn" provider-type="iptv" group-title="AKTV频道",AXN
 http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://live.fanmingming.cn/tv/Channel 5 HD.png" group-title="AKTV频道",Channel 5 HD
+#EXTINF:3 aktv-group="AKTV" tvg-id="aktv/channel5hd" provider-type="iptv" group-title="AKTV频道",Channel 5 HD
 http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="https://live.fanmingming.cn/tv/Channel 8 HD.png" group-title="AKTV频道",Channel 8 HD
+#EXTINF:4 aktv-group="AKTV" tvg-id="aktv/channel8hd" provider-type="iptv" group-title="AKTV频道",Channel 8 HD
 http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-name="Channel U HD" tvg-logo="https://live.fanmingming.cn/tv/Channel U HD.png" group-title="AKTV频道",Channel U HD
+#EXTINF:5 aktv-group="AKTV" tvg-id="aktv/channeluhd" provider-type="iptv" group-title="AKTV频道",Channel U HD
 http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.cn/tv/Love Nature HD.png" group-title="AKTV频道",Love Nature HD
+#EXTINF:6 aktv-group="AKTV" tvg-id="aktv/lovenaturehd" provider-type="iptv" group-title="AKTV频道",Love Nature HD
 http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 tvg-name="PopC" tvg-logo="https://live.fanmingming.cn/tv/PopC.png" group-title="AKTV频道",PopC
+#EXTINF:7 aktv-group="AKTV" tvg-id="aktv/popc" provider-type="iptv" group-title="AKTV频道",PopC
 http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://live.fanmingming.cn/tv/ROCK Action.png" group-title="AKTV频道",ROCK Action
+#EXTINF:8 aktv-group="AKTV" tvg-id="aktv/rockaction" provider-type="iptv" group-title="AKTV频道",ROCK Action
 http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="AKTV频道",TVB Plus
+#EXTINF:9 aktv-group="AKTV" tvg-id="aktv/tvbplus" provider-type="iptv" group-title="AKTV频道",TVB Plus
 http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.cn/tv/tvN.png" group-title="AKTV频道",tvN
+#EXTINF:10 aktv-group="AKTV" tvg-id="aktv/tvn" provider-type="iptv" group-title="AKTV频道",tvN
 http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-name="天映經典(1080)" tvg-logo="https://live.fanmingming.cn/tv/天映經典(1080).png" group-title="AKTV频道",天映經典(1080)
+#EXTINF:11 aktv-group="AKTV" tvg-id="aktv/1080" provider-type="iptv" group-title="AKTV频道",天映經典(1080)
 http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-#EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://live.fanmingming.cn/tv/明珠剧集台(北美).png" group-title="AKTV频道",明珠剧集台(北美)
+#EXTINF:12 aktv-group="AKTV" tvg-id="aktv/CH-19" provider-type="iptv" group-title="AKTV频道",明珠剧集台(北美)
 http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="AKTV频道",明珠台
+#EXTINF:13 aktv-group="AKTV" tvg-id="aktv/CH-2" provider-type="iptv" group-title="AKTV频道",明珠台
 http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://live.fanmingming.cn/tv/無線新聞台.png" group-title="AKTV频道",無線新聞台
+#EXTINF:14 aktv-group="AKTV" tvg-id="aktv/CH-1" provider-type="iptv" group-title="AKTV频道",無線新聞台
 http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://live.fanmingming.cn/tv/美亞電影台(HK).png" group-title="AKTV频道",美亞電影台(HK)
+#EXTINF:15 aktv-group="AKTV" tvg-id="aktv/hk" provider-type="iptv" group-title="AKTV频道",美亞電影台(HK)
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠一台(北美)" tvg-logo="https://live.fanmingming.cn/tv/翡翠一台(北美).png" group-title="AKTV频道",翡翠一台(北美)
+#EXTINF:16 aktv-group="AKTV" tvg-id="aktv/CH-8" provider-type="iptv" group-title="AKTV频道",翡翠一台(北美)
 http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="https://live.fanmingming.cn/tv/翡翠剧集台(北美).png" group-title="AKTV频道",翡翠剧集台(北美)
+#EXTINF:17 aktv-group="AKTV" tvg-id="aktv/CH-18" provider-type="iptv" group-title="AKTV频道",翡翠剧集台(北美)
 http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="AKTV频道",翡翠台
+#EXTINF:18 aktv-group="AKTV" tvg-id="aktv/CH-0" provider-type="iptv" group-title="AKTV频道",翡翠台
 http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠娛樂台(北美)" tvg-logo="https://live.fanmingming.cn/tv/翡翠娛樂台(北美).png" group-title="AKTV频道",翡翠娛樂台(北美)
+#EXTINF:19 aktv-group="AKTV" tvg-id="aktv/CH-7" provider-type="iptv" group-title="AKTV频道",翡翠娛樂台(北美)
 http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://live.fanmingming.cn/tv/翡翠综合台(北美).png" group-title="AKTV频道",翡翠综合台(北美)
+#EXTINF:20 aktv-group="AKTV" tvg-id="aktv/CH-17" provider-type="iptv" group-title="AKTV频道",翡翠综合台(北美)
 http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.cn/tv/鳳凰衛視中文台.png" group-title="AKTV频道",鳳凰衛視中文台
+#EXTINF:21 aktv-group="AKTV" tvg-id="aktv/CH-3" provider-type="iptv" group-title="AKTV频道",鳳凰衛視中文台
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.cn/tv/鳳凰衛視資訊台.png" group-title="AKTV频道",鳳凰衛視資訊台
+#EXTINF:22 aktv-group="AKTV" tvg-id="aktv/CH-4" provider-type="iptv" group-title="AKTV频道",鳳凰衛視資訊台
 http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://live.fanmingming.cn/tv/鳳凰衛視香港台.png" group-title="AKTV频道",鳳凰衛視香港台
+#EXTINF:23 aktv-group="AKTV" tvg-id="aktv/CH-5" provider-type="iptv" group-title="AKTV频道",鳳凰衛視香港台
 http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://live.fanmingming.cn/tv/黃金翡翠台.png" group-title="AKTV频道",黃金翡翠台
+#EXTINF:24 aktv-group="AKTV" tvg-id="aktv/CH-6" provider-type="iptv" group-title="AKTV频道",黃金翡翠台
 http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://live.fanmingming.cn/tv/CNA.png" group-title="AKTV频道",CNA
+#EXTINF:25 aktv-group="AKTV3" tvg-id="aktv3/cna" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv" group-title="AKTV频道",CNA
 http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-#EXTINF:-1 tvg-name="朝鲜恩情台" tvg-logo="https://live.fanmingming.cn/tv/朝鲜恩情台.png" group-title="AKTV频道",朝鲜恩情台
+#EXTINF:26 aktv-group="AKTV3" tvg-id="aktv3/CH-0" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv" group-title="AKTV频道",朝鲜恩情台
 http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-name="Japan News 24H LIVE" tvg-logo="https://live.fanmingming.cn/tv/Japan News 24H LIVE.png" group-title="AKTV频道",Japan News 24H LIVE
+#EXTINF:27 aktv-group="AKTV-JP" tvg-id="aktvjp/japannews24hlive" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv" group-title="AKTV频道",Japan News 24H LIVE
 http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-#EXTINF:-1 tvg-name="日テレNEWS LIVE" tvg-logo="https://live.fanmingming.cn/tv/日テレNEWS LIVE.png" group-title="AKTV频道",日テレNEWS LIVE
+#EXTINF:28 aktv-group="AKTV-JP" tvg-id="aktvjp/ntv" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv" group-title="AKTV频道",日テレNEWS LIVE
 http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-#EXTINF:-1 tvg-name="8TV" tvg-logo="https://live.fanmingming.cn/tv/8TV.png" group-title="AKTV频道",8TV
+#EXTINF:29 aktv-group="astro" tvg-id="astro/8tv" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="AKTV频道",8TV
 http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
-#EXTINF:-1 tvg-name="EuroSport 1" tvg-logo="https://live.fanmingming.cn/tv/EuroSport 1.png" group-title="AKTV频道",EuroSport 1
+#EXTINF:30 aktv-group="astro" tvg-id="astro/eurosport1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="AKTV频道",EuroSport 1
 http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="https://live.fanmingming.cn/tv/EuroSport 2.png" group-title="AKTV频道",EuroSport 2
+#EXTINF:31 aktv-group="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="AKTV频道",EuroSport 2
 http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="AKTV频道",NBA TV
+#EXTINF:32 aktv-group="astro" tvg-id="astro/nbatv" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="AKTV频道",NBA TV
 http://s1.an94tv.cfd/astro/nbatv/AKTV.m3u8
-#EXTINF:-1 tvg-name="TNT SPORTS 1" tvg-logo="https://live.fanmingming.cn/tv/TNT SPORTS 1.png" group-title="AKTV频道",TNT SPORTS 1
+#EXTINF:33 aktv-group="astro" tvg-id="astro/tntsports1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="AKTV频道",TNT SPORTS 1
 http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-#EXTINF:-1 tvg-name="TNT SPORTS 2" tvg-logo="https://live.fanmingming.cn/tv/TNT SPORTS 2.png" group-title="AKTV频道",TNT SPORTS 2
+#EXTINF:34 aktv-group="astro" tvg-id="astro/tntsports2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="AKTV频道",TNT SPORTS 2
 http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-#EXTINF:-1 tvg-name="TNT SPORTS 3" tvg-logo="https://live.fanmingming.cn/tv/TNT SPORTS 3.png" group-title="AKTV频道",TNT SPORTS 3
+#EXTINF:35 aktv-group="astro" tvg-id="astro/tntsports3" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="AKTV频道",TNT SPORTS 3
 http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-#EXTINF:-1 tvg-name="unifi Sports 1" tvg-logo="https://live.fanmingming.cn/tv/unifi Sports 1.png" group-title="AKTV频道",unifi Sports 1
+#EXTINF:36 aktv-group="astro" tvg-id="astro/unifisports1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv" group-title="AKTV频道",unifi Sports 1
 http://s1.an94tv.cfd/astro/unifisports1/AKTV.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://live.fanmingming.cn/tv/CinemaWorld.png" group-title="AKTV频道",CinemaWorld
+#EXTINF:37 aktv-group="taiwan" tvg-id="taiwan/cinemaworld" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv" group-title="AKTV频道",CinemaWorld
 http://s1.an94tv.cfd/taiwan/cinemaworld/AKTV.m3u8
-#EXTINF:-1 tvg-name="HITS" tvg-logo="https://live.fanmingming.cn/tv/HITS.png" group-title="AKTV频道",HITS
+#EXTINF:38 aktv-group="taiwan" tvg-id="taiwan/hits" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv" group-title="AKTV频道",HITS
 http://s1.an94tv.cfd/taiwan/hits/AKTV.m3u8
-#EXTINF:-1 tvg-name="MagellanTV頻道" tvg-logo="https://live.fanmingming.cn/tv/MagellanTV頻道.png" group-title="AKTV频道",MagellanTV頻道
+#EXTINF:39 aktv-group="taiwan" tvg-id="taiwan/magellantv" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv" group-title="AKTV频道",MagellanTV頻道
 http://s1.an94tv.cfd/taiwan/magellantv/AKTV.m3u8
-#EXTINF:-1 tvg-name="三立LIVE" tvg-logo="https://live.fanmingming.cn/tv/三立LIVE.png" group-title="AKTV频道",三立LIVE
+#EXTINF:40 aktv-group="zhongtian" tvg-id="zhongtian/tvbs55" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv" group-title="AKTV频道",Tvbs 55頻道
+http://s1.an94tv.cfd/zhongtian/tvbs55/AKTV.m3u8
+#EXTINF:41 aktv-group="zhongtian" tvg-id="zhongtian/tvbs56" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv" group-title="AKTV频道",Tvbs 56頻道
+http://s1.an94tv.cfd/zhongtian/tvbs56/AKTV.m3u8
+#EXTINF:42 aktv-group="zhongtian" tvg-id="zhongtian/live" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv" group-title="AKTV频道",三立LIVE
 http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="AKTV频道",中天新闻台
+#EXTINF:43 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv" group-title="AKTV频道",中天新闻台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-name="国际空间站 (NASA)" tvg-logo="https://live.fanmingming.cn/tv/国际空间站 (NASA).png" group-title="AKTV频道",国际空间站 (NASA)
-http://s1.an94tv.cfd/zhongtian/nasa/AKTV.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新聞台.png" group-title="AKTV频道",寰宇新聞台
+#EXTINF:44 aktv-group="zhongtian" tvg-id="zhongtian/CH-3" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv" group-title="AKTV频道",中視新聞
+http://s1.an94tv.cfd/zhongtian/CH-3/AKTV.m3u8
+#EXTINF:45 aktv-group="zhongtian" tvg-id="zhongtian/CH-4" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv" group-title="AKTV频道",台視新聞
+http://s1.an94tv.cfd/zhongtian/CH-4/AKTV.m3u8
+#EXTINF:46 aktv-group="zhongtian" tvg-id="zhongtian/CH-2" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv" group-title="AKTV频道",寰宇新聞台
 http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.cn/tv/東森新聞.png" group-title="AKTV频道",東森新聞
+#EXTINF:47 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv" group-title="AKTV频道",東森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:48 aktv-group="zhongtian" tvg-id="zhongtian/CH-5" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv" group-title="AKTV频道",民視新聞
+http://s1.an94tv.cfd/zhongtian/CH-5/AKTV.m3u8
 
 #港澳台频道
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
