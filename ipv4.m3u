@@ -212,9 +212,9 @@ http://106.52.196.79:80/TV/mui.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视标清",CCTV17
 http://106.52.196.79:80/TV/mui.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4欧洲.png" group-title="央视标清",CCTV4-欧洲
-http://106.52.196.79:80/TV/mui.php?id=cctv17
+http://106.52.196.79:80/TV/mui.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV4m" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4美洲.png" group-title="央视标清",CCTV4-美洲
-http://106.52.196.79:80/TV/mui.php?id=cctv17
+http://106.52.196.79:80/TV/mui.php?id=cctv4m
 
 #卫视频道
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",湖南卫视
