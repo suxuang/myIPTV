@@ -976,32 +976,32 @@ http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 
 #APTV专享
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="APTV专享",CGTN英语
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="APTV专享",CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC影迷电影.png" group-title="APTV专享",CHC影迷电影
+http://148.135.93.213/live.php?id=CHC影迷电影
+#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC家庭影院.png" group-title="APTV专享",CHC家庭影院
+http://148.135.93.213/live.php?id=CHC家庭影院
+#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC动作电影.png" http-user-agent="AptvPlayer-UA" group-title="APTV专享",CHC动作电影
+http://101.35.240.114:88/live.php?id=CHC动作电影
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" http-user-agent="iPhone" group-title="APTV专享" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文台
+http://101.35.240.114:88/phenix.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" http-user-agent="iPhone" group-title="APTV专享" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯台
+http://101.35.240.114:88/phenix.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港台.png" http-user-agent="iPhone" group-title="APTV专享" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港台
+http://101.35.240.114:88/phenix.php?id=fhhk
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/香港卫视.png" http-user-agent="AptvPlayer-UA" group-title="APTV专享",香港卫视
+http://101.35.240.114:88/live.php?id=香港卫视
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB翡翠台.png" http-user-agent="AptvPlayer-UA" group-title="APTV专享",TVB翡翠台
+http://101.35.240.114:88/live.php?id=翡翠台
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" http-user-agent="AptvPlayer-UA" group-title="APTV专享" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png",北京纪实科教8K
 http://101.35.240.114:88/brtv8k.php
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" http-user-agent="AptvPlayer-UA" group-title="APTV专享",重温经典
 http://101.35.240.114:88/live.php?id=重温经典
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/" group-title="APTV专享",五星体育
 http://101.35.240.114:88/live.php?id=五星体育
-#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="APTV专享",CHC影迷电影
-http://148.135.93.213/live.php?id=CHC影迷电影
-#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC2.png" group-title="APTV专享",CHC家庭影院
-http://148.135.93.213/live.php?id=CHC家庭影院
-#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC3.png" http-user-agent="AptvPlayer-UA" group-title="APTV专享",CHC动作电影
-http://101.35.240.114:88/live.php?id=CHC动作电影
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" http-user-agent="iPhone" group-title="APTV专享",凤凰卫视中文台
-http://148.135.93.213/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" http-user-agent="iPhone" group-title="APTV专享",凤凰卫视资讯台
-http://148.135.93.213/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" http-user-agent="iPhone" group-title="APTV专享",凤凰卫视香港台
-http://148.135.93.213/phenix.php?id=fhhk
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="APTV专享",香港卫视
-http://148.135.93.213/live.php?id=香港卫视
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" http-user-agent="AptvPlayer-UA" group-title="APTV专享",翡翠台
-http://101.35.240.114:88/live.php?id=翡翠台
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="APTV专享",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="APTV专享",CGTN纪录
+https://0472.org/hls/cgtnd.m3u8
 
 #数字频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="数字频道",CHC影迷电影
