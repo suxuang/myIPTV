@@ -852,6 +852,12 @@ https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 http://106.53.99.30/tv/api.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="移动IPTV",CCTV-4K
 http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png" group-title="移动IPTV",苏州4K
+http://106.53.99.30/tv/api.php?id=sztv4k
+#EXTINF:-1 tvg-name="河北4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北4K.png" group-title="移动IPTV",河北4K
+http://106.53.99.30/tv/api.php?id=hebtv4k
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视4K.png" group-title="移动IPTV",北京卫视4K
+http://106.53.99.30/tv/api.php?id=bjws4k
 #EXTINF:-1 tvg-name="CETV01" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV1.png" group-title="移动IPTV",CETV-01
 https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 #EXTINF:-1 tvg-name="CETV04" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV4.png" group-title="移动IPTV",CETV-04
