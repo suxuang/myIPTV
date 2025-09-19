@@ -137,9 +137,9 @@ http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="央视高清",CCTV14
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视高清",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="央视高清",CCTV15
 http://p.ytelc.com/169l/0/cctv.php?id=cctv15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视高清",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="央视高清",CCTV16
 http://p.ytelc.com/169l/0/cctv.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视高清",CCTV17
 http://p.ytelc.com/169l/0/cctv.php?id=cctv17
@@ -189,6 +189,44 @@ http://iptv.huuc.edu.cn/hls/gedocu.m3u8
 http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东教育.png" group-title="央视高清",山东教育
 http://iptv.huuc.edu.cn/hls/sdetv.m3u8
+
+#央视高清二
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视高清二",CCTV1
+https://cc06.tv12.xyz/1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视高清二",CCTV2
+https://cc06.tv12.xyz/2.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="央视高清二",CCTV3
+https://cc06.tv12.xyz/3.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="央视高清二",CCTV4
+https://cc06.tv12.xyz/4.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="央视高清二",CCTV5
+https://cc06.tv12.xyz/5.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="央视高清二",CCTV5+
+https://cc06.tv12.xyz/6.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="央视高清二",CCTV6
+https://cc06.tv12.xyz/7.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视高清二",CCTV7
+https://cc06.tv12.xyz/8.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="央视高清二",CCTV8
+https://cc06.tv12.xyz/9.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视高清二",CCTV9
+https://cc06.tv12.xyz/10.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="央视高清二",CCTV10
+https://cc06.tv12.xyz/11.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="央视高清二",CCTV11
+https://cc06.tv12.xyz/12.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="央视高清二",CCTV12
+https://cc06.tv12.xyz/13.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="央视高清二",CCTV13
+https://cc06.tv12.xyz/14.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="央视高清二",CCTV14
+https://cc06.tv12.xyz/15.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="央视高清二",CCTV15
+https://cc06.tv12.xyz/16.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="央视高清二",CCTV16
+http://p.ytelc.com/169l/0/cctv.php?id=cctv16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视高清二",CCTV17
+https://cc06.tv12.xyz/17.m3u8
 
 #央视标清
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视标清",CCTV1
