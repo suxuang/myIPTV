@@ -269,6 +269,8 @@ http://ygbh.site/php/bfgd.php?id=204
 http://ygbh.site/php/bfgd.php?id=287
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/求索生活.png" group-title="央视高清三",求索生活
 http://ygbh.site/php/bfgd.php?id=288
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/世界地理.png" group-title="央视高清三",世界地理
+http://ygbh.site/php/bfgd.php?id=177
 #EXTINF:-1 tvg-name="CCTV4o" tvg-logo="" group-title="央视高清三",未知-1
 http://ygbh.site/php/bfgd.php?id=286
 #EXTINF:-1 tvg-name="CCTV4m" tvg-logo="" group-title="央视高清三",未知-2
