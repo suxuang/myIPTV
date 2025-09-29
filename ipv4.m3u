@@ -229,14 +229,92 @@ http://p.ytelc.com/169l/0/cctv.php?id=cctv16
 http://ygbh.site/php/bfgd.php?id=204
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/求索科学.png" group-title="央视高清备用",求索科学
 http://ygbh.site/php/bfgd.php?id=286
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/世界地理.png" group-title="央视高清备用",世界地理
+http://ygbh.site/php/bfgd.php?id=177
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/求索动物.png" group-title="央视高清备用",求索动物
 http://ygbh.site/php/bfgd.php?id=287
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/求索生活.png" group-title="央视高清备用",求索生活
 http://ygbh.site/php/bfgd.php?id=288
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/世界地理.png" group-title="央视高清备用",世界地理
-http://ygbh.site/php/bfgd.php?id=177
 #EXTINF:-1 tvg-name="家庭影院" tvg-logo="" group-title="央视高清备用",家庭影院
 http://ygbh.site/php/bfgd.php?id=289
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="央视高清备用",卡酷少儿
+http://ygbh.site/php/bfgd.php?id=106
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金鹰卡通.png" group-title="央视高清备用",金鹰卡通
+http://ygbh.site/php/bfgd.php?id=105
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视.png" group-title="央视高清备用",北京卫视
+http://ygbh.site/php/bfgd.php?id=083
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天津卫视.png" group-title="央视高清备用",天津卫视
+http://ygbh.site/php/bfgd.php?id=084
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="央视高清备用",江苏卫视
+http://ygbh.site/php/bfgd.php?id=085
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" group-title="央视高清备用",湖南卫视
+http://ygbh.site/php/bfgd.php?id=086
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="央视高清备用",东方卫视
+http://ygbh.site/php/bfgd.php?id=093
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png" group-title="央视高清备用",浙江卫视
+http://ygbh.site/php/bfgd.php?id=094
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="央视高清备用",广东卫视
+http://ygbh.site/php/bfgd.php?id=092
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/深圳卫视.png" group-title="央视高清备用",深圳卫视
+http://ygbh.site/php/bfgd.php?id=100
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/安徽卫视.png" group-title="央视高清备用",安徽卫视
+http://ygbh.site/php/bfgd.php?id=096
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="央视高清备用",吉林卫视
+http://ygbh.site/php/bfgd.php?id=097
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江西卫视.png" group-title="央视高清备用",江西卫视
+http://ygbh.site/php/bfgd.php?id=098
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="央视高清备用",山东卫视
+http://ygbh.site/php/bfgd.php?id=099
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/辽宁卫视.png" group-title="央视高清备用",辽宁卫视
+http://ygbh.site/php/bfgd.php?id=058
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖北卫视.png" group-title="央视高清备用",湖北卫视
+http://ygbh.site/php/bfgd.php?id=102
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png" group-title="央视高清备用",东南卫视
+http://ygbh.site/php/bfgd.php?id=483
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png" group-title="央视高清备用",海南卫视
+http://ygbh.site/php/bfgd.php?id=473
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河南卫视.png" group-title="央视高清备用",河南卫视
+http://ygbh.site/php/bfgd.php?id=104
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北卫视.png" group-title="央视高清备用",河北卫视
+http://ygbh.site/php/bfgd.php?id=108
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川卫视.png" group-title="央视高清备用",四川卫视
+http://ygbh.site/php/bfgd.php?id=103
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/重庆卫视.png" group-title="央视高清备用",重庆卫视
+http://ygbh.site/php/bfgd.php?id=107
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广西卫视.png" group-title="央视高清备用",广西卫视
+http://ygbh.site/php/bfgd.php?id=116
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png" group-title="央视高清备用",云南卫视
+http://ygbh.site/php/bfgd.php?id=115
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/贵州卫视.png" group-title="央视高清备用",贵州卫视
+http://ygbh.site/php/bfgd.php?id=101
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西卫视.png" group-title="央视高清备用",陕西卫视
+http://ygbh.site/php/bfgd.php?id=114
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山西卫视.png" group-title="央视高清备用",山西卫视
+http://ygbh.site/php/bfgd.php?id=109
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青海卫视.png" group-title="央视高清备用",青海卫视
+http://ygbh.site/php/bfgd.php?id=111
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/延边卫视.png" group-title="央视高清备用",延边卫视
+http://ygbh.site/php/bfgd.php?id=117
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png" group-title="央视高清备用",宁夏卫视
+http://ygbh.site/php/bfgd.php?id=118
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/甘肃卫视.png" group-title="央视高清备用",甘肃卫视
+http://ygbh.site/php/bfgd.php?id=119
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/农林卫视.png" group-title="央视高清备用",农林卫视
+http://ygbh.site/php/bfgd.php?id=122
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/兵团卫视.png" group-title="央视高清备用",兵团卫视
+http://ygbh.site/php/bfgd.php?id=124
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新疆卫视.png" group-title="央视高清备用",新疆卫视
+http://ygbh.site/php/bfgd.php?id=150
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/西藏卫视.png" group-title="央视高清备用",西藏卫视
+http://ygbh.site/php/bfgd.php?id=121
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/黑龙江卫视.png" group-title="央视高清备用",黑龙江卫视
+http://ygbh.site/php/bfgd.php?id=095
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/内蒙古卫视.png" group-title="央视高清备用",内蒙古卫视
+http://ygbh.site/php/bfgd.php?id=110
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东教育卫视.png" group-title="央视高清备用",山东教育卫视
+http://ygbh.site/php/bfgd.php?id=112
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天元围棋.png" group-title="央视高清备用",天元围棋
+http://ygbh.site/php/bfgd.php?id=144
 
 #卫视频道
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",湖南卫视
