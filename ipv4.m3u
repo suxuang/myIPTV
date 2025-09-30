@@ -1326,38 +1326,38 @@ https://0472.org/hls/cgtn.m3u8
 https://0472.org/hls/cgtnd.m3u8
 
 #BXTV频道
-#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="BXTV频道",鳳凰衛視中文台
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="BXTV频道",鳳凰衛視中文台
 http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="BXTV频道",鳳凰衛視資訊台
+#EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="BXTV频道",鳳凰衛視資訊台
 http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港台.png" group-title="BXTV频道",鳳凰衛視香港台
+#EXTINF:-1 tvg-name="鳳凰衛視香港" tvg-logo="http://bxtv.3a.ink/logo/凤凰香港.png" group-title="BXTV频道",鳳凰衛視香港台
 http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="BXTV频道",翡翠台
-http://bxtv.3a.ink/api.php?id=fct
-#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://live.fanmingming.cn/tv/myTV SUPER 18台.png" group-title="BXTV频道",myTV SUPER 18台
-http://bxtv.3a.ink/api.php?id=18
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="BXTV频道",TVB Plus
-http://bxtv.3a.ink/api.php?id=tvbp
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="BXTV频道",明珠台
-http://bxtv.3a.ink/api.php?id=mz
-#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://live.fanmingming.cn/tv/無線新聞台.png" group-title="BXTV频道",無線新聞台
-http://bxtv.3a.ink/api.php?id=wxxw
-#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="https://live.fanmingming.cn/tv/美亞電影台.png" group-title="BXTV频道",美亞電影台
-http://bxtv.3a.ink/api.php?id=meiya
-#EXTINF:-1 tvg-name="PopC" tvg-logo="https://live.fanmingming.cn/tv/PopC.png" group-title="BXTV频道",PopC
-http://bxtv.3a.ink/api.php?id=popc
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png" group-title="BXTV频道",VIUTV
-http://bxtv.3a.ink/api.php?id=viutv
-#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://live.fanmingming.cn/tv/千禧經典台.png" group-title="BXTV频道",千禧經典台
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="http://bxtv.3a.ink/logo/千禧经典.png" group-title="BXTV频道",千禧經典台
 http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://live.fanmingming.cn/tv/NOW新闻.png" group-title="BXTV频道",NOW新闻
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="香港",BXTV频道
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="BXTV频道",明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://bxtv.3a.ink/logo/无线新闻.png" group-title="BXTV频道",無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="http://bxtv.3a.ink/logo/美亚电影.png" group-title="BXTV频道",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png" group-title="BXTV频道",myTV SUPER 18台
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="BXTV频道",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 tvg-name="PopC" tvg-logo="http://bxtv.3a.ink/logo/POPC.png" group-title="BXTV频道",PopC
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="http://bxtv.3a.ink/logo/VIUTV.png" group-title="BXTV频道",VIUTV
+http://bxtv.3a.ink/api.php?id=viutv
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="http://bxtv.3a.ink/logo/NOW新闻.png" group-title="BXTV频道",NOW新闻
 http://bxtv.3a.ink/api.php?id=now
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="BXTV频道",广东体育
-http://bxtv.3a.ink/api.php?id=gdty
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="BXTV频道",广东珠江
-http://bxtv.3a.ink/api.php?id=gdzj
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://live.fanmingming.cn/tv/中天新聞台.png" group-title="BXTV频道",中天新聞台
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="BXTV频道",中天新聞台
 http://bxtv.3a.ink/api.php?id=ztxw
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://bxtv.3a.ink/logo/广东体育.png" group-title="BXTV频道",广东体育
+http://bxtv.3a.ink/api.php?id=gdty
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://bxtv.3a.ink/logo/广东珠江.png" group-title="BXTV频道",广东珠江
+http://bxtv.3a.ink/api.php?id=gdzj
 
 #港澳台频道
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
