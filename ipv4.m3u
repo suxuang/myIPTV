@@ -1334,7 +1334,7 @@ http://bxtv.3a.ink/api.php?id=fhzx
 http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="http://bxtv.3a.ink/logo/千禧经典.png" group-title="BXTV频道",千禧經典台
 http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="香港",BXTV频道
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="BXTV频道",翡翠台
 http://bxtv.3a.ink/api.php?id=fct
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="BXTV频道",明珠台
 http://bxtv.3a.ink/api.php?id=mz
