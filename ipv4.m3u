@@ -1887,6 +1887,362 @@ http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxt_2000.m3u8
 #EXTINF:-1 tvg-name="峨眉山综合" tvg-logo="https://live.fanmingming.cn/tv/峨眉山综合.png" group-title="蜀小果",峨眉山综合
 http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/emsxw_2000.m3u8
 
+#银河电视
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="银河电视",CCTV-1
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-HD-265-5M/G_CCTV-1-HD-265-5M.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="银河电视",CCTV-1
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="银河电视",CCTV-2
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="银河电视",CCTV-3
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="银河电视",CCTV-4
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="银河电视",CCTV-4K
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="银河电视",CCTV-5
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="银河电视",CCTV-5
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="银河电视",CCTV-5+
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="银河电视",CCTV-6
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="银河电视",CCTV-7
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="银河电视",CCTV-8
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-8-HD-265-5M/G_CCTV-8-HD-265-5M.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="银河电视",CCTV-8
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-8-HD-265-8M/G_CCTV-8-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="银河电视",CCTV-9
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="银河电视",CCTV-10
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="银河电视",CCTV-11
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="银河电视",CCTV-12
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="银河电视",CCTV-13
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="银河电视",CCTV-14
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="银河电视",CCTV-15
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="银河电视",CCTV-16
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="银河电视",CCTV-16 4K
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="银河电视",CCTV-17
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/世界地理.png" group-title="银河电视",世界地理
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一剧场.png" group-title="银河电视",第一剧场
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云音乐.png" group-title="银河电视",风云音乐
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云剧场.png" group-title="银河电视",风云剧场
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/电视指南.png" group-title="银河电视",电视指南
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/怀旧剧场.png" group-title="银河电视",怀旧剧场
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUAIJIUJC-CQ/G_HUAIJIUJC-CQ.m3u8
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/兵器科技.png" group-title="银河电视",兵器科技
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/女性时尚.png" group-title="银河电视",女性时尚
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/文化精品.png" group-title="银河电视",文化精品
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/央视台球.png" group-title="银河电视",央视台球
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/高尔夫网球.png" group-title="银河电视",高尔夫网球
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云足球.png" group-title="银河电视",风云足球
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/老故事.png" group-title="银河电视",老故事
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/发现之旅.png" group-title="银河电视",发现之旅
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN.png" group-title="银河电视",CGTN
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN俄语.png" group-title="银河电视",CGTN俄语
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CGTN-PYCCNN/G_CGTN-PYCCNN.m3u8
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN西班牙语.png" group-title="银河电视",CGTN西班牙语
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CGTN-ESPANOL/G_CGTN-ESPANOL.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN法语.png" group-title="银河电视",CGTN法语
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CGTN-FRANCAIS/G_CGTN-FRANCAIS.m3u8
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN阿拉伯语.png" group-title="银河电视",CGTN阿拉伯语
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CGTN_A/G_CGTN_A.m3u8
+#EXTINF:-1 tvg-name="第一院线" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一院线.png" group-title="银河电视",第一院线
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
+#EXTINF:-1 tvg-name="影视剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/影视剧场.png" group-title="银河电视",影视剧场
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
+#EXTINF:-1 tvg-name="高分电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/高分电影.png" group-title="银河电视",高分电影
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-14/GITV-JS-14.m3u8
+#EXTINF:-1 tvg-name="美食美味" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/美食美味.png" group-title="银河电视",美食美味
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-17/GITV-JS-17.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/睛彩篮球.png" group-title="银河电视",睛彩篮球
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/睛彩竞技.png" group-title="银河电视",睛彩竞技
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="银河电视",江苏卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-HD-265-5M/G_JIANGSU-HD-265-5M.m3u8
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视4K.png" group-title="银河电视",江苏卫视4K
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/央广购物.png" group-title="银河电视",央广购物
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/hdjsmeiriyouxuan/hdjsmeiriyouxuan.m3u8
+#EXTINF:-1 tvg-name="好享购物" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/好享购物.png" group-title="银河电视",好享购物
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_HAOXIANG/G_HAOXIANG.m3u8
+#EXTINF:-1 tvg-name="居家优选" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/居家优选.png" group-title="银河电视",居家优选
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JUJIAYX/G_JUJIAYX.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" group-title="银河电视",湖南卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-HD-265-8M/G_HUNAN-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视4K.png" group-title="银河电视",湖南卫视4K
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png" group-title="银河电视",浙江卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-HD-265-8M/G_ZHEJIANG-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视4K.png" group-title="银河电视",浙江卫视4K
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="银河电视",东方卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png" group-title="银河电视",东方卫视4K
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视.png" group-title="银河电视",北京卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-HD-265-8M/G_BEIJING-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视4K.png" group-title="银河电视",北京卫视4K
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="银河电视",广东卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUANGDONG-HQ/G_GUANGDONG-HQ.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="银河电视",山东卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-HQ/G_SHANDONG-HQ.m3u8
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视4K.png" group-title="银河电视",山东卫视4K
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/深圳卫视.png" group-title="银河电视",深圳卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/安徽卫视.png" group-title="银河电视",安徽卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_ANHUI-HD-265-8M/G_ANHUI-HD-265-8M.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川卫视.png" group-title="银河电视",四川卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/SCWS/SCWS.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/黑龙江卫视.png" group-title="银河电视",黑龙江卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天津卫视.png" group-title="银河电视",天津卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TIANJIN-HD-265-5M/G_TIANJIN-HD-265-5M.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖北卫视.png" group-title="银河电视",湖北卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUBEI-HD-265-5M/G_HUBEI-HD-265-5M.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/辽宁卫视.png" group-title="银河电视",辽宁卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_LIAONING-HD-265-5M/G_LIAONING-HD-265-5M.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="银河电视",江苏卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsyougou/jsyougou.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="银河电视",江苏卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsshishanggw/jsshishanggw.m3u8
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏城市.png" group-title="银河电视",江苏城市
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JSCS/G_JSCS.m3u8
+#EXTINF:-1 tvg-name="江苏公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏公共.png" group-title="银河电视",江苏公共
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏教育.png" group-title="银河电视",江苏教育
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
+#EXTINF:-1 tvg-name="江苏休闲体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏休闲体育.png" group-title="银河电视",江苏休闲体育
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JSTY/G_JSTY.m3u8
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏影视.png" group-title="银河电视",江苏影视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏综艺.png" group-title="银河电视",江苏综艺
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JSZY/G_JSZY.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/甘肃卫视.png" group-title="银河电视",甘肃卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_GANSU/G_GANSU.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/重庆卫视.png" group-title="银河电视",重庆卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广西卫视.png" group-title="银河电视",广西卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/GXWS/GXWS.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/贵州卫视.png" group-title="银河电视",贵州卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png" group-title="银河电视",海南卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/LYWS/LYWS.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北卫视.png" group-title="银河电视",河北卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_HEBEI/G_HEBEI.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河南卫视.png" group-title="银河电视",河南卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/HENAN/HENAN.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="银河电视",吉林卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JILIN/G_JILIN.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江西卫视.png" group-title="银河电视",江西卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/JXWS/JXWS.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/内蒙古卫视.png" group-title="银河电视",内蒙古卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png" group-title="银河电视",宁夏卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山西卫视.png" group-title="银河电视",山西卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/SXWS/SXWS.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西卫视.png" group-title="银河电视",陕西卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANXI/G_SHANXI.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/西藏卫视.png" group-title="银河电视",西藏卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_XIZANG/G_XIZANG.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新疆卫视.png" group-title="银河电视",新疆卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青海卫视.png" group-title="银河电视",青海卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_QINGHAI/G_QINGHAI.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/厦门卫视.png" group-title="银河电视",厦门卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_XIAMEN/G_XIAMEN.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png" group-title="银河电视",云南卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_YUNNAN/G_YUNNAN.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/安多卫视.png" group-title="银河电视",安多卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_ANDUO/G_ANDUO.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/兵团卫视.png" group-title="银河电视",兵团卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png" group-title="银河电视",东南卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/DNWS/DNWS.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/康巴卫视.png" group-title="银河电视",康巴卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_KANGBA/G_KANGBA.m3u8
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/农林卫视.png" group-title="银河电视",农林卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/延边卫视.png" group-title="银河电视",延边卫视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_YANBIAN/G_YANBIAN.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东教育.png" group-title="银河电视",山东教育
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_SDETV/G_SDETV.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金鹰卡通.png" group-title="银河电视",金鹰卡通
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JINYING/G_JINYING.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/嘉佳卡通.png" group-title="银河电视",嘉佳卡通
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png" group-title="银河电视",优漫卡通
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="银河电视",卡酷少儿
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_KAKU/G_KAKU.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV1.png" group-title="银河电视",CETV-1
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-1/G_CETV-1.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV2.png" group-title="银河电视",CETV-2
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-2/G_CETV-2.m3u8
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV3.png" group-title="银河电视",CETV-3
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV4.png" group-title="银河电视",CETV-4
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-4/G_CETV-4.m3u8
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/纪实科教.png" group-title="银河电视",纪实科教
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi.m3u8
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/早期教育.png" group-title="银河电视",早期教育
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ.m3u8
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天元围棋.png" group-title="银河电视",天元围棋
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TIANYUANWQ/G_TIANYUANWQ.m3u8
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/国学.png" group-title="银河电视",国学
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUOXUE/G_GUOXUE.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/纯享4K.png" group-title="银河电视",纯享4K
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8
+#EXTINF:-1 tvg-name="南京新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京新闻.png" group-title="银河电视",南京新闻
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NJXW/G_NJXW.m3u8
+#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京影视.png" group-title="银河电视",南京影视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NJYS/G_NJYS.m3u8
+#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京少儿.png" group-title="银河电视",南京少儿
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NJSE/G_NJSE.m3u8
+#EXTINF:-1 tvg-name="南京生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京生活.png" group-title="银河电视",南京生活
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NJSH/G_NJSH.m3u8
+#EXTINF:-1 tvg-name="南京信息" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京信息.png" group-title="银河电视",南京信息
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NJXX/G_NJXX.m3u8
+#EXTINF:-1 tvg-name="南京娱乐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京娱乐.png" group-title="银河电视",南京娱乐
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NJYL/G_NJYL.m3u8
+#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京教科.png" group-title="银河电视",南京教科
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NJJK/G_NJJK.m3u8
+#EXTINF:-1 tvg-name="南京十八" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京十八.png" group-title="银河电视",南京十八
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_NJSB/G_NJSB.m3u8
+#EXTINF:-1 tvg-name="徐州新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/徐州新闻.png" group-title="银河电视",徐州新闻
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzxwzh/xzxwzh.m3u8
+#EXTINF:-1 tvg-name="徐州经济" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/徐州经济.png" group-title="银河电视",徐州经济
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzjjsh/xzjjsh.m3u8
+#EXTINF:-1 tvg-name="徐州影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/徐州影视.png" group-title="银河电视",徐州影视
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzwyys/xzwyys.m3u8
+#EXTINF:-1 tvg-name="徐州公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/徐州公共.png" group-title="银河电视",徐州公共
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzgg/xzgg.m3u8
+#EXTINF:-1 tvg-name="徐州新沂" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/徐州新沂.png" group-title="银河电视",徐州新沂
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_XZXYTV-3/G_XZXYTV-3.m3u8
+#EXTINF:-1 tvg-name="沛县新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/沛县新闻.png" group-title="银河电视",沛县新闻
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzpxxwzh/xzpxxwzh.m3u8
+#EXTINF:-1 tvg-name="沛县综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/沛县综艺.png" group-title="银河电视",沛县综艺
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzpxzy/xzpxzy.m3u8
+#EXTINF:-1 tvg-name="沛县生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/沛县生活.png" group-title="银河电视",沛县生活
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzpxsh/xzpxsh.m3u8
+#EXTINF:-1 tvg-name="泰州一套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/泰州一套.png" group-title="银河电视",泰州一套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TAIZHOUTV-1/G_TAIZHOUTV-1.m3u8
+#EXTINF:-1 tvg-name="泰州二套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/泰州二套.png" group-title="银河电视",泰州二套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TAIZHOUTV-2/G_TAIZHOUTV-2.m3u8
+#EXTINF:-1 tvg-name="泰州三套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/泰州三套.png" group-title="银河电视",泰州三套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TAIZHOUTV-3/G_TAIZHOUTV-3.m3u8
+#EXTINF:-1 tvg-name="连云港新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/连云港新闻.png" group-title="银河电视",连云港新闻
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jslygxinwenzh/jslygxinwenzh.m3u8
+#EXTINF:-1 tvg-name="连云港公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/连云港公共.png" group-title="银河电视",连云港公共
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jslyggonggongpd/jslyggonggongpd.m3u8
+#EXTINF:-1 tvg-name="东海新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东海新闻.png" group-title="银河电视",东海新闻
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsdonghaixinwen/jsdonghaixinwen.m3u8
+#EXTINF:-1 tvg-name="东海文娱" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东海文娱.png" group-title="银河电视",东海文娱
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsdonghaiwenyu/jsdonghaiwenyu.m3u8
+#EXTINF:-1 tvg-name="常州新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/常州新闻.png" group-title="银河电视",常州新闻
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsczxinwen/jsczxinwen.m3u8
+#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/常州都市.png" group-title="银河电视",常州都市
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsczdushi/jsczdushi.m3u8
+#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/常州生活.png" group-title="银河电视",常州生活
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsczshenghuo/jsczshenghuo.m3u8
+#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/常州公共.png" group-title="银河电视",常州公共
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsczgonggong/jsczgonggong.m3u8
+#EXTINF:-1 tvg-name="睢宁综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/睢宁综合.png" group-title="银河电视",睢宁综合
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzsnzh/xzsnzh.m3u8
+#EXTINF:-1 tvg-name="睢宁资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/睢宁资讯.png" group-title="银河电视",睢宁资讯
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzsnzx/xzsnzx.m3u8
+#EXTINF:-1 tvg-name="睢宁生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/睢宁生活.png" group-title="银河电视",睢宁生活
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzsnshjy/xzsnshjy.m3u8
+#EXTINF:-1 tvg-name="睢宁三农" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/睢宁三农.png" group-title="银河电视",睢宁三农
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/xzsnsn/xzsnsn.m3u8
+#EXTINF:-1 tvg-name="南通一套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南通一套.png" group-title="银河电视",南通一套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsntyitao/jsntyitao.m3u8
+#EXTINF:-1 tvg-name="南通二套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南通二套.png" group-title="银河电视",南通二套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsntertao/jsntertao.m3u8
+#EXTINF:-1 tvg-name="铜山一套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/铜山一套.png" group-title="银河电视",铜山一套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TONGSHAN-1/G_TONGSHAN-1.m3u8
+#EXTINF:-1 tvg-name="铜山二套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/铜山二套.png" group-title="银河电视",铜山二套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TONGSHAN-2/G_TONGSHAN-2.m3u8
+#EXTINF:-1 tvg-name="铜山三套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/铜山三套.png" group-title="银河电视",铜山三套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TONGSHAN-3/G_TONGSHAN-3.m3u8
+#EXTINF:-1 tvg-name="铜山四套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/铜山四套.png" group-title="银河电视",铜山四套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_TONGSHAN-4/G_TONGSHAN-4.m3u8
+#EXTINF:-1 tvg-name="盐城一套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/盐城一套.png" group-title="银河电视",盐城一套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_YANCHENGTV-1/G_YANCHENGTV-1.m3u8
+#EXTINF:-1 tvg-name="盐城二套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/盐城二套.png" group-title="银河电视",盐城二套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_YANCHENGTV-2/G_YANCHENGTV-2.m3u8
+#EXTINF:-1 tvg-name="盐城三套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/盐城三套.png" group-title="银河电视",盐城三套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_YANCHENGTV-3/G_YANCHENGTV-3.m3u8
+#EXTINF:-1 tvg-name="公共崇川" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/公共崇川.png" group-title="银河电视",公共崇川
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/jsntsantao/jsntsantao.m3u8
+#EXTINF:-1 tvg-name="宝应新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宝应新闻.png" group-title="银河电视",宝应新闻
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_BAOYINGXW/G_BAOYINGXW.m3u8
+#EXTINF:-1 tvg-name="宝应生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宝应生活.png" group-title="银河电视",宝应生活
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_BAOYINGSH/G_BAOYINGSH.m3u8
+#EXTINF:-1 tvg-name="江都频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江都频道.png" group-title="银河电视",江都频道
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_YANGZHOUJD/G_YANGZHOUJD.m3u8
+#EXTINF:-1 tvg-name="镇江一套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/镇江一套.png" group-title="银河电视",镇江一套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHENJIANGTV-1/G_ZHENJIANGTV-1.m3u8
+#EXTINF:-1 tvg-name="镇江二套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/镇江二套.png" group-title="银河电视",镇江二套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHENJIANGTV-2/G_ZHENJIANGTV-2.m3u8
+#EXTINF:-1 tvg-name="镇江三套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/镇江三套.png" group-title="银河电视",镇江三套
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHENJIANGTV-3/G_ZHENJIANGTV-3.m3u8
+#EXTINF:-1 tvg-name="宿迁综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宿迁综合.png" group-title="银河电视",宿迁综合
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_SQZH/G_SQZH.m3u8
+#EXTINF:-1 tvg-name="宿迁公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宿迁公共.png" group-title="银河电视",宿迁公共
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_SQGG/G_SQGG.m3u8
+#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/邳州综合.png" group-title="银河电视",邳州综合
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/pzzonghe/pzzonghe.m3u8
+#EXTINF:-1 tvg-name="江苏财经广播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏财经广播.png" group-title="银河电视",江苏财经广播
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_CAIJING/R_CAIJING.m3u8
+#EXTINF:-1 tvg-name="江苏健康广播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏健康广播.png" group-title="银河电视",江苏健康广播
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_JIANKANG/R_JIANKANG.m3u8
+#EXTINF:-1 tvg-name="江苏文艺广播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏文艺广播.png" group-title="银河电视",江苏文艺广播
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_WENYI/R_WENYI.m3u8
+#EXTINF:-1 tvg-name="江苏音乐台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏音乐台.png" group-title="银河电视",江苏音乐台
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_YINYUE/R_YINYUE.m3u8
+#EXTINF:-1 tvg-name="江苏经典流行音乐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏经典流行音乐.png" group-title="银河电视",江苏经典流行音乐
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_JINGDIANLX/R_JINGDIANLX.m3u8
+#EXTINF:-1 tvg-name="金陵之声" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金陵之声.png" group-title="银河电视",金陵之声
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_997/R_997.m3u8
+#EXTINF:-1 tvg-name="江苏交通广播网" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏交通广播网.png" group-title="银河电视",江苏交通广播网
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_JIAOTONG/R_JIAOTONG.m3u8
+#EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏新闻广播.png" group-title="银河电视",江苏新闻广播
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_XINWEN/R_XINWEN.m3u8
+#EXTINF:-1 tvg-name="江苏新闻综合广播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏新闻综合广播.png" group-title="银河电视",江苏新闻综合广播
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_XINWENZH/R_XINWENZH.m3u8
+#EXTINF:-1 tvg-name="江苏故事广播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏故事广播.png" group-title="银河电视",江苏故事广播
+http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/R_GUSHI/R_GUSHI.m3u8
+
 #数字频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="数字频道",CHC影迷电影
 http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
