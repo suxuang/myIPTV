@@ -190,6 +190,68 @@ http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东教育.png" group-title="央视高清",山东教育
 http://iptv.huuc.edu.cn/hls/sdetv.m3u8
 
+#央视超高清
+#EXTINF:-1 tvg-name="CCTV1高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视超高清",CCTV1高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+#EXTINF:-1 tvg-name="CCTV1超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视超高清",CCTV1超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
+#EXTINF:-1 tvg-name="CCTV1蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视超高清",CCTV1蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=lg
+#EXTINF:-1 tvg-name="CCTV2高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视超高清",CCTV2高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
+#EXTINF:-1 tvg-name="CCTV2超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视超高清",CCTV2超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq
+#EXTINF:-1 tvg-name="CCTV2蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视超高清",CCTV2蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=lg
+#EXTINF:-1 tvg-name="CCTV4高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="央视超高清",CCTV4高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
+#EXTINF:-1 tvg-name="CCTV4超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="央视超高清",CCTV4超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
+#EXTINF:-1 tvg-name="CCTV4蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="央视超高清",CCTV4蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=lg
+#EXTINF:-1 tvg-name="CCTV7高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视超高清",CCTV7高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
+#EXTINF:-1 tvg-name="CCTV7超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视超高清",CCTV7超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
+#EXTINF:-1 tvg-name="CCTV7蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视超高清",CCTV7蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=lg
+#EXTINF:-1 tvg-name="CCTV9高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视超高清",CCTV9高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
+#EXTINF:-1 tvg-name="CCTV9超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视超高清",CCTV9超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq
+#EXTINF:-1 tvg-name="CCTV9蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视超高清",CCTV9蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=lg
+#EXTINF:-1 tvg-name="CCTV10高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="央视超高清",CCTV10高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
+#EXTINF:-1 tvg-name="CCTV10超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="央视超高清",CCTV10超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq
+#EXTINF:-1 tvg-name="CCTV10蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="央视超高清",CCTV10蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=lg
+#EXTINF:-1 tvg-name="CCTV12高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="央视超高清",CCTV12高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
+#EXTINF:-1 tvg-name="CCTV12超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="央视超高清",CCTV12超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
+#EXTINF:-1 tvg-name="CCTV12蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="央视超高清",CCTV12蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=lg
+#EXTINF:-1 tvg-name="CCTV13高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="央视超高清",CCTV13高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
+#EXTINF:-1 tvg-name="CCTV13超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="央视超高清",CCTV13超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=cq
+#EXTINF:-1 tvg-name="CCTV13蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="央视超高清",CCTV13蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=lg
+#EXTINF:-1 tvg-name="CCTV17高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视超高清",CCTV17高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
+#EXTINF:-1 tvg-name="CCTV17超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视超高清",CCTV17超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=cq
+#EXTINF:-1 tvg-name="CCTV17蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视超高清",CCTV17蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=lg
+#EXTINF:-1 tvg-name="CCTV4K高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视超高清",CCTV4K高清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=gq
+#EXTINF:-1 tvg-name="CCTV4K超清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视超高清",CCTV4K超清
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=cq
+#EXTINF:-1 tvg-name="CCTV4K蓝光" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视超高清",CCTV4K蓝光
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
+
 #央视高清备用
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视高清备用",CCTV1
 http://ygbh.site/php/bfgd.php?id=488
