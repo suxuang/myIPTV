@@ -1766,572 +1766,572 @@ https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
 
 #蜀小果
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="蜀小果",CCTV1
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="蜀小果",CCTV2
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="蜀小果",CCTV3
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="蜀小果",CCTV4
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="蜀小果",CCTV4K
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="蜀小果",CCTV5
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="蜀小果",CCTV5+
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="蜀小果",CCTV6
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="蜀小果",CCTV7
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="蜀小果",CCTV8
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="蜀小果",CCTV9
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="蜀小果",CCTV10
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="蜀小果",CCTV11
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="蜀小果",CCTV12
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="蜀小果",CCTV13
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="蜀小果",CCTV14
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="蜀小果",CCTV15
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="蜀小果",CCTV16
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV16-4k" tvg-logo="https://live.fanmingming.cn/tv/CCTV16-4k.png" group-title="蜀小果",CCTV16-4k
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="蜀小果",CCTV17
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="蜀小果",CGTN
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CGTN_4000.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="蜀小果",CGTN西语
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xbyy_2000.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="蜀小果",CGTN法语
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/fy_2000.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="蜀小果",CGTN俄语
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ey_2000.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="蜀小果",北京卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="蜀小果",东方卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="蜀小果",天津卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="蜀小果",重庆卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="蜀小果",黑龙江卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="蜀小果",吉林卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="蜀小果",辽宁卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="蜀小果",内蒙古卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/nmgws_4000.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="蜀小果",甘肃卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="蜀小果",青海卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qhwsH264_2000.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="蜀小果",陕西卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="蜀小果",山西卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws42_4000.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="蜀小果",山东卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="蜀小果",安徽卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="蜀小果",河南卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="蜀小果",湖北卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="蜀小果",湖南卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="蜀小果",江西卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="蜀小果",江苏卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="蜀小果",浙江卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="蜀小果",东南卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dnwsfjwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="蜀小果",广东卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="蜀小果",深圳卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="蜀小果",广西卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxws_4000.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="蜀小果",云南卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="蜀小果",贵州卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="蜀小果",四川卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8
-#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="蜀小果",康巴卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/kbwsH264_2000.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="蜀小果",新疆卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="蜀小果",兵团卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/btws_4000.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="蜀小果",西藏卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="蜀小果",海南卫视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws_4000.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="蜀小果",卡酷少儿
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="蜀小果",金鹰卡通
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="蜀小果",嘉佳卡通
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8
-#EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://live.fanmingming.cn/tv/成都少儿.png" group-title="蜀小果",成都少儿
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-6_2000.m3u8
-#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://live.fanmingming.cn/tv/四川经济.png" group-title="蜀小果",四川经济
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-2-H265_4000.m3u8
-#EXTINF:-1 tvg-name="四川文化" tvg-logo="https://live.fanmingming.cn/tv/四川文化.png" group-title="蜀小果",四川文化
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-3-H265_4000.m3u8
-#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://live.fanmingming.cn/tv/四川新闻.png" group-title="蜀小果",四川新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-4H265_4000.m3u8
-#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://live.fanmingming.cn/tv/四川影视.png" group-title="蜀小果",四川影视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-5-scysH265_4000.m3u8
-#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.cn/tv/四川科教.png" group-title="蜀小果",四川科教
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-ggSCTV-8_4000.m3u8
-#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://live.fanmingming.cn/tv/四川乡村.png" group-title="蜀小果",四川乡村
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-kjSCTV-9-_4000.m3u8
-#EXTINF:-1 tvg-name="峨嵋电影" tvg-logo="https://live.fanmingming.cn/tv/峨嵋电影.png" group-title="蜀小果",峨嵋电影
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8
-#EXTINF:-1 tvg-name="峨眉电影4K" tvg-logo="https://live.fanmingming.cn/tv/峨眉电影4K.png" group-title="蜀小果",峨眉电影4K
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000
-#EXTINF:-1 tvg-name="成都新闻" tvg-logo="https://live.fanmingming.cn/tv/成都新闻.png" group-title="蜀小果",成都新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-1_4000.m3u8
-#EXTINF:-1 tvg-name="成都经济" tvg-logo="https://live.fanmingming.cn/tv/成都经济.png" group-title="蜀小果",成都经济
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-2_4000.m3u8
-#EXTINF:-1 tvg-name="成都都市" tvg-logo="https://live.fanmingming.cn/tv/成都都市.png" group-title="蜀小果",成都都市
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-3_4000.m3u8
-#EXTINF:-1 tvg-name="成都影视" tvg-logo="https://live.fanmingming.cn/tv/成都影视.png" group-title="蜀小果",成都影视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-4_4000.m3u8
-#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://live.fanmingming.cn/tv/成都公共.png" group-title="蜀小果",成都公共
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-5_4000.m3u8
-#EXTINF:-1 tvg-name="成都购物" tvg-logo="https://live.fanmingming.cn/tv/成都购物.png" group-title="蜀小果",成都购物
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000.m3u8
-#EXTINF:-1 tvg-name="成都高新" tvg-logo="https://live.fanmingming.cn/tv/成都高新.png" group-title="蜀小果",成都高新
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_2000.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="蜀小果",CHC影迷电影
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="蜀小果",CHC动作电影
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="蜀小果",CHC家庭影院
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
-#EXTINF:-1 tvg-name="中央新影-老故事" tvg-logo="https://live.fanmingming.cn/tv/中央新影-老故事.png" group-title="蜀小果",中央新影-老故事
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lgs_2000.m3u8
-#EXTINF:-1 tvg-name="中央新影-中学生" tvg-logo="https://live.fanmingming.cn/tv/中央新影-中学生.png" group-title="蜀小果",中央新影-中学生
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zxs_4000.m3u8
-#EXTINF:-1 tvg-name="中央新影-发现之旅" tvg-logo="https://live.fanmingming.cn/tv/中央新影-发现之旅.png" group-title="蜀小果",中央新影-发现之旅
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/fxzl_2000.m3u8
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.cn/tv/书画频道.png" group-title="蜀小果",书画频道
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/sh_4000.m3u8
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="蜀小果",中国天气
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="蜀小果",重温经典
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="蜀小果",CETV1
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="蜀小果",CETV2
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-2_4000.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="蜀小果",CETV4
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264_2000.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.cn/tv/四海钓鱼.png" group-title="蜀小果",四海钓鱼
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8
-#EXTINF:-1 tvg-name="车迷" tvg-logo="https://live.fanmingming.cn/tv/车迷.png" group-title="蜀小果",车迷
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/cmpdH264_2000.m3u8
-#EXTINF:-1 tvg-name="证劵服务" tvg-logo="https://live.fanmingming.cn/tv/证劵服务.png" group-title="蜀小果",证劵服务
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jz_2000.m3u8
-#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.cn/tv/聚鲨环球精选.png" group-title="蜀小果",聚鲨环球精选
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hqgw_4000.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="蜀小果",动漫秀场
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/yybb-dmxc-H265_4000.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="蜀小果",都市剧场
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxfydsjcHDH265_4000.m3u8
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="蜀小果",法治天地
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/fztx_4000.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="蜀小果",欢笑剧场
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_8000
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="蜀小果",乐游
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qjs-HDH265_4000.m3u8
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="蜀小果",魅力足球
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/mlyy_4000.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="蜀小果",生活时尚
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/shssH265_4000.m3u8
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://live.fanmingming.cn/tv/新视觉.png" group-title="蜀小果",新视觉
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
-#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.cn/tv/汽摩.png" group-title="蜀小果",汽摩
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qmpdH264_2000.m3u8
-#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.cn/tv/家有购物.png" group-title="蜀小果",家有购物
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jygw_4000.m3u8
-#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.cn/tv/家庭理财.png" group-title="蜀小果",家庭理财
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jtlc_4000.m3u8
-#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.cn/tv/优购物.png" group-title="蜀小果",优购物
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ygw_4000.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="蜀小果",凤凰中文
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="蜀小果",凤凰资讯
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
-#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.cn/tv/梨园频道.png" group-title="蜀小果",梨园频道
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ly_4000.m3u8
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.cn/tv/武术世界.png" group-title="蜀小果",武术世界
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wssj_4000.m3u8
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.cn/tv/文物宝库.png" group-title="蜀小果",文物宝库
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wwbk_4000.m3u8
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶频道.png" group-title="蜀小果",茶频道
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/cpd_4000.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="蜀小果",金鹰纪实
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyjsHDH265_4000.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="蜀小果",北京纪实科教
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjjs_2000.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="蜀小果",快乐垂钓
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
-#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.cn/tv/先锋乒羽.png" group-title="蜀小果",先锋乒羽
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xfpy_4000.m3u8
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.cn/tv/财富天下.png" group-title="蜀小果",财富天下
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/cftx_4000.m3u8
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.cn/tv/天元围棋.png" group-title="蜀小果",天元围棋
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
-#EXTINF:-1 tvg-name="精品导视" tvg-logo="https://live.fanmingming.cn/tv/精品导视.png" group-title="蜀小果",精品导视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jpdsH265_4000.m3u8
-#EXTINF:-1 tvg-name="精品导视2" tvg-logo="https://live.fanmingming.cn/tv/精品导视2.png" group-title="蜀小果",精品导视2
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jpdsgq-hkkp_4000.m3u8
-#EXTINF:-1 tvg-name="川网导视" tvg-logo="https://live.fanmingming.cn/tv/川网导视.png" group-title="蜀小果",川网导视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/cwdsHDH264_4000.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="蜀小果",东方财经
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfcj_4000.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="蜀小果",山东教育
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdjy_4000.m3u8
-#EXTINF:-1 tvg-name="青羊电视" tvg-logo="https://live.fanmingming.cn/tv/青羊电视.png" group-title="蜀小果",青羊电视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qyzh_4000.m3u8
-#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.cn/tv/央广购物.png" group-title="蜀小果",央广购物
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/yggw_2000.m3u8
-#EXTINF:-1 tvg-name="崇州" tvg-logo="https://live.fanmingming.cn/tv/崇州.png" group-title="蜀小果",崇州
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/czyt_4000.m3u8
-#EXTINF:-1 tvg-name="大邑" tvg-logo="https://live.fanmingming.cn/tv/大邑.png" group-title="蜀小果",大邑
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dyytH265_4000.m3u8
-#EXTINF:-1 tvg-name="都江堰综合" tvg-logo="https://live.fanmingming.cn/tv/都江堰综合.png" group-title="蜀小果",都江堰综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/djyzh_4000.m3u8
-#EXTINF:-1 tvg-name="金牛综合" tvg-logo="https://live.fanmingming.cn/tv/金牛综合.png" group-title="蜀小果",金牛综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jnyx_2000.m3u8
-#EXTINF:-1 tvg-name="金堂" tvg-logo="https://live.fanmingming.cn/tv/金堂.png" group-title="蜀小果",金堂
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jtzhpd_2000.m3u8
-#EXTINF:-1 tvg-name="简阳新闻" tvg-logo="https://live.fanmingming.cn/tv/简阳新闻.png" group-title="蜀小果",简阳新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="龙泉新闻" tvg-logo="https://live.fanmingming.cn/tv/龙泉新闻.png" group-title="蜀小果",龙泉新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lqxw_2000.m3u8
-#EXTINF:-1 tvg-name="郫都新闻" tvg-logo="https://live.fanmingming.cn/tv/郫都新闻.png" group-title="蜀小果",郫都新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pxds1_2000.m3u8
-#EXTINF:-1 tvg-name="蒲江综合" tvg-logo="https://live.fanmingming.cn/tv/蒲江综合.png" group-title="蜀小果",蒲江综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pjxw_4000.m3u8
-#EXTINF:-1 tvg-name="彭州综合" tvg-logo="https://live.fanmingming.cn/tv/彭州综合.png" group-title="蜀小果",彭州综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pzxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="青白江综合" tvg-logo="https://live.fanmingming.cn/tv/青白江综合.png" group-title="蜀小果",青白江综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qbjxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="邛崃综合" tvg-logo="https://live.fanmingming.cn/tv/邛崃综合.png" group-title="蜀小果",邛崃综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qlds1t_2000.m3u8
-#EXTINF:-1 tvg-name="双流综合" tvg-logo="https://live.fanmingming.cn/tv/双流综合.png" group-title="蜀小果",双流综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/slgq_2000.m3u8
-#EXTINF:-1 tvg-name="温江新闻" tvg-logo="https://live.fanmingming.cn/tv/温江新闻.png" group-title="蜀小果",温江新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wjytH264_2000.m3u8
-#EXTINF:-1 tvg-name="新都综合" tvg-logo="https://live.fanmingming.cn/tv/新都综合.png" group-title="蜀小果",新都综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xdzhpd_2000.m3u8
-#EXTINF:-1 tvg-name="新津综合" tvg-logo="https://live.fanmingming.cn/tv/新津综合.png" group-title="蜀小果",新津综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjzh_4000.m3u8
-#EXTINF:-1 tvg-name="绵阳新闻" tvg-logo="https://live.fanmingming.cn/tv/绵阳新闻.png" group-title="蜀小果",绵阳新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/myytH265_4000.m3u8
-#EXTINF:-1 tvg-name="绵阳科技" tvg-logo="https://live.fanmingming.cn/tv/绵阳科技.png" group-title="蜀小果",绵阳科技
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/myetH265_4000.m3u8
-#EXTINF:-1 tvg-name="安州综合" tvg-logo="https://live.fanmingming.cn/tv/安州综合.png" group-title="蜀小果",安州综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/azgq_2000.m3u8
-#EXTINF:-1 tvg-name="北川综合" tvg-logo="https://live.fanmingming.cn/tv/北川综合.png" group-title="蜀小果",北川综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/bcxwHD_2000.m3u8
-#EXTINF:-1 tvg-name="涪城综合" tvg-logo="https://live.fanmingming.cn/tv/涪城综合.png" group-title="蜀小果",涪城综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/fcgq_2000.m3u8
-#EXTINF:-1 tvg-name="江油综合" tvg-logo="https://live.fanmingming.cn/tv/江油综合.png" group-title="蜀小果",江油综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwHD_2000.m3u8
-#EXTINF:-1 tvg-name="平武综合" tvg-logo="https://live.fanmingming.cn/tv/平武综合.png" group-title="蜀小果",平武综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pwgq_4000.m3u8
-#EXTINF:-1 tvg-name="盐亭综合" tvg-logo="https://live.fanmingming.cn/tv/盐亭综合.png" group-title="蜀小果",盐亭综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ytzh_2000.m3u8
-#EXTINF:-1 tvg-name="梓潼综合" tvg-logo="https://live.fanmingming.cn/tv/梓潼综合.png" group-title="蜀小果",梓潼综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ztgq_2000.m3u8
-#EXTINF:-1 tvg-name="攀枝花新闻" tvg-logo="https://live.fanmingming.cn/tv/攀枝花新闻.png" group-title="蜀小果",攀枝花新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pzhytH265_4000.m3u8
-#EXTINF:-1 tvg-name="攀枝花文旅" tvg-logo="https://live.fanmingming.cn/tv/攀枝花文旅.png" group-title="蜀小果",攀枝花文旅
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pzhggpd_2000.m3u8
-#EXTINF:-1 tvg-name="攀钢新闻" tvg-logo="https://live.fanmingming.cn/tv/攀钢新闻.png" group-title="蜀小果",攀钢新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pgxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="米易综合" tvg-logo="https://live.fanmingming.cn/tv/米易综合.png" group-title="蜀小果",米易综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/myxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="盐边综合" tvg-logo="https://live.fanmingming.cn/tv/盐边综合.png" group-title="蜀小果",盐边综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybtgq_2000.m3u8
-#EXTINF:-1 tvg-name="仁和新闻" tvg-logo="https://live.fanmingming.cn/tv/仁和新闻.png" group-title="蜀小果",仁和新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/rhxwH264_2000.m3u8
-#EXTINF:-1 tvg-name="广元综合" tvg-logo="https://live.fanmingming.cn/tv/广元综合.png" group-title="蜀小果",广元综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gyzhH265_4000.m3u8
-#EXTINF:-1 tvg-name="广元文化生活" tvg-logo="https://live.fanmingming.cn/tv/广元文化生活.png" group-title="蜀小果",广元文化生活
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gyggH265_4000.m3u8
-#EXTINF:-1 tvg-name="朝天综合" tvg-logo="https://live.fanmingming.cn/tv/朝天综合.png" group-title="蜀小果",朝天综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ctxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="苍溪综合" tvg-logo="https://live.fanmingming.cn/tv/苍溪综合.png" group-title="蜀小果",苍溪综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/cxxwgqH265_4000.m3u8
-#EXTINF:-1 tvg-name="剑阁综合" tvg-logo="https://live.fanmingming.cn/tv/剑阁综合.png" group-title="蜀小果",剑阁综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jgxwzhH265_4000.m3u8
-#EXTINF:-1 tvg-name="利州综合" tvg-logo="https://live.fanmingming.cn/tv/利州综合.png" group-title="蜀小果",利州综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lzxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="青川综合" tvg-logo="https://live.fanmingming.cn/tv/青川综合.png" group-title="蜀小果",青川综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qcxwzhH265_4000.m3u8
-#EXTINF:-1 tvg-name="旺苍新闻" tvg-logo="https://live.fanmingming.cn/tv/旺苍新闻.png" group-title="蜀小果",旺苍新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wcxwzhH265_4000.m3u8
-#EXTINF:-1 tvg-name="昭化综合" tvg-logo="https://live.fanmingming.cn/tv/昭化综合.png" group-title="蜀小果",昭化综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zhxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="古蔺新闻" tvg-logo="https://live.fanmingming.cn/tv/古蔺新闻.png" group-title="蜀小果",古蔺新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/glxwzhgq_2000.m3u8
-#EXTINF:-1 tvg-name="合江新闻" tvg-logo="https://live.fanmingming.cn/tv/合江新闻.png" group-title="蜀小果",合江新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hjxw_2000.m3u8
-#EXTINF:-1 tvg-name="泸县综合" tvg-logo="https://live.fanmingming.cn/tv/泸县综合.png" group-title="蜀小果",泸县综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lxxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="纳溪" tvg-logo="https://live.fanmingming.cn/tv/纳溪.png" group-title="蜀小果",纳溪
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/nxxw_2000.m3u8
-#EXTINF:-1 tvg-name="叙永综合" tvg-logo="https://live.fanmingming.cn/tv/叙永综合.png" group-title="蜀小果",叙永综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xyxw_2000.m3u8
-#EXTINF:-1 tvg-name="德阳新闻" tvg-logo="https://live.fanmingming.cn/tv/德阳新闻.png" group-title="蜀小果",德阳新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dyxwgq-HD-_2000.m3u8
-#EXTINF:-1 tvg-name="德阳文旅" tvg-logo="https://live.fanmingming.cn/tv/德阳文旅.png" group-title="蜀小果",德阳文旅
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dygggq-HD-_2000.m3u8
-#EXTINF:-1 tvg-name="广汉综合" tvg-logo="https://live.fanmingming.cn/tv/广汉综合.png" group-title="蜀小果",广汉综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ghxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="旌阳综合" tvg-logo="https://live.fanmingming.cn/tv/旌阳综合.png" group-title="蜀小果",旌阳综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwgq-HD-_2000.m3u8
-#EXTINF:-1 tvg-name="罗江综合" tvg-logo="https://live.fanmingming.cn/tv/罗江综合.png" group-title="蜀小果",罗江综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ljxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="绵竹综合" tvg-logo="https://live.fanmingming.cn/tv/绵竹综合.png" group-title="蜀小果",绵竹综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/mzxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="中江新闻" tvg-logo="https://live.fanmingming.cn/tv/中江新闻.png" group-title="蜀小果",中江新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="宜宾新闻" tvg-logo="https://live.fanmingming.cn/tv/宜宾新闻.png" group-title="蜀小果",宜宾新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybytH264_2000.m3u8
-#EXTINF:-1 tvg-name="宜宾公共" tvg-logo="https://live.fanmingming.cn/tv/宜宾公共.png" group-title="蜀小果",宜宾公共
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybetH264_2000.m3u8
-#EXTINF:-1 tvg-name="宜宾导视" tvg-logo="https://live.fanmingming.cn/tv/宜宾导视.png" group-title="蜀小果",宜宾导视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybds_2000.m3u8
-#EXTINF:-1 tvg-name="珙县新闻" tvg-logo="https://live.fanmingming.cn/tv/珙县新闻.png" group-title="蜀小果",珙县新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxzh_2000.m3u8
-#EXTINF:-1 tvg-name="江安综合" tvg-logo="https://live.fanmingming.cn/tv/江安综合.png" group-title="蜀小果",江安综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jat_2000.m3u8
-#EXTINF:-1 tvg-name="南溪综合" tvg-logo="https://live.fanmingming.cn/tv/南溪综合.png" group-title="蜀小果",南溪综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/nxt_2000.m3u8
-#EXTINF:-1 tvg-name="屏山新闻" tvg-logo="https://live.fanmingming.cn/tv/屏山新闻.png" group-title="蜀小果",屏山新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/psxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="兴文综合" tvg-logo="https://live.fanmingming.cn/tv/兴文综合.png" group-title="蜀小果",兴文综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xwt_2000.m3u8
-#EXTINF:-1 tvg-name="叙州新闻" tvg-logo="https://live.fanmingming.cn/tv/叙州新闻.png" group-title="蜀小果",叙州新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybx_2000.m3u8
-#EXTINF:-1 tvg-name="筠连新闻" tvg-logo="https://live.fanmingming.cn/tv/筠连新闻.png" group-title="蜀小果",筠连新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ylyt_2000.m3u8
-#EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://live.fanmingming.cn/tv/长宁综合.png" group-title="蜀小果",长宁综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/znzh_2000.m3u8
-#EXTINF:-1 tvg-name="宁新综合" tvg-logo="https://live.fanmingming.cn/tv/宁新综合.png" group-title="蜀小果",宁新综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/snxwzhHDH265_4000.m3u8
-#EXTINF:-1 tvg-name="遂宁文化" tvg-logo="https://live.fanmingming.cn/tv/遂宁文化.png" group-title="蜀小果",遂宁文化
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/sngggq_2000.m3u8
-#EXTINF:-1 tvg-name="安居综合" tvg-logo="https://live.fanmingming.cn/tv/安居综合.png" group-title="蜀小果",安居综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ajxw_2000.m3u8
-#EXTINF:-1 tvg-name="大英新闻" tvg-logo="https://live.fanmingming.cn/tv/大英新闻.png" group-title="蜀小果",大英新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dyxwzhH265_4000.m3u8
-#EXTINF:-1 tvg-name="蓬溪新闻" tvg-logo="https://live.fanmingming.cn/tv/蓬溪新闻.png" group-title="蜀小果",蓬溪新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pxxw_2000.m3u8
-#EXTINF:-1 tvg-name="乐山新闻" tvg-logo="https://live.fanmingming.cn/tv/乐山新闻.png" group-title="蜀小果",乐山新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsxwzh_4000.m3u8
-#EXTINF:-1 tvg-name="乐山文旅" tvg-logo="https://live.fanmingming.cn/tv/乐山文旅.png" group-title="蜀小果",乐山文旅
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsggpd_4000.m3u8
-#EXTINF:-1 tvg-name="峨边综合" tvg-logo="https://live.fanmingming.cn/tv/峨边综合.png" group-title="蜀小果",峨边综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ebdst_2000.m3u8
-#EXTINF:-1 tvg-name="夹江新闻" tvg-logo="https://live.fanmingming.cn/tv/夹江新闻.png" group-title="蜀小果",夹江新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjxw_2000.m3u8
-#EXTINF:-1 tvg-name="金口河综合" tvg-logo="https://live.fanmingming.cn/tv/金口河综合.png" group-title="蜀小果",金口河综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jkhdst_2000.m3u8
-#EXTINF:-1 tvg-name="井研新闻" tvg-logo="https://live.fanmingming.cn/tv/井研新闻.png" group-title="蜀小果",井研新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwzh162_2000.m3u8
-#EXTINF:-1 tvg-name="马边综合" tvg-logo="https://live.fanmingming.cn/tv/马边综合.png" group-title="蜀小果",马边综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/mbxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="沐川综合" tvg-logo="https://live.fanmingming.cn/tv/沐川综合.png" group-title="蜀小果",沐川综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/mcxw_2000.m3u8
-#EXTINF:-1 tvg-name="犍为新闻" tvg-logo="https://live.fanmingming.cn/tv/犍为新闻.png" group-title="蜀小果",犍为新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qwxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="沙湾融媒" tvg-logo="https://live.fanmingming.cn/tv/沙湾融媒.png" group-title="蜀小果",沙湾融媒
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/swxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="五通桥综合" tvg-logo="https://live.fanmingming.cn/tv/五通桥综合.png" group-title="蜀小果",五通桥综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wtqxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="内江综合" tvg-logo="https://live.fanmingming.cn/tv/内江综合.png" group-title="蜀小果",内江综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/njzh_4000.m3u8
-#EXTINF:-1 tvg-name="内江公共" tvg-logo="https://live.fanmingming.cn/tv/内江公共.png" group-title="蜀小果",内江公共
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/njgg_4000.m3u8
-#EXTINF:-1 tvg-name="东兴综合" tvg-logo="https://live.fanmingming.cn/tv/东兴综合.png" group-title="蜀小果",东兴综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dxxwzh_4000.m3u8
-#EXTINF:-1 tvg-name="隆昌综合" tvg-logo="https://live.fanmingming.cn/tv/隆昌综合.png" group-title="蜀小果",隆昌综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lcxw_2000.m3u8
-#EXTINF:-1 tvg-name="资中综合" tvg-logo="https://live.fanmingming.cn/tv/资中综合.png" group-title="蜀小果",资中综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zzzh_2000.m3u8
-#EXTINF:-1 tvg-name="南充综合" tvg-logo="https://live.fanmingming.cn/tv/南充综合.png" group-title="蜀小果",南充综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ncxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="南充科教" tvg-logo="https://live.fanmingming.cn/tv/南充科教.png" group-title="蜀小果",南充科教
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/nckj_4000.m3u8
-#EXTINF:-1 tvg-name="阆中综合" tvg-logo="https://live.fanmingming.cn/tv/阆中综合.png" group-title="蜀小果",阆中综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lzxw_2000.m3u8
-#EXTINF:-1 tvg-name="南部综合" tvg-logo="https://live.fanmingming.cn/tv/南部综合.png" group-title="蜀小果",南部综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/nbxw_2000.m3u8
-#EXTINF:-1 tvg-name="蓬安综合" tvg-logo="https://live.fanmingming.cn/tv/蓬安综合.png" group-title="蜀小果",蓬安综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pazh_2000.m3u8
-#EXTINF:-1 tvg-name="西充新闻" tvg-logo="https://live.fanmingming.cn/tv/西充新闻.png" group-title="蜀小果",西充新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xczh_2000.m3u8
-#EXTINF:-1 tvg-name="仪陇新闻" tvg-logo="https://live.fanmingming.cn/tv/仪陇新闻.png" group-title="蜀小果",仪陇新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ylxw_2000.m3u8
-#EXTINF:-1 tvg-name="营山综合" tvg-logo="https://live.fanmingming.cn/tv/营山综合.png" group-title="蜀小果",营山综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ysxw_2000.m3u8
-#EXTINF:-1 tvg-name="达州新闻" tvg-logo="https://live.fanmingming.cn/tv/达州新闻.png" group-title="蜀小果",达州新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="达州文化" tvg-logo="https://live.fanmingming.cn/tv/达州文化.png" group-title="蜀小果",达州文化
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzgg_2000.m3u8
-#EXTINF:-1 tvg-name="达州导视" tvg-logo="https://live.fanmingming.cn/tv/达州导视.png" group-title="蜀小果",达州导视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzds_2000.m3u8
-#EXTINF:-1 tvg-name="达川新闻" tvg-logo="https://live.fanmingming.cn/tv/达川新闻.png" group-title="蜀小果",达川新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dcxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="大竹新闻" tvg-logo="https://live.fanmingming.cn/tv/大竹新闻.png" group-title="蜀小果",大竹新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzxwzh137_2000.m3u8
-#EXTINF:-1 tvg-name="开江新闻" tvg-logo="https://live.fanmingming.cn/tv/开江新闻.png" group-title="蜀小果",开江新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/kjxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="渠县新闻" tvg-logo="https://live.fanmingming.cn/tv/渠县新闻.png" group-title="蜀小果",渠县新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qxxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="通川综合" tvg-logo="https://live.fanmingming.cn/tv/通川综合.png" group-title="蜀小果",通川综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xcxwzhH264_2000.m3u8
-#EXTINF:-1 tvg-name="万源综合" tvg-logo="https://live.fanmingming.cn/tv/万源综合.png" group-title="蜀小果",万源综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wyxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="宣汉新闻" tvg-logo="https://live.fanmingming.cn/tv/宣汉新闻.png" group-title="蜀小果",宣汉新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xhxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="雅安新闻" tvg-logo="https://live.fanmingming.cn/tv/雅安新闻.png" group-title="蜀小果",雅安新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/yazh_2000.m3u8
-#EXTINF:-1 tvg-name="雅安公共" tvg-logo="https://live.fanmingming.cn/tv/雅安公共.png" group-title="蜀小果",雅安公共
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/yagg_2000.m3u8
-#EXTINF:-1 tvg-name="雅安雨城" tvg-logo="https://live.fanmingming.cn/tv/雅安雨城.png" group-title="蜀小果",雅安雨城
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycpd_2000.m3u8
-#EXTINF:-1 tvg-name="宝兴综合" tvg-logo="https://live.fanmingming.cn/tv/宝兴综合.png" group-title="蜀小果",宝兴综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/bxdst_2000.m3u8
-#EXTINF:-1 tvg-name="汉源新闻" tvg-logo="https://live.fanmingming.cn/tv/汉源新闻.png" group-title="蜀小果",汉源新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hyxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="芦山新闻" tvg-logo="https://live.fanmingming.cn/tv/芦山新闻.png" group-title="蜀小果",芦山新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lszh_2000.m3u8
-#EXTINF:-1 tvg-name="名山综合" tvg-logo="https://live.fanmingming.cn/tv/名山综合.png" group-title="蜀小果",名山综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/msdstH265_2000.m3u8
-#EXTINF:-1 tvg-name="石棉综合" tvg-logo="https://live.fanmingming.cn/tv/石棉综合.png" group-title="蜀小果",石棉综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/smxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="天全新闻" tvg-logo="https://live.fanmingming.cn/tv/天全新闻.png" group-title="蜀小果",天全新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/tqzh_2000.m3u8
-#EXTINF:-1 tvg-name="荥经综合" tvg-logo="https://live.fanmingming.cn/tv/荥经综合.png" group-title="蜀小果",荥经综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjdst_2000.m3u8
-#EXTINF:-1 tvg-name="广安公共" tvg-logo="https://live.fanmingming.cn/tv/广安公共.png" group-title="蜀小果",广安公共
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gagg_2000.m3u8
-#EXTINF:-1 tvg-name="广安区综合" tvg-logo="https://live.fanmingming.cn/tv/广安区综合.png" group-title="蜀小果",广安区综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gaqxw_2000.m3u8
-#EXTINF:-1 tvg-name="华蓥综合" tvg-logo="https://live.fanmingming.cn/tv/华蓥综合.png" group-title="蜀小果",华蓥综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hyxw_2000.m3u8
-#EXTINF:-1 tvg-name="邻水综合" tvg-logo="https://live.fanmingming.cn/tv/邻水综合.png" group-title="蜀小果",邻水综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsxw_2000.m3u8
-#EXTINF:-1 tvg-name="前锋综合" tvg-logo="https://live.fanmingming.cn/tv/前锋综合.png" group-title="蜀小果",前锋综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qfxw_2000.m3u8
-#EXTINF:-1 tvg-name="武胜综合" tvg-logo="https://live.fanmingming.cn/tv/武胜综合.png" group-title="蜀小果",武胜综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wsxw_2000.m3u8
-#EXTINF:-1 tvg-name="岳池综合" tvg-logo="https://live.fanmingming.cn/tv/岳池综合.png" group-title="蜀小果",岳池综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxw_2000.m3u8
-#EXTINF:-1 tvg-name="巴中综合" tvg-logo="https://live.fanmingming.cn/tv/巴中综合.png" group-title="蜀小果",巴中综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/bzytH265_4000.m3u8
-#EXTINF:-1 tvg-name="巴中文旅" tvg-logo="https://live.fanmingming.cn/tv/巴中文旅.png" group-title="蜀小果",巴中文旅
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/bzetH264_2000.m3u8
-#EXTINF:-1 tvg-name="巴州电视" tvg-logo="https://live.fanmingming.cn/tv/巴州电视.png" group-title="蜀小果",巴州电视
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/bzxw_4000.m3u8
-#EXTINF:-1 tvg-name="恩阳新闻" tvg-logo="https://live.fanmingming.cn/tv/恩阳新闻.png" group-title="蜀小果",恩阳新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/eyxw_2000.m3u8
-#EXTINF:-1 tvg-name="南江综合" tvg-logo="https://live.fanmingming.cn/tv/南江综合.png" group-title="蜀小果",南江综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/njxw_2000.m3u8
-#EXTINF:-1 tvg-name="平昌综合" tvg-logo="https://live.fanmingming.cn/tv/平昌综合.png" group-title="蜀小果",平昌综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pcxw_2000.m3u8
-#EXTINF:-1 tvg-name="通江综合" tvg-logo="https://live.fanmingming.cn/tv/通江综合.png" group-title="蜀小果",通江综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjxwH265_4000.m3u8
-#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://live.fanmingming.cn/tv/眉山综合.png" group-title="蜀小果",眉山综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/msxwzhgq_2000.m3u8
-#EXTINF:-1 tvg-name="眉山文旅乡村" tvg-logo="https://live.fanmingming.cn/tv/眉山文旅乡村.png" group-title="蜀小果",眉山文旅乡村
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/msgg_2000.m3u8
-#EXTINF:-1 tvg-name="丹棱新闻" tvg-logo="https://live.fanmingming.cn/tv/丹棱新闻.png" group-title="蜀小果",丹棱新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dlxwzhH265_4000.m3u8
-#EXTINF:-1 tvg-name="洪雅新闻" tvg-logo="https://live.fanmingming.cn/tv/洪雅新闻.png" group-title="蜀小果",洪雅新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hyzh_2000.m3u8
-#EXTINF:-1 tvg-name="彭山综合" tvg-logo="https://live.fanmingming.cn/tv/彭山综合.png" group-title="蜀小果",彭山综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pszh_2000.m3u8
-#EXTINF:-1 tvg-name="青神综合" tvg-logo="https://live.fanmingming.cn/tv/青神综合.png" group-title="蜀小果",青神综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/qszh_2000.m3u8
-#EXTINF:-1 tvg-name="仁寿综合" tvg-logo="https://live.fanmingming.cn/tv/仁寿综合.png" group-title="蜀小果",仁寿综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/msrszh_2000.m3u8
-#EXTINF:-1 tvg-name="凉山新闻" tvg-logo="https://live.fanmingming.cn/tv/凉山新闻.png" group-title="蜀小果",凉山新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsxwHDH265_4000.m3u8
-#EXTINF:-1 tvg-name="凉山彝语" tvg-logo="https://live.fanmingming.cn/tv/凉山彝语.png" group-title="蜀小果",凉山彝语
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/yyzh_2000.m3u8
-#EXTINF:-1 tvg-name="德昌综合" tvg-logo="https://live.fanmingming.cn/tv/德昌综合.png" group-title="蜀小果",德昌综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dcxw_4000.m3u8
-#EXTINF:-1 tvg-name="会理新闻" tvg-logo="https://live.fanmingming.cn/tv/会理新闻.png" group-title="蜀小果",会理新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hlyt_4000.m3u8
-#EXTINF:-1 tvg-name="木里综合" tvg-logo="https://live.fanmingming.cn/tv/木里综合.png" group-title="蜀小果",木里综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/mltHD_4000.m3u8
-#EXTINF:-1 tvg-name="冕宁综合" tvg-logo="https://live.fanmingming.cn/tv/冕宁综合.png" group-title="蜀小果",冕宁综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/mnxw_2000.m3u8
-#EXTINF:-1 tvg-name="宁南综合" tvg-logo="https://live.fanmingming.cn/tv/宁南综合.png" group-title="蜀小果",宁南综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/nnt_4000.m3u8
-#EXTINF:-1 tvg-name="普格新闻" tvg-logo="https://live.fanmingming.cn/tv/普格新闻.png" group-title="蜀小果",普格新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/pgt_4000.m3u8
-#EXTINF:-1 tvg-name="西昌综合" tvg-logo="https://live.fanmingming.cn/tv/西昌综合.png" group-title="蜀小果",西昌综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xctHD_2000.m3u8
-#EXTINF:-1 tvg-name="喜德综合" tvg-logo="https://live.fanmingming.cn/tv/喜德综合.png" group-title="蜀小果",喜德综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/xdxw_4000.m3u8
-#EXTINF:-1 tvg-name="越西综合" tvg-logo="https://live.fanmingming.cn/tv/越西综合.png" group-title="蜀小果",越西综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxt_4000.m3u8
-#EXTINF:-1 tvg-name="资阳新闻" tvg-logo="https://live.fanmingming.cn/tv/资阳新闻.png" group-title="蜀小果",资阳新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zyxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="雁江综合" tvg-logo="https://live.fanmingming.cn/tv/雁江综合.png" group-title="蜀小果",雁江综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/yjxw_2000.m3u8
-#EXTINF:-1 tvg-name="安岳新闻" tvg-logo="https://live.fanmingming.cn/tv/安岳新闻.png" group-title="蜀小果",安岳新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ayxwzh_4000.m3u8
-#EXTINF:-1 tvg-name="乐至综合" tvg-logo="https://live.fanmingming.cn/tv/乐至综合.png" group-title="蜀小果",乐至综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lezhixwzh_4000.m3u8
-#EXTINF:-1 tvg-name="自贡新闻" tvg-logo="https://live.fanmingming.cn/tv/自贡新闻.png" group-title="蜀小果",自贡新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgxw_4000.m3u8
-#EXTINF:-1 tvg-name="自贡文化生活" tvg-logo="https://live.fanmingming.cn/tv/自贡文化生活.png" group-title="蜀小果",自贡文化生活
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zggg_4000.m3u8
-#EXTINF:-1 tvg-name="富顺综合" tvg-logo="https://live.fanmingming.cn/tv/富顺综合.png" group-title="蜀小果",富顺综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/fszh_2000.m3u8
-#EXTINF:-1 tvg-name="荣县综合" tvg-logo="https://live.fanmingming.cn/tv/荣县综合.png" group-title="蜀小果",荣县综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/rxzh_2000.m3u8
-#EXTINF:-1 tvg-name="甘孜新闻" tvg-logo="https://live.fanmingming.cn/tv/甘孜新闻.png" group-title="蜀小果",甘孜新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="泸定综合" tvg-logo="https://live.fanmingming.cn/tv/泸定综合.png" group-title="蜀小果",泸定综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ldxw_4000.m3u8
-#EXTINF:-1 tvg-name="康定综合" tvg-logo="https://live.fanmingming.cn/tv/康定综合.png" group-title="蜀小果",康定综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzkdxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="黑水新闻" tvg-logo="https://live.fanmingming.cn/tv/黑水新闻.png" group-title="蜀小果",黑水新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/hsxwzhpdH264_2000.m3u8
-#EXTINF:-1 tvg-name="马尔康新闻" tvg-logo="https://live.fanmingming.cn/tv/马尔康新闻.png" group-title="蜀小果",马尔康新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/mekxwzhpd_2000.m3u8
-#EXTINF:-1 tvg-name="松潘新闻" tvg-logo="https://live.fanmingming.cn/tv/松潘新闻.png" group-title="蜀小果",松潘新闻
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/spxwzhpdH264_2000.m3u8
-#EXTINF:-1 tvg-name="三台一套" tvg-logo="https://live.fanmingming.cn/tv/三台一套.png" group-title="蜀小果",三台一套
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/stxwHD_2000.m3u8
-#EXTINF:-1 tvg-name="高县一套" tvg-logo="https://live.fanmingming.cn/tv/高县一套.png" group-title="蜀小果",高县一套
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxt_2000.m3u8
-#EXTINF:-1 tvg-name="峨眉山综合" tvg-logo="https://live.fanmingming.cn/tv/峨眉山综合.png" group-title="蜀小果",峨眉山综合
-http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/emsxw_2000.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="蜀小果",CCTV-1综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="蜀小果",CCTV-2财经
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="蜀小果",CCTV-3综艺
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="蜀小果",CCTV-4中文国际
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="蜀小果",CCTV-4K超高清
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="蜀小果",CCTV-5体育
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="蜀小果",CCTV-5+体育赛事
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="蜀小果",CCTV-6电影
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="蜀小果",CCTV-7国防军事
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="蜀小果",CCTV-8电视剧
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="蜀小果",CCTV-9纪录
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="蜀小果",CCTV-10科教
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="蜀小果",CCTV-11戏曲
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="蜀小果",CCTV-12社会与法
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="蜀小果",CCTV-13新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="蜀小果",CCTV-14少儿
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="蜀小果",CCTV-15音乐
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="蜀小果",CCTV-16奥林匹克
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="蜀小果",CCTV-16奥林匹克
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="蜀小果",CCTV-17农业农村
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN.png" group-title="蜀小果",CGTN
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CGTN_4000.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN西语.png" group-title="蜀小果",CGTN西语
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xbyy_2000.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN法语.png" group-title="蜀小果",CGTN法语
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/fy_2000.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN俄语.png" group-title="蜀小果",CGTN俄语
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ey_2000.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视.png" group-title="蜀小果",北京卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="蜀小果",东方卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天津卫视.png" group-title="蜀小果",天津卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/重庆卫视.png" group-title="蜀小果",重庆卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/黑龙江卫视.png" group-title="蜀小果",黑龙江卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="蜀小果",吉林卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/辽宁卫视.png" group-title="蜀小果",辽宁卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/内蒙古卫视.png" group-title="蜀小果",内蒙古卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/nmgws_4000.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/甘肃卫视.png" group-title="蜀小果",甘肃卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青海卫视.png" group-title="蜀小果",青海卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qhwsH264_2000.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西卫视.png" group-title="蜀小果",陕西卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山西卫视.png" group-title="蜀小果",山西卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws42_4000.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="蜀小果",山东卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/安徽卫视.png" group-title="蜀小果",安徽卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河南卫视.png" group-title="蜀小果",河南卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖北卫视.png" group-title="蜀小果",湖北卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" group-title="蜀小果",湖南卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江西卫视.png" group-title="蜀小果",江西卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="蜀小果",江苏卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png" group-title="蜀小果",浙江卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png" group-title="蜀小果",东南卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dnwsfjwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="蜀小果",广东卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/深圳卫视.png" group-title="蜀小果",深圳卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广西卫视.png" group-title="蜀小果",广西卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxws_4000.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png" group-title="蜀小果",云南卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/贵州卫视.png" group-title="蜀小果",贵州卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川卫视.png" group-title="蜀小果",四川卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/康巴卫视.png" group-title="蜀小果",康巴卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/kbwsH264_2000.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新疆卫视.png" group-title="蜀小果",新疆卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/兵团卫视.png" group-title="蜀小果",兵团卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/btws_4000.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/西藏卫视.png" group-title="蜀小果",西藏卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png" group-title="蜀小果",海南卫视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws_4000.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="蜀小果",卡酷少儿
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金鹰卡通.png" group-title="蜀小果",金鹰卡通
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/嘉佳卡通.png" group-title="蜀小果",嘉佳卡通
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8
+#EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/成都少儿.png" group-title="蜀小果",成都少儿
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-6_2000.m3u8
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川经济.png" group-title="蜀小果",四川经济
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-2-H265_4000.m3u8
+#EXTINF:-1 tvg-name="四川文化" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川文化.png" group-title="蜀小果",四川文化
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-3-H265_4000.m3u8
+#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川新闻.png" group-title="蜀小果",四川新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-4H265_4000.m3u8
+#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川影视.png" group-title="蜀小果",四川影视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-5-scysH265_4000.m3u8
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川科教.png" group-title="蜀小果",四川科教
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-ggSCTV-8_4000.m3u8
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川乡村.png" group-title="蜀小果",四川乡村
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-kjSCTV-9-_4000.m3u8
+#EXTINF:-1 tvg-name="峨嵋电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/峨嵋电影.png" group-title="蜀小果",峨嵋电影
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8
+#EXTINF:-1 tvg-name="峨眉电影4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/峨眉电影4K.png" group-title="蜀小果",峨眉电影4K
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000
+#EXTINF:-1 tvg-name="成都新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/成都新闻.png" group-title="蜀小果",成都新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-1_4000.m3u8
+#EXTINF:-1 tvg-name="成都经济" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/成都经济.png" group-title="蜀小果",成都经济
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-2_4000.m3u8
+#EXTINF:-1 tvg-name="成都都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/成都都市.png" group-title="蜀小果",成都都市
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-3_4000.m3u8
+#EXTINF:-1 tvg-name="成都影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/成都影视.png" group-title="蜀小果",成都影视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-4_4000.m3u8
+#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/成都公共.png" group-title="蜀小果",成都公共
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-5_4000.m3u8
+#EXTINF:-1 tvg-name="成都购物" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/成都购物.png" group-title="蜀小果",成都购物
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000.m3u8
+#EXTINF:-1 tvg-name="成都高新" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/成都高新.png" group-title="蜀小果",成都高新
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_2000.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC影迷电影.png" group-title="蜀小果",CHC影迷电影
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC动作电影.png" group-title="蜀小果",CHC动作电影
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC家庭影院.png" group-title="蜀小果",CHC家庭影院
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1 tvg-name="中央新影-老故事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中央新影-老故事.png" group-title="蜀小果",中央新影-老故事
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lgs_2000.m3u8
+#EXTINF:-1 tvg-name="中央新影-中学生" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中央新影-中学生.png" group-title="蜀小果",中央新影-中学生
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zxs_4000.m3u8
+#EXTINF:-1 tvg-name="中央新影-发现之旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中央新影-发现之旅.png" group-title="蜀小果",中央新影-发现之旅
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/fxzl_2000.m3u8
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/书画频道.png" group-title="蜀小果",书画频道
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/sh_4000.m3u8
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中国天气.png" group-title="蜀小果",中国天气
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/重温经典.png" group-title="蜀小果",重温经典
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV1.png" group-title="蜀小果",CETV1
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV2.png" group-title="蜀小果",CETV2
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-2_4000.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV4.png" group-title="蜀小果",CETV4
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264_2000.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四海钓鱼.png" group-title="蜀小果",四海钓鱼
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8
+#EXTINF:-1 tvg-name="车迷" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/车迷.png" group-title="蜀小果",车迷
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/cmpdH264_2000.m3u8
+#EXTINF:-1 tvg-name="证劵服务" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/证劵服务.png" group-title="蜀小果",证劵服务
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jz_2000.m3u8
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/聚鲨环球精选.png" group-title="蜀小果",聚鲨环球精选
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hqgw_4000.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/动漫秀场.png" group-title="蜀小果",动漫秀场
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/yybb-dmxc-H265_4000.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/都市剧场.png" group-title="蜀小果",都市剧场
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxfydsjcHDH265_4000.m3u8
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/法治天地.png" group-title="蜀小果",法治天地
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/fztx_4000.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/欢笑剧场.png" group-title="蜀小果",欢笑剧场
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_8000
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/乐游.png" group-title="蜀小果",乐游
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qjs-HDH265_4000.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/魅力足球.png" group-title="蜀小果",魅力足球
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/mlyy_4000.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/生活时尚.png" group-title="蜀小果",生活时尚
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/shssH265_4000.m3u8
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新视觉.png" group-title="蜀小果",新视觉
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/汽摩.png" group-title="蜀小果",汽摩
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qmpdH264_2000.m3u8
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/家有购物.png" group-title="蜀小果",家有购物
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jygw_4000.m3u8
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/家庭理财.png" group-title="蜀小果",家庭理财
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jtlc_4000.m3u8
+#EXTINF:-1 tvg-name="优购物" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优购物.png" group-title="蜀小果",优购物
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ygw_4000.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文.png" group-title="蜀小果",凤凰中文
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="蜀小果",凤凰资讯
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/梨园频道.png" group-title="蜀小果",梨园频道
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ly_4000.m3u8
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/武术世界.png" group-title="蜀小果",武术世界
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/wssj_4000.m3u8
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/文物宝库.png" group-title="蜀小果",文物宝库
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/wwbk_4000.m3u8
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/茶频道.png" group-title="蜀小果",茶频道
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/cpd_4000.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金鹰纪实.png" group-title="蜀小果",金鹰纪实
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyjsHDH265_4000.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京纪实科教.png" group-title="蜀小果",北京纪实科教
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjjs_2000.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/快乐垂钓.png" group-title="蜀小果",快乐垂钓
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/先锋乒羽.png" group-title="蜀小果",先锋乒羽
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xfpy_4000.m3u8
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/财富天下.png" group-title="蜀小果",财富天下
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/cftx_4000.m3u8
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天元围棋.png" group-title="蜀小果",天元围棋
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
+#EXTINF:-1 tvg-name="精品导视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/精品导视.png" group-title="蜀小果",精品导视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jpdsH265_4000.m3u8
+#EXTINF:-1 tvg-name="精品导视2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/精品导视2.png" group-title="蜀小果",精品导视2
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jpdsgq-hkkp_4000.m3u8
+#EXTINF:-1 tvg-name="川网导视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/川网导视.png" group-title="蜀小果",川网导视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/cwdsHDH264_4000.m3u8
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方财经.png" group-title="蜀小果",东方财经
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfcj_4000.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东教育.png" group-title="蜀小果",山东教育
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdjy_4000.m3u8
+#EXTINF:-1 tvg-name="青羊电视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青羊电视.png" group-title="蜀小果",青羊电视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qyzh_4000.m3u8
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/央广购物.png" group-title="蜀小果",央广购物
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/yggw_2000.m3u8
+#EXTINF:-1 tvg-name="崇州" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/崇州.png" group-title="蜀小果",崇州
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/czyt_4000.m3u8
+#EXTINF:-1 tvg-name="大邑" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/大邑.png" group-title="蜀小果",大邑
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dyytH265_4000.m3u8
+#EXTINF:-1 tvg-name="都江堰综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/都江堰综合.png" group-title="蜀小果",都江堰综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/djyzh_4000.m3u8
+#EXTINF:-1 tvg-name="金牛综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金牛综合.png" group-title="蜀小果",金牛综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jnyx_2000.m3u8
+#EXTINF:-1 tvg-name="金堂" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金堂.png" group-title="蜀小果",金堂
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jtzhpd_2000.m3u8
+#EXTINF:-1 tvg-name="简阳新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/简阳新闻.png" group-title="蜀小果",简阳新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="龙泉新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/龙泉新闻.png" group-title="蜀小果",龙泉新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lqxw_2000.m3u8
+#EXTINF:-1 tvg-name="郫都新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/郫都新闻.png" group-title="蜀小果",郫都新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pxds1_2000.m3u8
+#EXTINF:-1 tvg-name="蒲江综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/蒲江综合.png" group-title="蜀小果",蒲江综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pjxw_4000.m3u8
+#EXTINF:-1 tvg-name="彭州综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/彭州综合.png" group-title="蜀小果",彭州综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pzxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="青白江综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青白江综合.png" group-title="蜀小果",青白江综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qbjxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="邛崃综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/邛崃综合.png" group-title="蜀小果",邛崃综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qlds1t_2000.m3u8
+#EXTINF:-1 tvg-name="双流综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/双流综合.png" group-title="蜀小果",双流综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/slgq_2000.m3u8
+#EXTINF:-1 tvg-name="温江新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/温江新闻.png" group-title="蜀小果",温江新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/wjytH264_2000.m3u8
+#EXTINF:-1 tvg-name="新都综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新都综合.png" group-title="蜀小果",新都综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xdzhpd_2000.m3u8
+#EXTINF:-1 tvg-name="新津综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新津综合.png" group-title="蜀小果",新津综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjzh_4000.m3u8
+#EXTINF:-1 tvg-name="绵阳新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/绵阳新闻.png" group-title="蜀小果",绵阳新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/myytH265_4000.m3u8
+#EXTINF:-1 tvg-name="绵阳科技" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/绵阳科技.png" group-title="蜀小果",绵阳科技
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/myetH265_4000.m3u8
+#EXTINF:-1 tvg-name="安州综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/安州综合.png" group-title="蜀小果",安州综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/azgq_2000.m3u8
+#EXTINF:-1 tvg-name="北川综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北川综合.png" group-title="蜀小果",北川综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/bcxwHD_2000.m3u8
+#EXTINF:-1 tvg-name="涪城综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/涪城综合.png" group-title="蜀小果",涪城综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/fcgq_2000.m3u8
+#EXTINF:-1 tvg-name="江油综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江油综合.png" group-title="蜀小果",江油综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwHD_2000.m3u8
+#EXTINF:-1 tvg-name="平武综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/平武综合.png" group-title="蜀小果",平武综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pwgq_4000.m3u8
+#EXTINF:-1 tvg-name="盐亭综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/盐亭综合.png" group-title="蜀小果",盐亭综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ytzh_2000.m3u8
+#EXTINF:-1 tvg-name="梓潼综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/梓潼综合.png" group-title="蜀小果",梓潼综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ztgq_2000.m3u8
+#EXTINF:-1 tvg-name="攀枝花新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/攀枝花新闻.png" group-title="蜀小果",攀枝花新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pzhytH265_4000.m3u8
+#EXTINF:-1 tvg-name="攀枝花文旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/攀枝花文旅.png" group-title="蜀小果",攀枝花文旅
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pzhggpd_2000.m3u8
+#EXTINF:-1 tvg-name="攀钢新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/攀钢新闻.png" group-title="蜀小果",攀钢新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pgxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="米易综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/米易综合.png" group-title="蜀小果",米易综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/myxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="盐边综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/盐边综合.png" group-title="蜀小果",盐边综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybtgq_2000.m3u8
+#EXTINF:-1 tvg-name="仁和新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/仁和新闻.png" group-title="蜀小果",仁和新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/rhxwH264_2000.m3u8
+#EXTINF:-1 tvg-name="广元综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广元综合.png" group-title="蜀小果",广元综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gyzhH265_4000.m3u8
+#EXTINF:-1 tvg-name="广元文化生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广元文化生活.png" group-title="蜀小果",广元文化生活
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gyggH265_4000.m3u8
+#EXTINF:-1 tvg-name="朝天综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/朝天综合.png" group-title="蜀小果",朝天综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ctxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="苍溪综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苍溪综合.png" group-title="蜀小果",苍溪综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/cxxwgqH265_4000.m3u8
+#EXTINF:-1 tvg-name="剑阁综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/剑阁综合.png" group-title="蜀小果",剑阁综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jgxwzhH265_4000.m3u8
+#EXTINF:-1 tvg-name="利州综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/利州综合.png" group-title="蜀小果",利州综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lzxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="青川综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青川综合.png" group-title="蜀小果",青川综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qcxwzhH265_4000.m3u8
+#EXTINF:-1 tvg-name="旺苍新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/旺苍新闻.png" group-title="蜀小果",旺苍新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/wcxwzhH265_4000.m3u8
+#EXTINF:-1 tvg-name="昭化综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/昭化综合.png" group-title="蜀小果",昭化综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zhxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="古蔺新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/古蔺新闻.png" group-title="蜀小果",古蔺新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/glxwzhgq_2000.m3u8
+#EXTINF:-1 tvg-name="合江新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/合江新闻.png" group-title="蜀小果",合江新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hjxw_2000.m3u8
+#EXTINF:-1 tvg-name="泸县综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/泸县综合.png" group-title="蜀小果",泸县综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lxxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="纳溪" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/纳溪.png" group-title="蜀小果",纳溪
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/nxxw_2000.m3u8
+#EXTINF:-1 tvg-name="叙永综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/叙永综合.png" group-title="蜀小果",叙永综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xyxw_2000.m3u8
+#EXTINF:-1 tvg-name="德阳新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/德阳新闻.png" group-title="蜀小果",德阳新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dyxwgq-HD-_2000.m3u8
+#EXTINF:-1 tvg-name="德阳文旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/德阳文旅.png" group-title="蜀小果",德阳文旅
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dygggq-HD-_2000.m3u8
+#EXTINF:-1 tvg-name="广汉综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广汉综合.png" group-title="蜀小果",广汉综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ghxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="旌阳综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/旌阳综合.png" group-title="蜀小果",旌阳综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwgq-HD-_2000.m3u8
+#EXTINF:-1 tvg-name="罗江综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/罗江综合.png" group-title="蜀小果",罗江综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ljxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="绵竹综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/绵竹综合.png" group-title="蜀小果",绵竹综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/mzxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="中江新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中江新闻.png" group-title="蜀小果",中江新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="宜宾新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宜宾新闻.png" group-title="蜀小果",宜宾新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybytH264_2000.m3u8
+#EXTINF:-1 tvg-name="宜宾公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宜宾公共.png" group-title="蜀小果",宜宾公共
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybetH264_2000.m3u8
+#EXTINF:-1 tvg-name="宜宾导视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宜宾导视.png" group-title="蜀小果",宜宾导视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybds_2000.m3u8
+#EXTINF:-1 tvg-name="珙县新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/珙县新闻.png" group-title="蜀小果",珙县新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxzh_2000.m3u8
+#EXTINF:-1 tvg-name="江安综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江安综合.png" group-title="蜀小果",江安综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jat_2000.m3u8
+#EXTINF:-1 tvg-name="南溪综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南溪综合.png" group-title="蜀小果",南溪综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/nxt_2000.m3u8
+#EXTINF:-1 tvg-name="屏山新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/屏山新闻.png" group-title="蜀小果",屏山新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/psxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="兴文综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/兴文综合.png" group-title="蜀小果",兴文综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xwt_2000.m3u8
+#EXTINF:-1 tvg-name="叙州新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/叙州新闻.png" group-title="蜀小果",叙州新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybx_2000.m3u8
+#EXTINF:-1 tvg-name="筠连新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/筠连新闻.png" group-title="蜀小果",筠连新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ylyt_2000.m3u8
+#EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/长宁综合.png" group-title="蜀小果",长宁综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/znzh_2000.m3u8
+#EXTINF:-1 tvg-name="宁新综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宁新综合.png" group-title="蜀小果",宁新综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/snxwzhHDH265_4000.m3u8
+#EXTINF:-1 tvg-name="遂宁文化" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/遂宁文化.png" group-title="蜀小果",遂宁文化
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/sngggq_2000.m3u8
+#EXTINF:-1 tvg-name="安居综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/安居综合.png" group-title="蜀小果",安居综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ajxw_2000.m3u8
+#EXTINF:-1 tvg-name="大英新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/大英新闻.png" group-title="蜀小果",大英新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dyxwzhH265_4000.m3u8
+#EXTINF:-1 tvg-name="蓬溪新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/蓬溪新闻.png" group-title="蜀小果",蓬溪新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pxxw_2000.m3u8
+#EXTINF:-1 tvg-name="乐山新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/乐山新闻.png" group-title="蜀小果",乐山新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsxwzh_4000.m3u8
+#EXTINF:-1 tvg-name="乐山文旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/乐山文旅.png" group-title="蜀小果",乐山文旅
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsggpd_4000.m3u8
+#EXTINF:-1 tvg-name="峨边综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/峨边综合.png" group-title="蜀小果",峨边综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ebdst_2000.m3u8
+#EXTINF:-1 tvg-name="夹江新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/夹江新闻.png" group-title="蜀小果",夹江新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjxw_2000.m3u8
+#EXTINF:-1 tvg-name="金口河综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金口河综合.png" group-title="蜀小果",金口河综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jkhdst_2000.m3u8
+#EXTINF:-1 tvg-name="井研新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/井研新闻.png" group-title="蜀小果",井研新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwzh162_2000.m3u8
+#EXTINF:-1 tvg-name="马边综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/马边综合.png" group-title="蜀小果",马边综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/mbxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="沐川综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/沐川综合.png" group-title="蜀小果",沐川综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/mcxw_2000.m3u8
+#EXTINF:-1 tvg-name="犍为新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/犍为新闻.png" group-title="蜀小果",犍为新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qwxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="沙湾融媒" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/沙湾融媒.png" group-title="蜀小果",沙湾融媒
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/swxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="五通桥综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/五通桥综合.png" group-title="蜀小果",五通桥综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/wtqxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="内江综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/内江综合.png" group-title="蜀小果",内江综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/njzh_4000.m3u8
+#EXTINF:-1 tvg-name="内江公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/内江公共.png" group-title="蜀小果",内江公共
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/njgg_4000.m3u8
+#EXTINF:-1 tvg-name="东兴综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东兴综合.png" group-title="蜀小果",东兴综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dxxwzh_4000.m3u8
+#EXTINF:-1 tvg-name="隆昌综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/隆昌综合.png" group-title="蜀小果",隆昌综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lcxw_2000.m3u8
+#EXTINF:-1 tvg-name="资中综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/资中综合.png" group-title="蜀小果",资中综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zzzh_2000.m3u8
+#EXTINF:-1 tvg-name="南充综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南充综合.png" group-title="蜀小果",南充综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ncxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="南充科教" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南充科教.png" group-title="蜀小果",南充科教
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/nckj_4000.m3u8
+#EXTINF:-1 tvg-name="阆中综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/阆中综合.png" group-title="蜀小果",阆中综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lzxw_2000.m3u8
+#EXTINF:-1 tvg-name="南部综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南部综合.png" group-title="蜀小果",南部综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/nbxw_2000.m3u8
+#EXTINF:-1 tvg-name="蓬安综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/蓬安综合.png" group-title="蜀小果",蓬安综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pazh_2000.m3u8
+#EXTINF:-1 tvg-name="西充新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/西充新闻.png" group-title="蜀小果",西充新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xczh_2000.m3u8
+#EXTINF:-1 tvg-name="仪陇新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/仪陇新闻.png" group-title="蜀小果",仪陇新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ylxw_2000.m3u8
+#EXTINF:-1 tvg-name="营山综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/营山综合.png" group-title="蜀小果",营山综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ysxw_2000.m3u8
+#EXTINF:-1 tvg-name="达州新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/达州新闻.png" group-title="蜀小果",达州新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="达州文化" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/达州文化.png" group-title="蜀小果",达州文化
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzgg_2000.m3u8
+#EXTINF:-1 tvg-name="达州导视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/达州导视.png" group-title="蜀小果",达州导视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzds_2000.m3u8
+#EXTINF:-1 tvg-name="达川新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/达川新闻.png" group-title="蜀小果",达川新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dcxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="大竹新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/大竹新闻.png" group-title="蜀小果",大竹新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzxwzh137_2000.m3u8
+#EXTINF:-1 tvg-name="开江新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/开江新闻.png" group-title="蜀小果",开江新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/kjxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="渠县新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/渠县新闻.png" group-title="蜀小果",渠县新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qxxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="通川综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/通川综合.png" group-title="蜀小果",通川综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xcxwzhH264_2000.m3u8
+#EXTINF:-1 tvg-name="万源综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/万源综合.png" group-title="蜀小果",万源综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/wyxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="宣汉新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宣汉新闻.png" group-title="蜀小果",宣汉新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xhxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="雅安新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/雅安新闻.png" group-title="蜀小果",雅安新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/yazh_2000.m3u8
+#EXTINF:-1 tvg-name="雅安公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/雅安公共.png" group-title="蜀小果",雅安公共
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/yagg_2000.m3u8
+#EXTINF:-1 tvg-name="雅安雨城" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/雅安雨城.png" group-title="蜀小果",雅安雨城
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycpd_2000.m3u8
+#EXTINF:-1 tvg-name="宝兴综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宝兴综合.png" group-title="蜀小果",宝兴综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/bxdst_2000.m3u8
+#EXTINF:-1 tvg-name="汉源新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/汉源新闻.png" group-title="蜀小果",汉源新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hyxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="芦山新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/芦山新闻.png" group-title="蜀小果",芦山新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lszh_2000.m3u8
+#EXTINF:-1 tvg-name="名山综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/名山综合.png" group-title="蜀小果",名山综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/msdstH265_2000.m3u8
+#EXTINF:-1 tvg-name="石棉综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/石棉综合.png" group-title="蜀小果",石棉综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/smxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="天全新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天全新闻.png" group-title="蜀小果",天全新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/tqzh_2000.m3u8
+#EXTINF:-1 tvg-name="荥经综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/荥经综合.png" group-title="蜀小果",荥经综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjdst_2000.m3u8
+#EXTINF:-1 tvg-name="广安公共" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广安公共.png" group-title="蜀小果",广安公共
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gagg_2000.m3u8
+#EXTINF:-1 tvg-name="广安区综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广安区综合.png" group-title="蜀小果",广安区综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gaqxw_2000.m3u8
+#EXTINF:-1 tvg-name="华蓥综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/华蓥综合.png" group-title="蜀小果",华蓥综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hyxw_2000.m3u8
+#EXTINF:-1 tvg-name="邻水综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/邻水综合.png" group-title="蜀小果",邻水综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsxw_2000.m3u8
+#EXTINF:-1 tvg-name="前锋综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/前锋综合.png" group-title="蜀小果",前锋综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qfxw_2000.m3u8
+#EXTINF:-1 tvg-name="武胜综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/武胜综合.png" group-title="蜀小果",武胜综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/wsxw_2000.m3u8
+#EXTINF:-1 tvg-name="岳池综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/岳池综合.png" group-title="蜀小果",岳池综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxw_2000.m3u8
+#EXTINF:-1 tvg-name="巴中综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/巴中综合.png" group-title="蜀小果",巴中综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/bzytH265_4000.m3u8
+#EXTINF:-1 tvg-name="巴中文旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/巴中文旅.png" group-title="蜀小果",巴中文旅
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/bzetH264_2000.m3u8
+#EXTINF:-1 tvg-name="巴州电视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/巴州电视.png" group-title="蜀小果",巴州电视
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/bzxw_4000.m3u8
+#EXTINF:-1 tvg-name="恩阳新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/恩阳新闻.png" group-title="蜀小果",恩阳新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/eyxw_2000.m3u8
+#EXTINF:-1 tvg-name="南江综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南江综合.png" group-title="蜀小果",南江综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/njxw_2000.m3u8
+#EXTINF:-1 tvg-name="平昌综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/平昌综合.png" group-title="蜀小果",平昌综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pcxw_2000.m3u8
+#EXTINF:-1 tvg-name="通江综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/通江综合.png" group-title="蜀小果",通江综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjxwH265_4000.m3u8
+#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/眉山综合.png" group-title="蜀小果",眉山综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/msxwzhgq_2000.m3u8
+#EXTINF:-1 tvg-name="眉山文旅乡村" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/眉山文旅乡村.png" group-title="蜀小果",眉山文旅乡村
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/msgg_2000.m3u8
+#EXTINF:-1 tvg-name="丹棱新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/丹棱新闻.png" group-title="蜀小果",丹棱新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dlxwzhH265_4000.m3u8
+#EXTINF:-1 tvg-name="洪雅新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/洪雅新闻.png" group-title="蜀小果",洪雅新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hyzh_2000.m3u8
+#EXTINF:-1 tvg-name="彭山综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/彭山综合.png" group-title="蜀小果",彭山综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pszh_2000.m3u8
+#EXTINF:-1 tvg-name="青神综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青神综合.png" group-title="蜀小果",青神综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/qszh_2000.m3u8
+#EXTINF:-1 tvg-name="仁寿综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/仁寿综合.png" group-title="蜀小果",仁寿综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/msrszh_2000.m3u8
+#EXTINF:-1 tvg-name="凉山新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凉山新闻.png" group-title="蜀小果",凉山新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsxwHDH265_4000.m3u8
+#EXTINF:-1 tvg-name="凉山彝语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凉山彝语.png" group-title="蜀小果",凉山彝语
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/yyzh_2000.m3u8
+#EXTINF:-1 tvg-name="德昌综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/德昌综合.png" group-title="蜀小果",德昌综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/dcxw_4000.m3u8
+#EXTINF:-1 tvg-name="会理新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/会理新闻.png" group-title="蜀小果",会理新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hlyt_4000.m3u8
+#EXTINF:-1 tvg-name="木里综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/木里综合.png" group-title="蜀小果",木里综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/mltHD_4000.m3u8
+#EXTINF:-1 tvg-name="冕宁综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/冕宁综合.png" group-title="蜀小果",冕宁综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/mnxw_2000.m3u8
+#EXTINF:-1 tvg-name="宁南综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宁南综合.png" group-title="蜀小果",宁南综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/nnt_4000.m3u8
+#EXTINF:-1 tvg-name="普格新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/普格新闻.png" group-title="蜀小果",普格新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/pgt_4000.m3u8
+#EXTINF:-1 tvg-name="西昌综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/西昌综合.png" group-title="蜀小果",西昌综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xctHD_2000.m3u8
+#EXTINF:-1 tvg-name="喜德综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/喜德综合.png" group-title="蜀小果",喜德综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xdxw_4000.m3u8
+#EXTINF:-1 tvg-name="越西综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/越西综合.png" group-title="蜀小果",越西综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxt_4000.m3u8
+#EXTINF:-1 tvg-name="资阳新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/资阳新闻.png" group-title="蜀小果",资阳新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zyxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="雁江综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/雁江综合.png" group-title="蜀小果",雁江综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/yjxw_2000.m3u8
+#EXTINF:-1 tvg-name="安岳新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/安岳新闻.png" group-title="蜀小果",安岳新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ayxwzh_4000.m3u8
+#EXTINF:-1 tvg-name="乐至综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/乐至综合.png" group-title="蜀小果",乐至综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/lezhixwzh_4000.m3u8
+#EXTINF:-1 tvg-name="自贡新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/自贡新闻.png" group-title="蜀小果",自贡新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgxw_4000.m3u8
+#EXTINF:-1 tvg-name="自贡文化生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/自贡文化生活.png" group-title="蜀小果",自贡文化生活
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zggg_4000.m3u8
+#EXTINF:-1 tvg-name="富顺综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/富顺综合.png" group-title="蜀小果",富顺综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/fszh_2000.m3u8
+#EXTINF:-1 tvg-name="荣县综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/荣县综合.png" group-title="蜀小果",荣县综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/rxzh_2000.m3u8
+#EXTINF:-1 tvg-name="甘孜新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/甘孜新闻.png" group-title="蜀小果",甘孜新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="泸定综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/泸定综合.png" group-title="蜀小果",泸定综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ldxw_4000.m3u8
+#EXTINF:-1 tvg-name="康定综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/康定综合.png" group-title="蜀小果",康定综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzkdxwzh_2000.m3u8
+#EXTINF:-1 tvg-name="黑水新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/黑水新闻.png" group-title="蜀小果",黑水新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hsxwzhpdH264_2000.m3u8
+#EXTINF:-1 tvg-name="马尔康新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/马尔康新闻.png" group-title="蜀小果",马尔康新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/mekxwzhpd_2000.m3u8
+#EXTINF:-1 tvg-name="松潘新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/松潘新闻.png" group-title="蜀小果",松潘新闻
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/spxwzhpdH264_2000.m3u8
+#EXTINF:-1 tvg-name="三台一套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/三台一套.png" group-title="蜀小果",三台一套
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/stxwHD_2000.m3u8
+#EXTINF:-1 tvg-name="高县一套" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/高县一套.png" group-title="蜀小果",高县一套
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxt_2000.m3u8
+#EXTINF:-1 tvg-name="峨眉山综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/峨眉山综合.png" group-title="蜀小果",峨眉山综合
+http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/emsxw_2000.m3u8
 
 #银河电视
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="银河电视",CCTV-1
