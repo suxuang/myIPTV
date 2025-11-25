@@ -1188,36 +1188,6 @@ https://0472.org/hls/cgtnd.m3u8
 http://106.53.99.30/tv/cctv13.php
 
 #BXTV频道
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/香港卫视.png" group-title="BXTV频道",香港卫视
-http://106.53.99.30/tv/hk.php?id=xgws
-#EXTINF:-1 tvg-name="香港国际卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/香港国际卫视.png" group-title="BXTV频道",香港国际卫视
-http://106.53.99.30/tv/hk.php?id=HKI
-#EXTINF:-1 tvg-name="凤凰中文高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文高清.png" group-title="BXTV频道",凤凰中文高清
-http://106.53.99.30/tv/hk.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰资讯高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯高清.png" group-title="BXTV频道",凤凰资讯高清
-http://106.53.99.30/tv/hk.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰香港高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港高清.png" group-title="BXTV频道",凤凰香港高清
-http://106.53.99.30/tv/hk.php?id=fhxg
-#EXTINF:-1 tvg-name="凤凰电影标清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰电影标清.png" group-title="BXTV频道",凤凰电影标清
-http://106.53.99.30/tv/hk.php?id=fhdy
-#EXTINF:-1 tvg-name="凤凰电影标清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰电影标清.png" group-title="BXTV频道",凤凰电影标清
-http://106.53.99.30/tv/hk.php?id=fhdy1
-#EXTINF:-1 tvg-name="凤凰中文高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文高清.png" group-title="BXTV频道",凤凰中文高清
-http://106.53.99.30/tv/hk.php?id=fhzw1
-#EXTINF:-1 tvg-name="凤凰资讯高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯高清.png" group-title="BXTV频道",凤凰资讯高清
-http://106.53.99.30/tv/hk.php?id=fhzx1
-#EXTINF:-1 tvg-name="凤凰香港高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港高清.png" group-title="BXTV频道",凤凰香港高清
-http://106.53.99.30/tv/hk.php?id=fhxg1
-#EXTINF:-1 tvg-name="凤凰中文高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文高清.png" group-title="BXTV频道",凤凰中文高清
-http://106.53.99.30/tv/hk.php?id=fhzw2
-#EXTINF:-1 tvg-name="凤凰资讯高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯高清.png" group-title="BXTV频道",凤凰资讯高清
-http://106.53.99.30/tv/hk.php?id=fhzx2
-#EXTINF:-1 tvg-name="凤凰香港高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港高清.png" group-title="BXTV频道",凤凰香港高清
-http://106.53.99.30/tv/hk.php?id=fhxg2
-#EXTINF:-1 tvg-name="无线翡翠高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/无线翡翠高清.png" group-title="BXTV频道",无线翡翠高清
-http://106.53.99.30/tv/hk.php?id=fct
-#EXTINF:-1 tvg-name="无线明珠高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/无线明珠高清.png" group-title="BXTV频道",无线明珠高清
-http://106.53.99.30/tv/hk.php?id=mzt
 #EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="BXTV频道",鳳凰衛視中文台
 http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="BXTV频道",鳳凰衛視資訊台
@@ -1228,6 +1198,8 @@ http://bxtv.3a.ink/api.php?id=fhhk
 http://bxtv.3a.ink/api.php?id=qxjd
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="BXTV频道",翡翠台
 http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="BXTV频道",翡翠高清
+https://test-al-livepull.migucloud.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJHUf2Rp12oP6KkG1PhQWJK.flv
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="BXTV频道",明珠台
 http://bxtv.3a.ink/api.php?id=mz
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://bxtv.3a.ink/logo/无线新闻.png" group-title="BXTV频道",無線新聞台
@@ -1244,12 +1216,12 @@ http://bxtv.3a.ink/api.php?id=popc
 http://bxtv.3a.ink/api.php?id=viutv
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="http://bxtv.3a.ink/logo/NOW新闻.png" group-title="BXTV频道",NOW新闻
 http://bxtv.3a.ink/api.php?id=now
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="http://bxtv.3a.ink/logo/NOW爆谷.png" group-title="BXTV频道",NOW爆谷
+https://bxtv.3a.ink/api.php?id=baogu
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="http://bxtv.3a.ink/logo/NOW爆谷星影台.png" group-title="BXTV频道",NOW爆谷星影台
+https://bxtv.3a.ink/api.php?id=xingying
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="BXTV频道",中天新聞台
 http://bxtv.3a.ink/api.php?id=ztxw
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://bxtv.3a.ink/logo/广东体育.png" group-title="BXTV频道",广东体育
-http://bxtv.3a.ink/api.php?id=gdty
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://bxtv.3a.ink/logo/广东珠江.png" group-title="BXTV频道",广东珠江
-http://bxtv.3a.ink/api.php?id=gdzj
 
 #港澳台频道
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
