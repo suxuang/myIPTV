@@ -1447,7 +1447,16 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台频道",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-
+#EXTINF:-1 tvg-name="NOW NEWS" tvg-logo="https://live.fanmingming.com/tv/NOWNEWS.png" group-title="港澳台频道",NOW NEWS
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://live.fanmingming.com/tv/澳视卫星.png" group-title="港澳台频道",澳视卫星
+https://cdn6.163189.xyz/163189/as
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台频道",澳视澳门
+https://cdn6.163189.xyz/163189/asam
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://live.fanmingming.com/tv/澳门体育.png" group-title="港澳台频道",澳门体育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.com/tv/澳门综艺.png" group-title="港澳台频道",澳门综艺
+http://cdn6.163189.xyz/163189/amzy
 
 #IHOT频道
 #EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱喜剧.png" group-title="IHOT频道",iHOT 爱喜剧
