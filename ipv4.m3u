@@ -827,6 +827,8 @@ http://r.jdshipin.com/NfC0f
 http://r.jdshipin.com/n2YZI
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/澳视卫星.png" group-title="港澳代理",澳视卫星
 http://r.jdshipin.com/QFhCq
+#EXTINF:-1 tvg-name="台湾+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/台湾+.png" group-title="港澳代理",台湾+
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳代理",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳代理",翡翠台
