@@ -255,6 +255,10 @@ https://www.wmviv.com/iptv/bc2t.php?id=cctv2
 https://www.wmviv.com/iptv/bc2t.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="咪咕央视",CCTV4
 https://www.wmviv.com/iptv/bc2t.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4美洲.png" group-title="咪咕央视",CCTV4美洲
+https://www.wmviv.com/iptv/bc2t.php?id=cctv4m
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4欧洲.png" group-title="咪咕央视",CCTV4欧洲
+https://www.wmviv.com/iptv/bc2t.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="咪咕央视",CCTV5
 https://www.wmviv.com/iptv/bc2t.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="咪咕央视",CCTV5+
@@ -283,6 +287,98 @@ https://www.wmviv.com/iptv/bc2t.php?id=cctv15
 https://www.wmviv.com/iptv/bc2t.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="咪咕央视",CCTV17
 https://www.wmviv.com/iptv/bc2t.php?id=cctv17
+#EXTINF:-1 tvg-name="CCTV发现之旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV发现之旅.png" group-title="咪咕央视",CCTV发现之旅
+http://www.wmviv.com/iptv/bc2t.php?id=fxzl
+#EXTINF:-1 tvg-name="CCTV老故事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV老故事.png" group-title="咪咕央视",CCTV老故事
+http://www.wmviv.com/iptv/bc2t.php?id=lgs
+#EXTINF:-1 tvg-name="CCTV中学生" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV中学生.png" group-title="咪咕央视",CCTV中学生
+http://www.wmviv.com/iptv/bc2t.php?id=zxs
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN.png" group-title="咪咕央视",CGTN
+http://www.wmviv.com/iptv/bc2t.php?id=cgtn
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN纪录.png" group-title="咪咕央视",CGTN纪录
+http://www.wmviv.com/iptv/bc2t.php?id=cgtnjl
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="咪咕央视",东方卫视
+http://www.wmviv.com/iptv/bc2t.php?id=dfws
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/重庆卫视.png" group-title="咪咕央视",重庆卫视
+http://www.wmviv.com/iptv/bc2t.php?id=cqws
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="咪咕央视",吉林卫视
+http://www.wmviv.com/iptv/bc2t.php?id=jlws
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/辽宁卫视.png" group-title="咪咕央视",辽宁卫视
+http://www.wmviv.com/iptv/bc2t.php?id=lnws
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/内蒙古卫视.png" group-title="咪咕央视",内蒙古卫视
+http://www.wmviv.com/iptv/bc2t.php?id=nmws
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png" group-title="咪咕央视",宁夏卫视
+http://www.wmviv.com/iptv/bc2t.php?id=nxws
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/甘肃卫视.png" group-title="咪咕央视",甘肃卫视
+http://www.wmviv.com/iptv/bc2t.php?id=gsws
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青海卫视.png" group-title="咪咕央视",青海卫视
+http://www.wmviv.com/iptv/bc2t.php?id=qhws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西卫视.png" group-title="咪咕央视",陕西卫视
+http://www.wmviv.com/iptv/bc2t.php?id=sxws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="咪咕央视",山东卫视
+http://www.wmviv.com/iptv/bc2t.php?id=sdws
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河南卫视.png" group-title="咪咕央视",河南卫视
+http://www.wmviv.com/iptv/bc2t.php?id=hnws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖北卫视.png" group-title="咪咕央视",湖北卫视
+http://www.wmviv.com/iptv/bc2t.php?id=hubws
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" group-title="咪咕央视",湖南卫视
+http://www.wmviv.com/iptv/bc2t.php?id=hunws
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江西卫视.png" group-title="咪咕央视",江西卫视
+http://www.wmviv.com/iptv/bc2t.php?id=jxws
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="咪咕央视",江苏卫视
+http://www.wmviv.com/iptv/bc2t.php?id=jsws
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png" group-title="咪咕央视",东南卫视
+http://www.wmviv.com/iptv/bc2t.php?id=dnws
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png" group-title="咪咕央视",海峡卫视
+http://www.wmviv.com/iptv/bc2t.php?id=hxws
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="咪咕央视",广东卫视
+http://www.wmviv.com/iptv/bc2t.php?id=gdws
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/大湾区卫视.png" group-title="咪咕央视",大湾区卫视
+http://www.wmviv.com/iptv/bc2t.php?id=dwqws
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广西卫视.png" group-title="咪咕央视",广西卫视
+http://www.wmviv.com/iptv/bc2t.php?id=gxws
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png" group-title="咪咕央视",云南卫视
+http://www.wmviv.com/iptv/bc2t.php?id=ynws
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/贵州卫视.png" group-title="咪咕央视",贵州卫视
+http://www.wmviv.com/iptv/bc2t.php?id=gzws
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新疆卫视.png" group-title="咪咕央视",新疆卫视
+http://www.wmviv.com/iptv/bc2t.php?id=xjws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/西藏卫视.png" group-title="咪咕央视",西藏卫视
+http://www.wmviv.com/iptv/bc2t.php?id=xzws
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png" group-title="咪咕央视",海南卫视
+http://www.wmviv.com/iptv/bc2t.php?id=hinws
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四海钓鱼.png" group-title="咪咕央视",四海钓鱼
+http://www.wmviv.com/iptv/bc2t.php?id=shdy
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC动作电影.png" group-title="咪咕央视",CHC动作电影
+http://www.wmviv.com/iptv/bc2t.php?id=chcdzdy
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC家庭影院.png" group-title="咪咕央视",CHC家庭影院
+http://www.wmviv.com/iptv/bc2t.php?id=chcjtdy
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方影视.png" group-title="咪咕央视",东方影视
+http://www.wmviv.com/iptv/bc2t.php?id=dfys
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海新闻综合.png" group-title="咪咕央视",上海新闻综合
+http://www.wmviv.com/iptv/bc2t.php?id=shxwzh
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海第一财经.png" group-title="咪咕央视",上海第一财经
+http://www.wmviv.com/iptv/bc2t.php?id=dycj
+#EXTINF:-1 tvg-name="上视纪实人文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上视纪实人文.png" group-title="咪咕央视",上视纪实人文
+http://www.wmviv.com/iptv/bc2t.php?id=shjsrw
+#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海外语.png" group-title="咪咕央视",上海外语
+http://www.wmviv.com/iptv/bc2t.php?id=shics
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/法治天地.png" group-title="咪咕央视",法治天地
+http://www.wmviv.com/iptv/bc2t.php?id=fztd
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/劲爆体育.png" group-title="咪咕央视",劲爆体育
+http://www.wmviv.com/iptv/bc2t.php?id=jbty
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/魅力足球.png" group-title="咪咕央视",魅力足球
+http://www.wmviv.com/iptv/bc2t.php?id=mlzq
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/乐游.png" group-title="咪咕央视",乐游
+http://www.wmviv.com/iptv/bc2t.php?id=ly
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/欢笑剧场.png" group-title="咪咕央视",欢笑剧场
+http://www.wmviv.com/iptv/bc2t.php?id=hxjc
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/七彩戏剧.png" group-title="咪咕央视",七彩戏剧
+http://www.wmviv.com/iptv/bc2t.php?id=qcxj
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/游戏风云.png" group-title="咪咕央视",游戏风云
+http://www.wmviv.com/iptv/bc2t.php?id=yxfy
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png" group-title="咪咕央视",优漫卡通
+http://www.wmviv.com/iptv/bc2t.php?id=ymkt
 
 #卫视频道
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",湖南卫视
