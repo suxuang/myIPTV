@@ -10,9 +10,9 @@
 
 ## 📺订阅地址
 
-🌐订阅链接-IPV4专用（推荐）：_https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u_
+🌐订阅链接-IPV4专用（推荐）：_https://gh-proxy.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u_
 
-🌐订阅链接-移动专用（简洁版）：_https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt_
+🌐订阅链接-移动专用（简洁版）：_https://gh-proxy.org/raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt_
 
 ## 💰打赏支持
 <p>
@@ -35,6 +35,8 @@
 IOS端：APTV （免费版可使用一套配置，支持epg和回看功能）
 
 ## 🆕更新日志
+
+- 2026/08/18：更新直播源地址
 
 - 2025/09/18：更新部分直播源，如果看不了就换个组
 
