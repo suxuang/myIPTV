@@ -1710,6 +1710,7 @@ https://live.ottiptv.cc/huya/11352960
 #http://dns.yiandrive.com:15907/huya/11352960
 #http://live.metshop.top/huya/11352960
 #http://www.52sw.top:678/play/huya.php?id=11352960
+#http://cdn.jdshipin.com:8880/huya.php?id=11352960
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/精绝古城.png" group-title="电视剧频道",鬼吹灯之精绝古城
 https://live.ottiptv.cc/huya/11352871
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png" group-title="电视剧频道",鬼吹灯之怒晴湘西
@@ -1773,59 +1774,60 @@ https://live.ottiptv.cc/huya/11352975
 
 #埋堆堆频道
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",楚汉骄雄
-http://cdn.jdshipin.com:8880/huya.php?id=29465854
+https://live.metshop.top/huya/29465854
+#http://cdn.jdshipin.com:8880/huya.php?id=29465854
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",寻秦记
-http://cdn.jdshipin.com:8880/huya.php?id=29465848
+https://live.metshop.top/huya/29465848
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",封神榜
-http://cdn.jdshipin.com:8880/huya.php?id=29465849
+https://live.metshop.top/huya/29465849
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",西游记2
-http://cdn.jdshipin.com:8880/huya.php?id=29465859
+https://live.metshop.top/huya/29465859
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",鹿鼎记
 https://live.ottiptv.cc/yy/28265277
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",大唐双龙传
-http://cdn.jdshipin.com:8880/huya.php?id=29465850
+https://live.metshop.top/huya/29465850
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",神雕侠侣
 http://live.ottiptv.cc/yy/1351762426
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",天龙八部
 https://live.ottiptv.cc/yy/1351814644
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",射雕英雄传
-http://cdn.jdshipin.com:8880/huya.php?id=23824164
+https://live.metshop.top/huya/23824164
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",倚天屠龙记
-http://cdn.jdshipin.com:8880/huya.php?id=23734246
+https://live.metshop.top/huya/23734246
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",笑傲江湖
-http://cdn.jdshipin.com:8880/huya.php?id=23865142
+https://live.metshop.top/huya/23865142
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",活佛济公3
-http://cdn.jdshipin.com:8880/huya.php?id=23903123
+https://live.metshop.top/huya/23903123
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",无心法师
-http://cdn.jdshipin.com:8880/huya.php?id=30080233
+https://live.metshop.top/huya/30080233
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",谈判专家
 https://live.ottiptv.cc/yy/1382735560
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",刑事侦缉档案
-http://cdn.jdshipin.com:8880/huya.php?id=29465856
+https://live.metshop.top/huya/29465856
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",法政先锋
-http://cdn.jdshipin.com:8880/huya.php?id=23863804
+https://live.metshop.top/huya/23863804
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",洗冤录
-http://cdn.jdshipin.com:8880/huya.php?id=29465851
+https://live.metshop.top/huya/29465851
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",陀枪师姐
-http://cdn.jdshipin.com:8880/huya.php?id=29465857
+https://live.metshop.top/huya/29465857
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",使徒行者
-http://cdn.jdshipin.com:8880/huya.php?id=23734256
+https://live.metshop.top/huya/23734256
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",鉴证实录
-http://cdn.jdshipin.com:8880/huya.php?id=23903183
+https://live.metshop.top/huya/23903183
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",金枝欲孽
-http://cdn.jdshipin.com:8880/huya.php?id=29465847
+https://live.metshop.top/huya/29465847
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",扫黄先锋
-http://cdn.jdshipin.com:8880/huya.php?id=29465855
+https://live.metshop.top/huya/29465855
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",创世纪
-http://cdn.jdshipin.com:8880/huya.php?id=29465852
+https://live.metshop.top/huya/29465852
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",妙手仁心
-http://cdn.jdshipin.com:8880/huya.php?id=29465853
+https://live.metshop.top/huya/29465853
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",大时代
-http://cdn.jdshipin.com:8880/huya.php?id=23865161
+https://live.metshop.top/huya/23865161
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",野蛮亲家
-http://cdn.jdshipin.com:8880/huya.php?id=23863796
+https://live.metshop.top/huya/23863796
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",笑看风云
-http://cdn.jdshipin.com:8880/huya.php?id=29465858
+https://live.metshop.top/huya/29465858
 
 #点播电影
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="点播电影",倩女幽魂妖魔道
